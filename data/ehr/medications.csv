@@ -1,0 +1,722 @@
+PATIENT,START,STOP,DESCRIPTION,CLASS,INDICATION
+HT-0001,2025-08-26,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0002,2024-10-14,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0003,2021-09-02,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0004,2022-01-15,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0004,2026-01-17,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0005,2021-01-17,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0005,2021-12-18,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0005,2021-07-20,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0006,2022-04-27,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0006,2023-10-02,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0007,2024-05-25,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0008,2023-11-25,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0009,2021-04-12,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0009,2022-12-31,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0010,2025-11-11,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0010,2023-11-13,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0011,2023-08-06,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0011,2021-01-11,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0012,2024-09-28,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0012,2025-02-21,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0012,2021-12-01,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0013,2021-04-30,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0013,2025-07-08,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0014,2024-10-22,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0014,2024-06-20,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0015,2024-04-15,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0016,2022-04-26,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0017,2024-11-18,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0018,2023-01-01,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0018,2023-03-06,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0018,2023-09-12,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0019,2022-02-19,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0019,2022-03-02,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0019,2021-08-31,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0020,2024-02-03,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0020,2025-08-27,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0021,2022-05-19,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0022,2024-09-05,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0023,2021-06-04,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0024,2023-06-08,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0025,2024-09-08,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0025,2021-04-15,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0026,2023-11-02,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0027,2021-08-09,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0027,2023-05-08,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0028,2024-03-09,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0028,2023-12-13,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0029,2023-07-16,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0029,2025-03-04,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0030,2025-07-27,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0030,2021-03-02,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0031,2024-06-10,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0032,2022-07-14,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0032,2021-04-06,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0033,2022-05-19,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0034,2021-01-26,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0034,2023-05-12,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0034,2021-07-06,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0035,2023-03-15,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0035,2026-03-04,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0036,2025-09-20,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0037,2021-07-02,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0038,2022-10-21,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0039,2022-02-15,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0039,2024-01-17,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0040,2022-12-02,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0040,2022-09-25,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0041,2025-01-27,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0041,2024-04-27,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0041,2023-07-15,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0042,2025-04-24,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0042,2021-11-04,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0042,2025-06-09,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0043,2024-09-11,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0044,2022-06-22,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0044,2026-01-29,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0045,2021-12-09,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0045,2022-02-13,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0045,2024-08-14,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0046,2022-02-19,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0046,2025-06-01,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0047,2024-03-15,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0047,2022-07-20,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0048,2025-04-11,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0049,2025-04-26,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0049,2024-03-27,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0050,2024-06-20,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0050,2024-07-15,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0051,2022-03-10,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0052,2021-09-29,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0052,2023-06-06,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0052,2022-06-20,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0053,2023-09-19,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0053,2024-03-05,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0054,2025-09-08,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0054,2021-08-20,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0055,2021-05-11,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0055,2025-01-08,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0056,2024-05-21,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0056,2022-11-18,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0056,2022-01-16,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0056,2021-12-17,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0057,2021-03-23,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0057,2025-09-15,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0058,2022-02-23,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0058,2023-01-05,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0058,2021-10-03,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0059,2021-12-22,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0059,2023-05-07,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0059,2024-11-29,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0060,2025-03-29,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0060,2026-01-09,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0060,2025-06-22,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0061,2022-03-07,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0061,2025-01-13,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0062,2025-12-12,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0062,2024-03-08,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0063,2024-02-11,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0063,2023-05-28,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0064,2023-10-12,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0064,2025-05-27,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0065,2023-12-13,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0065,2026-01-30,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0066,2024-10-14,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0066,2022-02-06,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0066,2021-12-20,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0066,2021-10-10,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0067,2021-12-03,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0067,2023-12-27,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0068,2024-01-16,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0068,2023-11-08,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0069,2021-09-18,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0070,2021-05-17,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0071,2025-09-29,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0071,2022-05-13,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0072,2025-04-29,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0073,2025-09-07,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0074,2022-10-10,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0074,2024-01-17,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0075,2021-10-03,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0075,2025-06-15,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0076,2022-03-27,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0077,2025-06-10,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0078,2021-05-30,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0078,2024-12-31,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0079,2025-08-16,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0080,2021-07-23,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0081,2024-11-29,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0081,2024-08-30,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0082,2025-12-08,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0083,2021-06-26,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0083,2022-11-12,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0084,2023-01-27,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0084,2022-09-27,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0084,2025-11-19,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0085,2026-04-01,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0085,2026-02-27,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0085,2025-07-21,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0086,2024-04-26,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0086,2024-07-11,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0087,2026-04-06,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0087,2021-11-19,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0088,2024-10-25,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0089,2024-10-29,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0089,2024-04-15,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0090,2022-11-26,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0091,2022-06-08,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0092,2023-11-09,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0092,2024-05-01,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0093,2021-07-11,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0094,2025-08-08,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0094,2023-10-31,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0095,2021-09-05,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0095,2024-01-18,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0096,2022-03-16,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0097,2026-02-05,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0097,2025-03-21,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0097,2023-01-09,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0098,2025-10-22,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0098,2026-01-31,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0099,2023-06-21,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0099,2026-04-16,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0100,2022-12-04,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0100,2025-05-03,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0101,2025-02-21,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0102,2025-11-24,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0103,2022-07-10,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0103,2022-06-05,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0103,2021-12-14,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0104,2023-05-21,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0104,2023-02-09,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0104,2021-04-10,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0105,2022-08-17,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0106,2025-11-26,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0106,2024-06-07,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0107,2023-05-28,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0107,2025-09-08,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0108,2022-10-18,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0108,2025-01-27,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0108,2022-01-18,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0109,2022-01-04,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0110,2024-03-18,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0111,2021-06-19,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0111,2025-12-11,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0112,2022-12-02,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0113,2021-04-18,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0114,2023-03-30,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0115,2021-07-05,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0116,2025-06-27,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0116,2021-10-17,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0117,2023-09-27,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0117,2023-05-29,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0117,2021-02-07,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0118,2025-04-16,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0118,2023-11-11,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0119,2021-11-04,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0119,2021-11-27,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0120,2024-04-20,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0120,2022-08-24,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0121,2021-09-11,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0122,2021-04-13,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0123,2024-08-07,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0123,2022-03-25,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0124,2025-08-08,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0125,2025-04-19,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0126,2024-08-26,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0127,2021-09-06,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0128,2023-08-22,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0129,2023-12-15,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0130,2021-09-13,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0130,2025-12-11,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0131,2023-05-03,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0131,2025-08-02,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0131,2024-08-01,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0132,2022-06-17,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0133,2024-09-18,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0133,2021-10-10,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0134,2021-12-12,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0134,2024-02-20,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0135,2025-06-03,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0135,2025-12-18,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0136,2022-02-19,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0137,2021-04-12,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0138,2022-08-13,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0138,2023-12-18,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0139,2025-08-14,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0139,2021-11-21,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0139,2025-07-01,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0140,2022-03-14,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0140,2023-06-11,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0140,2023-08-16,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0141,2026-04-28,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0141,2025-10-05,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0142,2025-07-18,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0142,2024-04-26,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0142,2021-10-12,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0143,2022-09-17,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0144,2025-07-11,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0144,2021-12-14,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0144,2022-09-07,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0145,2023-09-27,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0145,2025-11-08,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0146,2025-07-17,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0146,2021-04-23,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0147,2022-07-31,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0147,2024-11-21,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0147,2025-04-22,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0148,2026-01-25,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0149,2026-05-02,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0149,2025-03-10,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0150,2026-03-08,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0150,2024-12-16,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0151,2023-08-15,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0151,2025-07-10,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0152,2022-01-16,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0152,2023-08-17,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0153,2021-05-13,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0153,2022-02-12,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0154,2023-04-30,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0155,2023-10-24,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0155,2023-01-23,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0156,2024-11-28,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0156,2024-05-11,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0157,2024-01-02,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0157,2021-07-04,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0158,2021-10-13,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0158,2021-10-09,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0159,2022-03-07,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0159,2024-10-15,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0160,2024-03-19,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0160,2024-12-31,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0160,2022-12-25,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0161,2024-03-03,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0161,2022-01-27,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0162,2026-02-02,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0163,2021-06-15,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0163,2022-06-03,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0164,2025-04-13,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0164,2021-01-18,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0165,2025-06-24,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0165,2024-11-06,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0166,2024-12-12,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0166,2026-02-11,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0166,2021-02-03,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0166,2025-11-11,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0167,2023-04-14,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0168,2024-01-02,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0169,2022-09-20,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0169,2022-03-31,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0170,2025-04-13,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0170,2023-06-01,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0171,2022-08-02,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0171,2022-03-02,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0172,2024-04-09,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0172,2025-03-25,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0173,2021-12-09,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0174,2022-03-20,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0174,2024-05-19,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0175,2021-07-05,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0176,2021-12-15,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0176,2021-07-14,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0177,2021-12-20,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0177,2023-09-14,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0178,2025-06-14,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0179,2024-04-11,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0179,2022-11-01,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0179,2024-10-11,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0180,2024-07-12,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0181,2024-07-29,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0181,2025-07-12,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0182,2023-12-06,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0182,2023-12-21,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0183,2024-01-11,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0184,2024-11-25,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0185,2024-01-11,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0185,2021-05-09,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0186,2023-10-09,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0186,2024-05-28,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0187,2026-03-30,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0187,2023-03-18,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0188,2023-10-01,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0188,2025-10-04,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0188,2022-08-29,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0189,2023-05-10,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0189,2022-01-16,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0190,2024-07-31,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0191,2022-12-27,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0191,2023-11-06,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0192,2022-08-07,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0192,2025-09-10,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0193,2024-05-01,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0193,2022-06-28,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0194,2022-11-20,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0195,2021-06-15,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0195,2021-07-20,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0196,2025-09-30,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0196,2025-12-12,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0196,2021-04-12,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0197,2021-09-03,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0197,2021-04-06,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0198,2023-05-18,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0198,2021-08-09,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0199,2024-02-09,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0200,2023-05-08,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0200,2022-03-28,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0201,2022-01-20,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0201,2025-11-16,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0202,2022-06-27,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0203,2022-05-29,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0203,2021-10-09,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0203,2024-12-04,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0204,2022-10-16,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0205,2025-07-13,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0205,2021-01-13,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0206,2025-08-05,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0206,2023-03-16,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0206,2024-01-19,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0207,2024-01-31,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0207,2022-03-15,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0207,2025-11-22,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0208,2023-12-27,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0209,2025-01-13,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0209,2023-05-10,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0210,2026-02-01,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0211,2021-09-30,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0212,2022-06-23,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0213,2026-01-23,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0213,2022-06-13,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0214,2021-08-03,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0214,2022-12-15,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0214,2024-02-06,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0215,2021-04-07,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0216,2023-10-12,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0216,2022-09-19,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0217,2021-04-23,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0217,2025-12-21,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0218,2021-11-29,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0218,2023-02-10,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0219,2023-01-14,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0219,2023-04-11,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0220,2023-05-29,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0220,2024-06-17,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0221,2021-12-01,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0221,2022-06-23,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0222,2021-05-18,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0222,2023-05-08,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0223,2021-05-01,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0224,2024-03-25,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0224,2025-11-05,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0224,2025-06-15,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0225,2023-01-29,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0226,2024-11-04,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0227,2021-11-28,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0228,2025-03-06,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0228,2025-05-17,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0229,2022-07-21,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0229,2025-11-01,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0229,2024-03-06,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0230,2025-08-26,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0231,2022-02-21,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0231,2024-01-28,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0232,2021-06-11,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0232,2021-03-24,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0233,2024-11-13,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0233,2022-01-17,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0234,2026-03-12,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0235,2025-04-20,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0235,2022-06-13,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0235,2022-10-03,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0236,2021-11-20,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0236,2021-08-19,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0236,2021-12-11,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0237,2023-08-08,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0237,2023-08-02,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0238,2023-12-28,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0239,2023-11-12,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0239,2022-03-13,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0240,2023-10-27,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0240,2024-07-10,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0241,2021-06-14,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0241,2022-04-07,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0242,2023-10-06,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0242,2022-11-21,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0243,2021-02-09,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0244,2025-08-18,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0245,2025-11-07,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0245,2025-04-14,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0246,2022-11-01,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0246,2024-10-26,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0247,2024-04-13,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0247,2021-08-27,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0248,2021-11-07,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0248,2023-08-02,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0249,2021-07-20,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0249,2025-03-27,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0250,2021-02-02,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0250,2024-04-10,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0251,2021-03-14,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0252,2022-09-05,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0252,2023-04-29,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0253,2024-07-01,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0254,2022-06-27,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0255,2023-12-11,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0255,2025-12-08,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0256,2025-07-12,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0256,2022-12-20,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0257,2021-01-29,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0258,2024-07-20,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0258,2026-04-26,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0259,2025-08-17,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0259,2022-11-09,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0260,2026-03-13,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0260,2022-01-04,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0261,2021-09-26,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0262,2024-03-04,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0262,2022-11-15,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0262,2024-01-08,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0263,2021-05-01,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0263,2022-12-28,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0264,2021-06-26,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0264,2026-04-15,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0265,2025-08-18,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0266,2023-11-18,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0266,2024-03-15,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0267,2024-07-05,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0267,2023-02-12,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0268,2023-11-19,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0269,2021-11-24,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0269,2025-03-26,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0270,2022-05-09,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0271,2024-05-28,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0271,2022-03-25,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0272,2022-11-27,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0272,2025-09-02,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0273,2024-10-23,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0273,2024-04-08,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0273,2022-01-06,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0274,2023-05-11,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0274,2023-02-18,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0275,2022-09-20,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0275,2023-03-08,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0275,2022-10-01,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0276,2025-05-22,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0277,2021-06-22,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0278,2021-10-28,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0278,2026-02-06,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0278,2022-07-28,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0279,2026-03-21,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0279,2023-06-06,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0279,2023-11-02,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0280,2025-08-17,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0281,2021-05-19,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0282,2024-09-04,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0282,2023-03-30,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0282,2021-08-06,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0283,2022-01-07,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0283,2025-03-18,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0284,2023-06-27,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0284,2021-02-05,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0285,2021-05-30,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0286,2024-02-23,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0286,2022-07-07,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0287,2022-01-01,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0287,2021-08-09,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0288,2021-02-21,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0289,2024-12-26,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0290,2023-08-14,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0290,2025-08-05,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0291,2024-08-01,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0292,2023-10-21,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0293,2021-05-27,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0293,2022-12-08,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0293,2023-02-23,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0294,2022-06-12,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0295,2025-09-10,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0296,2026-02-21,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0297,2024-04-13,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0298,2024-09-06,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0298,2025-01-10,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0299,2024-05-05,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0300,2021-11-30,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0301,2025-09-06,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0302,2021-08-26,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0302,2022-09-07,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0303,2026-02-10,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0303,2023-02-10,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0304,2022-12-08,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0305,2024-12-19,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0305,2022-04-14,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0306,2025-12-15,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0307,2026-02-26,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0307,2023-08-03,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0308,2023-02-03,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0308,2021-09-25,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0308,2022-12-31,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0309,2022-02-05,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0309,2022-10-25,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0310,2026-03-01,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0311,2024-07-10,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0311,2023-08-02,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0312,2024-10-04,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0312,2021-11-15,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0313,2023-07-21,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0313,2025-10-05,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0314,2024-03-13,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0314,2023-12-21,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0315,2024-06-28,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0315,2024-03-26,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0316,2024-05-05,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0316,2022-03-25,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0316,2025-01-20,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0317,2025-08-06,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0317,2022-11-22,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0318,2024-01-09,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0318,2021-03-15,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0319,2022-01-01,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0320,2025-06-26,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0321,2021-02-17,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0321,2024-08-30,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0321,2021-03-15,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0322,2024-04-18,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0322,2024-11-30,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0323,2024-06-07,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0323,2025-03-21,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0324,2022-08-18,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0325,2024-04-09,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0325,2024-11-11,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0325,2021-07-20,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0325,2023-06-19,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0326,2024-06-04,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0326,2025-07-22,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0327,2023-12-11,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0327,2022-08-21,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0328,2024-07-30,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0328,2023-11-05,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0329,2024-05-07,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0329,2025-09-28,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0330,2024-09-07,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0330,2023-04-19,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0331,2021-01-24,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0331,2023-10-09,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0332,2021-05-05,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0333,2024-06-19,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0334,2024-03-18,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0335,2024-01-18,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0335,2025-07-22,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0336,2025-08-11,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0337,2026-02-07,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0338,2024-02-12,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0339,2025-08-10,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0340,2022-03-25,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0340,2026-04-10,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0341,2024-12-31,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0342,2024-11-30,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0343,2025-06-26,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0343,2023-02-11,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0344,2024-08-12,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0344,2023-10-19,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0345,2022-09-18,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0346,2022-08-19,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0346,2023-08-11,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0346,2025-07-18,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0347,2024-06-27,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0347,2026-02-22,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0348,2022-12-21,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0348,2024-05-15,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0349,2024-12-20,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0350,2025-09-06,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0350,2023-08-10,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0351,2023-02-12,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0351,2024-12-28,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0352,2025-08-08,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0352,2024-10-23,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0353,2025-04-24,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0353,2025-04-04,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0353,2025-06-02,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0354,2021-10-23,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0355,2022-08-28,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0355,2025-02-22,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0356,2023-03-02,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0357,2023-03-17,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0357,2023-12-21,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0357,2023-02-08,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0358,2025-11-25,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0359,2023-05-20,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0360,2021-02-25,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0361,2021-02-18,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0361,2024-10-03,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0361,2024-02-17,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0361,2022-10-08,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0362,2022-05-14,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0362,2022-11-25,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0363,2023-07-08,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0364,2023-04-12,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0364,2021-12-21,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0365,2022-10-07,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0365,2024-12-10,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0366,2026-01-15,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0366,2025-07-18,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0367,2024-04-19,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0368,2026-01-31,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0368,2024-07-02,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0369,2021-09-27,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0369,2022-04-07,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0370,2025-10-09,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0370,2022-08-15,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0370,2026-02-24,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0371,2026-03-13,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0371,2026-02-05,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0371,2021-04-12,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0372,2026-04-26,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0372,2024-02-01,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0373,2025-12-28,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0373,2022-08-26,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0374,2023-07-15,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0374,2023-04-11,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0375,2024-12-01,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0376,2022-10-01,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0377,2025-09-08,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0377,2026-01-30,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0378,2025-02-03,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0379,2025-04-28,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0379,2024-04-15,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0379,2024-02-23,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0380,2022-04-30,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0380,2021-01-19,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0380,2024-08-22,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0381,2022-09-27,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0382,2022-02-27,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0382,2023-08-09,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0383,2021-04-20,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0384,2025-09-19,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0385,2021-03-28,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0385,2023-07-20,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0385,2024-03-04,,Metformin 500 mg tablet,Biguanide,Diabetes mellitus type 2
+HT-0386,2021-02-24,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0386,2024-07-24,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0387,2023-04-01,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0387,2024-12-18,,Hydrochlorothiazide 12.5 mg tablet,Thiazide diuretic,Essential hypertension
+HT-0388,2025-01-14,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0388,2025-05-23,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0389,2021-03-27,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0389,2023-04-10,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0390,2025-11-04,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0390,2025-05-19,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0391,2025-12-02,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0391,2025-04-03,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0392,2021-03-29,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0393,2026-01-24,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0393,2021-01-18,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0393,2025-10-31,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0394,2021-01-18,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0395,2023-02-20,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0396,2023-05-29,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0396,2024-08-06,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0397,2023-09-23,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0398,2025-12-27,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension
+HT-0398,2022-11-22,,Metoprolol succinate 25 mg tablet,Beta blocker,Essential hypertension
+HT-0399,2021-08-11,,Amlodipine 5 mg tablet,Calcium channel blocker,Essential hypertension
+HT-0399,2021-11-15,,Atorvastatin 20 mg tablet,Statin,Hyperlipidemia
+HT-0400,2025-09-25,,Telmisartan 40 mg tablet,Angiotensin receptor blocker,Essential hypertension

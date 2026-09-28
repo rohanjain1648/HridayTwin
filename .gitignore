@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+dashboard/node_modules/
+dashboard/dist/
+dashboard/tsconfig.tsbuildinfo
+artifacts/dataset.parquet
+artifacts/train_log.txt
+.venv/
+data/live.db
+.DS_Store
+*.log
+
+# Unrelated scaffold with its own git repo — not part of this project (see README/notes)
+myzenn-app/

@@ -1,0 +1,15 @@
+dashboard/node_modules
+dashboard/dist
+**/__pycache__
+*.pyc
+.pytest_cache
+.venv
+.git
+myzenn-app
+myzenn_reused
+docs
+tests
+artifacts/dataset.parquet
+artifacts/train_log.txt
+data/live.db
+README.md

@@ -1,0 +1,2001 @@
+PATIENT,GENE,VARIANT,RSID,RISK_ALLELES,GENOTYPE
+HT-0001,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0001,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0001,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0001,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0001,PRS,BP polygenic risk score (z),,1.22,
+HT-0002,AGT,M235T,rs699,2.0,risk/risk
+HT-0002,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0002,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0002,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0002,PRS,BP polygenic risk score (z),,0.47,
+HT-0003,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0003,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0003,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0003,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0003,PRS,BP polygenic risk score (z),,1.56,
+HT-0004,AGT,M235T,rs699,2.0,risk/risk
+HT-0004,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0004,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0004,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0004,PRS,BP polygenic risk score (z),,-1.05,
+HT-0005,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0005,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0005,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0005,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0005,PRS,BP polygenic risk score (z),,0.95,
+HT-0006,AGT,M235T,rs699,2.0,risk/risk
+HT-0006,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0006,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0006,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0006,PRS,BP polygenic risk score (z),,1.34,
+HT-0007,AGT,M235T,rs699,2.0,risk/risk
+HT-0007,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0007,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0007,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0007,PRS,BP polygenic risk score (z),,1.73,
+HT-0008,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0008,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0008,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0008,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0008,PRS,BP polygenic risk score (z),,-0.18,
+HT-0009,AGT,M235T,rs699,2.0,risk/risk
+HT-0009,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0009,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0009,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0009,PRS,BP polygenic risk score (z),,0.08,
+HT-0010,AGT,M235T,rs699,2.0,risk/risk
+HT-0010,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0010,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0010,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0010,PRS,BP polygenic risk score (z),,-1.0,
+HT-0011,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0011,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0011,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0011,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0011,PRS,BP polygenic risk score (z),,0.27,
+HT-0012,AGT,M235T,rs699,2.0,risk/risk
+HT-0012,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0012,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0012,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0012,PRS,BP polygenic risk score (z),,0.93,
+HT-0013,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0013,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0013,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0013,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0013,PRS,BP polygenic risk score (z),,-0.4,
+HT-0014,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0014,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0014,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0014,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0014,PRS,BP polygenic risk score (z),,0.49,
+HT-0015,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0015,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0015,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0015,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0015,PRS,BP polygenic risk score (z),,0.27,
+HT-0016,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0016,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0016,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0016,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0016,PRS,BP polygenic risk score (z),,0.65,
+HT-0017,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0017,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0017,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0017,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0017,PRS,BP polygenic risk score (z),,-1.35,
+HT-0018,AGT,M235T,rs699,2.0,risk/risk
+HT-0018,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0018,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0018,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0018,PRS,BP polygenic risk score (z),,-0.27,
+HT-0019,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0019,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0019,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0019,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0019,PRS,BP polygenic risk score (z),,0.22,
+HT-0020,AGT,M235T,rs699,2.0,risk/risk
+HT-0020,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0020,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0020,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0020,PRS,BP polygenic risk score (z),,1.03,
+HT-0021,AGT,M235T,rs699,2.0,risk/risk
+HT-0021,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0021,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0021,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0021,PRS,BP polygenic risk score (z),,-0.57,
+HT-0022,AGT,M235T,rs699,2.0,risk/risk
+HT-0022,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0022,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0022,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0022,PRS,BP polygenic risk score (z),,0.73,
+HT-0023,AGT,M235T,rs699,2.0,risk/risk
+HT-0023,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0023,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0023,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0023,PRS,BP polygenic risk score (z),,-0.91,
+HT-0024,AGT,M235T,rs699,2.0,risk/risk
+HT-0024,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0024,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0024,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0024,PRS,BP polygenic risk score (z),,1.85,
+HT-0025,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0025,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0025,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0025,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0025,PRS,BP polygenic risk score (z),,1.99,
+HT-0026,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0026,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0026,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0026,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0026,PRS,BP polygenic risk score (z),,0.37,
+HT-0027,AGT,M235T,rs699,2.0,risk/risk
+HT-0027,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0027,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0027,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0027,PRS,BP polygenic risk score (z),,-0.94,
+HT-0028,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0028,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0028,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0028,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0028,PRS,BP polygenic risk score (z),,0.42,
+HT-0029,AGT,M235T,rs699,2.0,risk/risk
+HT-0029,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0029,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0029,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0029,PRS,BP polygenic risk score (z),,0.56,
+HT-0030,AGT,M235T,rs699,2.0,risk/risk
+HT-0030,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0030,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0030,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0030,PRS,BP polygenic risk score (z),,-0.18,
+HT-0031,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0031,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0031,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0031,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0031,PRS,BP polygenic risk score (z),,-0.17,
+HT-0032,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0032,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0032,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0032,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0032,PRS,BP polygenic risk score (z),,0.88,
+HT-0033,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0033,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0033,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0033,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0033,PRS,BP polygenic risk score (z),,0.1,
+HT-0034,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0034,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0034,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0034,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0034,PRS,BP polygenic risk score (z),,-0.4,
+HT-0035,AGT,M235T,rs699,2.0,risk/risk
+HT-0035,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0035,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0035,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0035,PRS,BP polygenic risk score (z),,-0.53,
+HT-0036,AGT,M235T,rs699,2.0,risk/risk
+HT-0036,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0036,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0036,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0036,PRS,BP polygenic risk score (z),,0.61,
+HT-0037,AGT,M235T,rs699,2.0,risk/risk
+HT-0037,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0037,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0037,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0037,PRS,BP polygenic risk score (z),,-0.59,
+HT-0038,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0038,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0038,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0038,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0038,PRS,BP polygenic risk score (z),,1.79,
+HT-0039,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0039,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0039,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0039,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0039,PRS,BP polygenic risk score (z),,0.03,
+HT-0040,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0040,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0040,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0040,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0040,PRS,BP polygenic risk score (z),,0.41,
+HT-0041,AGT,M235T,rs699,2.0,risk/risk
+HT-0041,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0041,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0041,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0041,PRS,BP polygenic risk score (z),,-0.27,
+HT-0042,AGT,M235T,rs699,2.0,risk/risk
+HT-0042,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0042,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0042,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0042,PRS,BP polygenic risk score (z),,-1.11,
+HT-0043,AGT,M235T,rs699,2.0,risk/risk
+HT-0043,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0043,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0043,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0043,PRS,BP polygenic risk score (z),,-0.23,
+HT-0044,AGT,M235T,rs699,2.0,risk/risk
+HT-0044,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0044,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0044,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0044,PRS,BP polygenic risk score (z),,0.33,
+HT-0045,AGT,M235T,rs699,2.0,risk/risk
+HT-0045,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0045,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0045,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0045,PRS,BP polygenic risk score (z),,2.33,
+HT-0046,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0046,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0046,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0046,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0046,PRS,BP polygenic risk score (z),,-1.75,
+HT-0047,AGT,M235T,rs699,2.0,risk/risk
+HT-0047,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0047,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0047,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0047,PRS,BP polygenic risk score (z),,-0.43,
+HT-0048,AGT,M235T,rs699,2.0,risk/risk
+HT-0048,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0048,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0048,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0048,PRS,BP polygenic risk score (z),,-0.09,
+HT-0049,AGT,M235T,rs699,2.0,risk/risk
+HT-0049,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0049,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0049,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0049,PRS,BP polygenic risk score (z),,1.29,
+HT-0050,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0050,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0050,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0050,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0050,PRS,BP polygenic risk score (z),,-0.15,
+HT-0051,AGT,M235T,rs699,2.0,risk/risk
+HT-0051,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0051,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0051,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0051,PRS,BP polygenic risk score (z),,-0.89,
+HT-0052,AGT,M235T,rs699,2.0,risk/risk
+HT-0052,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0052,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0052,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0052,PRS,BP polygenic risk score (z),,-1.44,
+HT-0053,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0053,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0053,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0053,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0053,PRS,BP polygenic risk score (z),,-1.73,
+HT-0054,AGT,M235T,rs699,2.0,risk/risk
+HT-0054,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0054,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0054,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0054,PRS,BP polygenic risk score (z),,-0.1,
+HT-0055,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0055,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0055,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0055,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0055,PRS,BP polygenic risk score (z),,-0.4,
+HT-0056,AGT,M235T,rs699,2.0,risk/risk
+HT-0056,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0056,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0056,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0056,PRS,BP polygenic risk score (z),,1.52,
+HT-0057,AGT,M235T,rs699,2.0,risk/risk
+HT-0057,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0057,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0057,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0057,PRS,BP polygenic risk score (z),,0.6,
+HT-0058,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0058,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0058,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0058,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0058,PRS,BP polygenic risk score (z),,-0.92,
+HT-0059,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0059,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0059,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0059,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0059,PRS,BP polygenic risk score (z),,1.2,
+HT-0060,AGT,M235T,rs699,2.0,risk/risk
+HT-0060,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0060,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0060,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0060,PRS,BP polygenic risk score (z),,-1.23,
+HT-0061,AGT,M235T,rs699,2.0,risk/risk
+HT-0061,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0061,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0061,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0061,PRS,BP polygenic risk score (z),,-0.19,
+HT-0062,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0062,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0062,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0062,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0062,PRS,BP polygenic risk score (z),,-0.03,
+HT-0063,AGT,M235T,rs699,2.0,risk/risk
+HT-0063,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0063,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0063,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0063,PRS,BP polygenic risk score (z),,-0.95,
+HT-0064,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0064,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0064,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0064,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0064,PRS,BP polygenic risk score (z),,-0.4,
+HT-0065,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0065,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0065,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0065,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0065,PRS,BP polygenic risk score (z),,-0.16,
+HT-0066,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0066,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0066,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0066,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0066,PRS,BP polygenic risk score (z),,-0.14,
+HT-0067,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0067,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0067,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0067,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0067,PRS,BP polygenic risk score (z),,0.13,
+HT-0068,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0068,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0068,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0068,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0068,PRS,BP polygenic risk score (z),,0.37,
+HT-0069,AGT,M235T,rs699,2.0,risk/risk
+HT-0069,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0069,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0069,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0069,PRS,BP polygenic risk score (z),,-1.17,
+HT-0070,AGT,M235T,rs699,2.0,risk/risk
+HT-0070,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0070,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0070,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0070,PRS,BP polygenic risk score (z),,0.4,
+HT-0071,AGT,M235T,rs699,2.0,risk/risk
+HT-0071,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0071,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0071,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0071,PRS,BP polygenic risk score (z),,-1.77,
+HT-0072,AGT,M235T,rs699,2.0,risk/risk
+HT-0072,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0072,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0072,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0072,PRS,BP polygenic risk score (z),,0.8,
+HT-0073,AGT,M235T,rs699,2.0,risk/risk
+HT-0073,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0073,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0073,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0073,PRS,BP polygenic risk score (z),,0.12,
+HT-0074,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0074,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0074,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0074,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0074,PRS,BP polygenic risk score (z),,-0.78,
+HT-0075,AGT,M235T,rs699,2.0,risk/risk
+HT-0075,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0075,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0075,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0075,PRS,BP polygenic risk score (z),,-0.44,
+HT-0076,AGT,M235T,rs699,2.0,risk/risk
+HT-0076,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0076,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0076,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0076,PRS,BP polygenic risk score (z),,2.79,
+HT-0077,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0077,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0077,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0077,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0077,PRS,BP polygenic risk score (z),,-0.3,
+HT-0078,AGT,M235T,rs699,2.0,risk/risk
+HT-0078,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0078,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0078,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0078,PRS,BP polygenic risk score (z),,0.1,
+HT-0079,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0079,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0079,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0079,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0079,PRS,BP polygenic risk score (z),,1.86,
+HT-0080,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0080,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0080,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0080,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0080,PRS,BP polygenic risk score (z),,0.46,
+HT-0081,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0081,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0081,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0081,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0081,PRS,BP polygenic risk score (z),,0.17,
+HT-0082,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0082,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0082,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0082,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0082,PRS,BP polygenic risk score (z),,0.48,
+HT-0083,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0083,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0083,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0083,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0083,PRS,BP polygenic risk score (z),,-0.79,
+HT-0084,AGT,M235T,rs699,2.0,risk/risk
+HT-0084,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0084,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0084,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0084,PRS,BP polygenic risk score (z),,-0.04,
+HT-0085,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0085,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0085,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0085,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0085,PRS,BP polygenic risk score (z),,-0.16,
+HT-0086,AGT,M235T,rs699,2.0,risk/risk
+HT-0086,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0086,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0086,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0086,PRS,BP polygenic risk score (z),,-0.0,
+HT-0087,AGT,M235T,rs699,2.0,risk/risk
+HT-0087,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0087,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0087,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0087,PRS,BP polygenic risk score (z),,0.14,
+HT-0088,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0088,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0088,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0088,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0088,PRS,BP polygenic risk score (z),,1.58,
+HT-0089,AGT,M235T,rs699,2.0,risk/risk
+HT-0089,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0089,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0089,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0089,PRS,BP polygenic risk score (z),,-0.55,
+HT-0090,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0090,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0090,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0090,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0090,PRS,BP polygenic risk score (z),,0.38,
+HT-0091,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0091,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0091,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0091,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0091,PRS,BP polygenic risk score (z),,-0.82,
+HT-0092,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0092,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0092,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0092,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0092,PRS,BP polygenic risk score (z),,0.52,
+HT-0093,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0093,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0093,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0093,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0093,PRS,BP polygenic risk score (z),,-0.56,
+HT-0094,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0094,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0094,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0094,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0094,PRS,BP polygenic risk score (z),,-0.85,
+HT-0095,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0095,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0095,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0095,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0095,PRS,BP polygenic risk score (z),,1.25,
+HT-0096,AGT,M235T,rs699,2.0,risk/risk
+HT-0096,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0096,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0096,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0096,PRS,BP polygenic risk score (z),,-1.96,
+HT-0097,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0097,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0097,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0097,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0097,PRS,BP polygenic risk score (z),,-0.63,
+HT-0098,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0098,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0098,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0098,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0098,PRS,BP polygenic risk score (z),,1.1,
+HT-0099,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0099,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0099,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0099,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0099,PRS,BP polygenic risk score (z),,-0.71,
+HT-0100,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0100,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0100,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0100,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0100,PRS,BP polygenic risk score (z),,-1.95,
+HT-0101,AGT,M235T,rs699,2.0,risk/risk
+HT-0101,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0101,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0101,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0101,PRS,BP polygenic risk score (z),,1.0,
+HT-0102,AGT,M235T,rs699,2.0,risk/risk
+HT-0102,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0102,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0102,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0102,PRS,BP polygenic risk score (z),,1.68,
+HT-0103,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0103,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0103,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0103,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0103,PRS,BP polygenic risk score (z),,-0.36,
+HT-0104,AGT,M235T,rs699,2.0,risk/risk
+HT-0104,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0104,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0104,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0104,PRS,BP polygenic risk score (z),,-2.06,
+HT-0105,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0105,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0105,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0105,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0105,PRS,BP polygenic risk score (z),,0.03,
+HT-0106,AGT,M235T,rs699,2.0,risk/risk
+HT-0106,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0106,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0106,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0106,PRS,BP polygenic risk score (z),,-0.48,
+HT-0107,AGT,M235T,rs699,2.0,risk/risk
+HT-0107,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0107,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0107,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0107,PRS,BP polygenic risk score (z),,1.44,
+HT-0108,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0108,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0108,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0108,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0108,PRS,BP polygenic risk score (z),,0.26,
+HT-0109,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0109,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0109,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0109,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0109,PRS,BP polygenic risk score (z),,-0.1,
+HT-0110,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0110,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0110,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0110,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0110,PRS,BP polygenic risk score (z),,-1.47,
+HT-0111,AGT,M235T,rs699,2.0,risk/risk
+HT-0111,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0111,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0111,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0111,PRS,BP polygenic risk score (z),,0.09,
+HT-0112,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0112,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0112,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0112,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0112,PRS,BP polygenic risk score (z),,-0.78,
+HT-0113,AGT,M235T,rs699,2.0,risk/risk
+HT-0113,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0113,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0113,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0113,PRS,BP polygenic risk score (z),,0.59,
+HT-0114,AGT,M235T,rs699,2.0,risk/risk
+HT-0114,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0114,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0114,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0114,PRS,BP polygenic risk score (z),,0.74,
+HT-0115,AGT,M235T,rs699,2.0,risk/risk
+HT-0115,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0115,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0115,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0115,PRS,BP polygenic risk score (z),,0.91,
+HT-0116,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0116,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0116,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0116,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0116,PRS,BP polygenic risk score (z),,0.71,
+HT-0117,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0117,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0117,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0117,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0117,PRS,BP polygenic risk score (z),,0.39,
+HT-0118,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0118,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0118,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0118,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0118,PRS,BP polygenic risk score (z),,-1.06,
+HT-0119,AGT,M235T,rs699,2.0,risk/risk
+HT-0119,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0119,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0119,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0119,PRS,BP polygenic risk score (z),,-2.46,
+HT-0120,AGT,M235T,rs699,2.0,risk/risk
+HT-0120,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0120,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0120,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0120,PRS,BP polygenic risk score (z),,-0.14,
+HT-0121,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0121,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0121,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0121,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0121,PRS,BP polygenic risk score (z),,1.51,
+HT-0122,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0122,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0122,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0122,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0122,PRS,BP polygenic risk score (z),,-1.46,
+HT-0123,AGT,M235T,rs699,2.0,risk/risk
+HT-0123,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0123,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0123,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0123,PRS,BP polygenic risk score (z),,-0.61,
+HT-0124,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0124,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0124,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0124,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0124,PRS,BP polygenic risk score (z),,-0.29,
+HT-0125,AGT,M235T,rs699,2.0,risk/risk
+HT-0125,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0125,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0125,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0125,PRS,BP polygenic risk score (z),,0.26,
+HT-0126,AGT,M235T,rs699,2.0,risk/risk
+HT-0126,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0126,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0126,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0126,PRS,BP polygenic risk score (z),,-0.51,
+HT-0127,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0127,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0127,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0127,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0127,PRS,BP polygenic risk score (z),,-0.12,
+HT-0128,AGT,M235T,rs699,2.0,risk/risk
+HT-0128,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0128,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0128,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0128,PRS,BP polygenic risk score (z),,-0.61,
+HT-0129,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0129,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0129,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0129,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0129,PRS,BP polygenic risk score (z),,-0.3,
+HT-0130,AGT,M235T,rs699,2.0,risk/risk
+HT-0130,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0130,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0130,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0130,PRS,BP polygenic risk score (z),,-0.62,
+HT-0131,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0131,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0131,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0131,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0131,PRS,BP polygenic risk score (z),,0.8,
+HT-0132,AGT,M235T,rs699,2.0,risk/risk
+HT-0132,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0132,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0132,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0132,PRS,BP polygenic risk score (z),,0.28,
+HT-0133,AGT,M235T,rs699,2.0,risk/risk
+HT-0133,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0133,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0133,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0133,PRS,BP polygenic risk score (z),,0.08,
+HT-0134,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0134,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0134,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0134,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0134,PRS,BP polygenic risk score (z),,-1.18,
+HT-0135,AGT,M235T,rs699,2.0,risk/risk
+HT-0135,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0135,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0135,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0135,PRS,BP polygenic risk score (z),,-0.2,
+HT-0136,AGT,M235T,rs699,2.0,risk/risk
+HT-0136,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0136,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0136,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0136,PRS,BP polygenic risk score (z),,1.92,
+HT-0137,AGT,M235T,rs699,2.0,risk/risk
+HT-0137,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0137,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0137,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0137,PRS,BP polygenic risk score (z),,-0.23,
+HT-0138,AGT,M235T,rs699,2.0,risk/risk
+HT-0138,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0138,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0138,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0138,PRS,BP polygenic risk score (z),,0.56,
+HT-0139,AGT,M235T,rs699,2.0,risk/risk
+HT-0139,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0139,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0139,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0139,PRS,BP polygenic risk score (z),,-0.78,
+HT-0140,AGT,M235T,rs699,2.0,risk/risk
+HT-0140,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0140,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0140,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0140,PRS,BP polygenic risk score (z),,-0.88,
+HT-0141,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0141,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0141,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0141,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0141,PRS,BP polygenic risk score (z),,1.7,
+HT-0142,AGT,M235T,rs699,2.0,risk/risk
+HT-0142,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0142,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0142,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0142,PRS,BP polygenic risk score (z),,0.6,
+HT-0143,AGT,M235T,rs699,2.0,risk/risk
+HT-0143,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0143,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0143,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0143,PRS,BP polygenic risk score (z),,-0.43,
+HT-0144,AGT,M235T,rs699,2.0,risk/risk
+HT-0144,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0144,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0144,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0144,PRS,BP polygenic risk score (z),,0.07,
+HT-0145,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0145,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0145,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0145,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0145,PRS,BP polygenic risk score (z),,-1.69,
+HT-0146,AGT,M235T,rs699,2.0,risk/risk
+HT-0146,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0146,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0146,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0146,PRS,BP polygenic risk score (z),,-0.75,
+HT-0147,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0147,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0147,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0147,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0147,PRS,BP polygenic risk score (z),,0.54,
+HT-0148,AGT,M235T,rs699,2.0,risk/risk
+HT-0148,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0148,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0148,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0148,PRS,BP polygenic risk score (z),,0.48,
+HT-0149,AGT,M235T,rs699,2.0,risk/risk
+HT-0149,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0149,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0149,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0149,PRS,BP polygenic risk score (z),,2.98,
+HT-0150,AGT,M235T,rs699,2.0,risk/risk
+HT-0150,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0150,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0150,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0150,PRS,BP polygenic risk score (z),,0.68,
+HT-0151,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0151,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0151,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0151,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0151,PRS,BP polygenic risk score (z),,0.63,
+HT-0152,AGT,M235T,rs699,2.0,risk/risk
+HT-0152,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0152,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0152,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0152,PRS,BP polygenic risk score (z),,0.76,
+HT-0153,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0153,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0153,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0153,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0153,PRS,BP polygenic risk score (z),,0.63,
+HT-0154,AGT,M235T,rs699,2.0,risk/risk
+HT-0154,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0154,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0154,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0154,PRS,BP polygenic risk score (z),,-1.08,
+HT-0155,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0155,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0155,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0155,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0155,PRS,BP polygenic risk score (z),,-0.04,
+HT-0156,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0156,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0156,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0156,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0156,PRS,BP polygenic risk score (z),,0.38,
+HT-0157,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0157,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0157,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0157,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0157,PRS,BP polygenic risk score (z),,-0.34,
+HT-0158,AGT,M235T,rs699,2.0,risk/risk
+HT-0158,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0158,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0158,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0158,PRS,BP polygenic risk score (z),,-0.63,
+HT-0159,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0159,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0159,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0159,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0159,PRS,BP polygenic risk score (z),,-0.62,
+HT-0160,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0160,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0160,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0160,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0160,PRS,BP polygenic risk score (z),,1.05,
+HT-0161,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0161,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0161,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0161,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0161,PRS,BP polygenic risk score (z),,0.66,
+HT-0162,AGT,M235T,rs699,2.0,risk/risk
+HT-0162,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0162,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0162,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0162,PRS,BP polygenic risk score (z),,-0.59,
+HT-0163,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0163,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0163,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0163,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0163,PRS,BP polygenic risk score (z),,-0.3,
+HT-0164,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0164,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0164,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0164,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0164,PRS,BP polygenic risk score (z),,-0.97,
+HT-0165,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0165,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0165,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0165,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0165,PRS,BP polygenic risk score (z),,1.06,
+HT-0166,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0166,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0166,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0166,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0166,PRS,BP polygenic risk score (z),,2.26,
+HT-0167,AGT,M235T,rs699,2.0,risk/risk
+HT-0167,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0167,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0167,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0167,PRS,BP polygenic risk score (z),,0.71,
+HT-0168,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0168,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0168,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0168,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0168,PRS,BP polygenic risk score (z),,-0.59,
+HT-0169,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0169,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0169,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0169,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0169,PRS,BP polygenic risk score (z),,0.91,
+HT-0170,AGT,M235T,rs699,2.0,risk/risk
+HT-0170,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0170,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0170,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0170,PRS,BP polygenic risk score (z),,-1.06,
+HT-0171,AGT,M235T,rs699,2.0,risk/risk
+HT-0171,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0171,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0171,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0171,PRS,BP polygenic risk score (z),,0.34,
+HT-0172,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0172,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0172,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0172,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0172,PRS,BP polygenic risk score (z),,-1.43,
+HT-0173,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0173,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0173,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0173,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0173,PRS,BP polygenic risk score (z),,0.07,
+HT-0174,AGT,M235T,rs699,2.0,risk/risk
+HT-0174,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0174,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0174,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0174,PRS,BP polygenic risk score (z),,-1.03,
+HT-0175,AGT,M235T,rs699,2.0,risk/risk
+HT-0175,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0175,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0175,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0175,PRS,BP polygenic risk score (z),,1.59,
+HT-0176,AGT,M235T,rs699,2.0,risk/risk
+HT-0176,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0176,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0176,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0176,PRS,BP polygenic risk score (z),,-0.86,
+HT-0177,AGT,M235T,rs699,2.0,risk/risk
+HT-0177,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0177,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0177,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0177,PRS,BP polygenic risk score (z),,1.01,
+HT-0178,AGT,M235T,rs699,2.0,risk/risk
+HT-0178,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0178,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0178,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0178,PRS,BP polygenic risk score (z),,1.72,
+HT-0179,AGT,M235T,rs699,2.0,risk/risk
+HT-0179,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0179,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0179,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0179,PRS,BP polygenic risk score (z),,0.58,
+HT-0180,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0180,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0180,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0180,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0180,PRS,BP polygenic risk score (z),,-2.31,
+HT-0181,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0181,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0181,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0181,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0181,PRS,BP polygenic risk score (z),,-1.83,
+HT-0182,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0182,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0182,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0182,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0182,PRS,BP polygenic risk score (z),,0.41,
+HT-0183,AGT,M235T,rs699,2.0,risk/risk
+HT-0183,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0183,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0183,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0183,PRS,BP polygenic risk score (z),,-0.03,
+HT-0184,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0184,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0184,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0184,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0184,PRS,BP polygenic risk score (z),,1.34,
+HT-0185,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0185,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0185,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0185,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0185,PRS,BP polygenic risk score (z),,1.93,
+HT-0186,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0186,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0186,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0186,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0186,PRS,BP polygenic risk score (z),,-0.57,
+HT-0187,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0187,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0187,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0187,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0187,PRS,BP polygenic risk score (z),,0.87,
+HT-0188,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0188,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0188,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0188,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0188,PRS,BP polygenic risk score (z),,-0.67,
+HT-0189,AGT,M235T,rs699,2.0,risk/risk
+HT-0189,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0189,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0189,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0189,PRS,BP polygenic risk score (z),,0.69,
+HT-0190,AGT,M235T,rs699,2.0,risk/risk
+HT-0190,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0190,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0190,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0190,PRS,BP polygenic risk score (z),,-0.82,
+HT-0191,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0191,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0191,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0191,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0191,PRS,BP polygenic risk score (z),,1.95,
+HT-0192,AGT,M235T,rs699,2.0,risk/risk
+HT-0192,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0192,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0192,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0192,PRS,BP polygenic risk score (z),,-0.05,
+HT-0193,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0193,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0193,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0193,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0193,PRS,BP polygenic risk score (z),,0.9,
+HT-0194,AGT,M235T,rs699,2.0,risk/risk
+HT-0194,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0194,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0194,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0194,PRS,BP polygenic risk score (z),,-0.83,
+HT-0195,AGT,M235T,rs699,2.0,risk/risk
+HT-0195,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0195,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0195,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0195,PRS,BP polygenic risk score (z),,0.04,
+HT-0196,AGT,M235T,rs699,2.0,risk/risk
+HT-0196,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0196,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0196,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0196,PRS,BP polygenic risk score (z),,-3.15,
+HT-0197,AGT,M235T,rs699,2.0,risk/risk
+HT-0197,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0197,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0197,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0197,PRS,BP polygenic risk score (z),,-0.98,
+HT-0198,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0198,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0198,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0198,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0198,PRS,BP polygenic risk score (z),,1.35,
+HT-0199,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0199,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0199,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0199,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0199,PRS,BP polygenic risk score (z),,-1.53,
+HT-0200,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0200,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0200,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0200,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0200,PRS,BP polygenic risk score (z),,0.93,
+HT-0201,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0201,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0201,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0201,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0201,PRS,BP polygenic risk score (z),,0.44,
+HT-0202,AGT,M235T,rs699,2.0,risk/risk
+HT-0202,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0202,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0202,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0202,PRS,BP polygenic risk score (z),,1.37,
+HT-0203,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0203,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0203,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0203,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0203,PRS,BP polygenic risk score (z),,-0.79,
+HT-0204,AGT,M235T,rs699,2.0,risk/risk
+HT-0204,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0204,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0204,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0204,PRS,BP polygenic risk score (z),,-0.77,
+HT-0205,AGT,M235T,rs699,2.0,risk/risk
+HT-0205,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0205,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0205,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0205,PRS,BP polygenic risk score (z),,-1.32,
+HT-0206,AGT,M235T,rs699,2.0,risk/risk
+HT-0206,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0206,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0206,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0206,PRS,BP polygenic risk score (z),,-0.4,
+HT-0207,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0207,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0207,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0207,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0207,PRS,BP polygenic risk score (z),,-0.7,
+HT-0208,AGT,M235T,rs699,2.0,risk/risk
+HT-0208,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0208,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0208,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0208,PRS,BP polygenic risk score (z),,0.71,
+HT-0209,AGT,M235T,rs699,2.0,risk/risk
+HT-0209,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0209,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0209,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0209,PRS,BP polygenic risk score (z),,0.96,
+HT-0210,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0210,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0210,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0210,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0210,PRS,BP polygenic risk score (z),,-0.75,
+HT-0211,AGT,M235T,rs699,2.0,risk/risk
+HT-0211,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0211,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0211,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0211,PRS,BP polygenic risk score (z),,-0.09,
+HT-0212,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0212,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0212,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0212,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0212,PRS,BP polygenic risk score (z),,-0.84,
+HT-0213,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0213,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0213,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0213,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0213,PRS,BP polygenic risk score (z),,0.78,
+HT-0214,AGT,M235T,rs699,2.0,risk/risk
+HT-0214,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0214,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0214,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0214,PRS,BP polygenic risk score (z),,0.36,
+HT-0215,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0215,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0215,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0215,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0215,PRS,BP polygenic risk score (z),,-0.79,
+HT-0216,AGT,M235T,rs699,2.0,risk/risk
+HT-0216,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0216,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0216,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0216,PRS,BP polygenic risk score (z),,-1.65,
+HT-0217,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0217,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0217,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0217,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0217,PRS,BP polygenic risk score (z),,0.15,
+HT-0218,AGT,M235T,rs699,2.0,risk/risk
+HT-0218,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0218,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0218,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0218,PRS,BP polygenic risk score (z),,-0.56,
+HT-0219,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0219,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0219,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0219,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0219,PRS,BP polygenic risk score (z),,-0.03,
+HT-0220,AGT,M235T,rs699,2.0,risk/risk
+HT-0220,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0220,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0220,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0220,PRS,BP polygenic risk score (z),,-0.83,
+HT-0221,AGT,M235T,rs699,2.0,risk/risk
+HT-0221,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0221,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0221,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0221,PRS,BP polygenic risk score (z),,0.32,
+HT-0222,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0222,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0222,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0222,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0222,PRS,BP polygenic risk score (z),,0.12,
+HT-0223,AGT,M235T,rs699,2.0,risk/risk
+HT-0223,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0223,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0223,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0223,PRS,BP polygenic risk score (z),,0.5,
+HT-0224,AGT,M235T,rs699,2.0,risk/risk
+HT-0224,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0224,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0224,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0224,PRS,BP polygenic risk score (z),,0.97,
+HT-0225,AGT,M235T,rs699,2.0,risk/risk
+HT-0225,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0225,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0225,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0225,PRS,BP polygenic risk score (z),,-0.01,
+HT-0226,AGT,M235T,rs699,2.0,risk/risk
+HT-0226,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0226,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0226,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0226,PRS,BP polygenic risk score (z),,1.1,
+HT-0227,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0227,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0227,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0227,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0227,PRS,BP polygenic risk score (z),,0.26,
+HT-0228,AGT,M235T,rs699,2.0,risk/risk
+HT-0228,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0228,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0228,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0228,PRS,BP polygenic risk score (z),,1.05,
+HT-0229,AGT,M235T,rs699,2.0,risk/risk
+HT-0229,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0229,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0229,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0229,PRS,BP polygenic risk score (z),,-0.38,
+HT-0230,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0230,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0230,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0230,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0230,PRS,BP polygenic risk score (z),,-0.47,
+HT-0231,AGT,M235T,rs699,2.0,risk/risk
+HT-0231,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0231,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0231,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0231,PRS,BP polygenic risk score (z),,0.26,
+HT-0232,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0232,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0232,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0232,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0232,PRS,BP polygenic risk score (z),,-1.44,
+HT-0233,AGT,M235T,rs699,2.0,risk/risk
+HT-0233,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0233,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0233,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0233,PRS,BP polygenic risk score (z),,0.11,
+HT-0234,AGT,M235T,rs699,2.0,risk/risk
+HT-0234,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0234,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0234,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0234,PRS,BP polygenic risk score (z),,-0.32,
+HT-0235,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0235,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0235,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0235,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0235,PRS,BP polygenic risk score (z),,0.09,
+HT-0236,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0236,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0236,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0236,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0236,PRS,BP polygenic risk score (z),,1.08,
+HT-0237,AGT,M235T,rs699,2.0,risk/risk
+HT-0237,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0237,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0237,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0237,PRS,BP polygenic risk score (z),,-1.49,
+HT-0238,AGT,M235T,rs699,2.0,risk/risk
+HT-0238,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0238,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0238,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0238,PRS,BP polygenic risk score (z),,1.13,
+HT-0239,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0239,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0239,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0239,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0239,PRS,BP polygenic risk score (z),,1.64,
+HT-0240,AGT,M235T,rs699,2.0,risk/risk
+HT-0240,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0240,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0240,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0240,PRS,BP polygenic risk score (z),,-0.5,
+HT-0241,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0241,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0241,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0241,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0241,PRS,BP polygenic risk score (z),,0.1,
+HT-0242,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0242,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0242,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0242,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0242,PRS,BP polygenic risk score (z),,1.77,
+HT-0243,AGT,M235T,rs699,2.0,risk/risk
+HT-0243,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0243,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0243,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0243,PRS,BP polygenic risk score (z),,1.5,
+HT-0244,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0244,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0244,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0244,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0244,PRS,BP polygenic risk score (z),,-1.29,
+HT-0245,AGT,M235T,rs699,2.0,risk/risk
+HT-0245,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0245,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0245,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0245,PRS,BP polygenic risk score (z),,-0.94,
+HT-0246,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0246,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0246,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0246,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0246,PRS,BP polygenic risk score (z),,0.15,
+HT-0247,AGT,M235T,rs699,2.0,risk/risk
+HT-0247,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0247,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0247,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0247,PRS,BP polygenic risk score (z),,0.48,
+HT-0248,AGT,M235T,rs699,2.0,risk/risk
+HT-0248,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0248,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0248,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0248,PRS,BP polygenic risk score (z),,0.1,
+HT-0249,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0249,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0249,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0249,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0249,PRS,BP polygenic risk score (z),,-1.12,
+HT-0250,AGT,M235T,rs699,2.0,risk/risk
+HT-0250,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0250,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0250,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0250,PRS,BP polygenic risk score (z),,-0.65,
+HT-0251,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0251,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0251,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0251,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0251,PRS,BP polygenic risk score (z),,0.2,
+HT-0252,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0252,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0252,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0252,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0252,PRS,BP polygenic risk score (z),,-0.17,
+HT-0253,AGT,M235T,rs699,2.0,risk/risk
+HT-0253,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0253,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0253,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0253,PRS,BP polygenic risk score (z),,0.48,
+HT-0254,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0254,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0254,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0254,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0254,PRS,BP polygenic risk score (z),,0.25,
+HT-0255,AGT,M235T,rs699,2.0,risk/risk
+HT-0255,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0255,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0255,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0255,PRS,BP polygenic risk score (z),,1.26,
+HT-0256,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0256,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0256,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0256,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0256,PRS,BP polygenic risk score (z),,0.24,
+HT-0257,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0257,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0257,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0257,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0257,PRS,BP polygenic risk score (z),,-0.72,
+HT-0258,AGT,M235T,rs699,2.0,risk/risk
+HT-0258,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0258,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0258,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0258,PRS,BP polygenic risk score (z),,-0.04,
+HT-0259,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0259,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0259,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0259,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0259,PRS,BP polygenic risk score (z),,1.13,
+HT-0260,AGT,M235T,rs699,2.0,risk/risk
+HT-0260,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0260,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0260,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0260,PRS,BP polygenic risk score (z),,-0.06,
+HT-0261,AGT,M235T,rs699,2.0,risk/risk
+HT-0261,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0261,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0261,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0261,PRS,BP polygenic risk score (z),,-0.51,
+HT-0262,AGT,M235T,rs699,2.0,risk/risk
+HT-0262,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0262,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0262,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0262,PRS,BP polygenic risk score (z),,0.79,
+HT-0263,AGT,M235T,rs699,2.0,risk/risk
+HT-0263,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0263,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0263,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0263,PRS,BP polygenic risk score (z),,1.49,
+HT-0264,AGT,M235T,rs699,2.0,risk/risk
+HT-0264,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0264,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0264,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0264,PRS,BP polygenic risk score (z),,-1.26,
+HT-0265,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0265,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0265,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0265,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0265,PRS,BP polygenic risk score (z),,-0.48,
+HT-0266,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0266,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0266,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0266,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0266,PRS,BP polygenic risk score (z),,0.65,
+HT-0267,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0267,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0267,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0267,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0267,PRS,BP polygenic risk score (z),,0.93,
+HT-0268,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0268,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0268,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0268,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0268,PRS,BP polygenic risk score (z),,1.53,
+HT-0269,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0269,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0269,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0269,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0269,PRS,BP polygenic risk score (z),,0.55,
+HT-0270,AGT,M235T,rs699,2.0,risk/risk
+HT-0270,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0270,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0270,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0270,PRS,BP polygenic risk score (z),,-0.84,
+HT-0271,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0271,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0271,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0271,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0271,PRS,BP polygenic risk score (z),,0.58,
+HT-0272,AGT,M235T,rs699,2.0,risk/risk
+HT-0272,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0272,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0272,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0272,PRS,BP polygenic risk score (z),,1.45,
+HT-0273,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0273,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0273,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0273,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0273,PRS,BP polygenic risk score (z),,-0.72,
+HT-0274,AGT,M235T,rs699,2.0,risk/risk
+HT-0274,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0274,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0274,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0274,PRS,BP polygenic risk score (z),,-0.36,
+HT-0275,AGT,M235T,rs699,2.0,risk/risk
+HT-0275,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0275,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0275,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0275,PRS,BP polygenic risk score (z),,-0.48,
+HT-0276,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0276,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0276,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0276,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0276,PRS,BP polygenic risk score (z),,-0.52,
+HT-0277,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0277,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0277,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0277,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0277,PRS,BP polygenic risk score (z),,0.86,
+HT-0278,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0278,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0278,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0278,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0278,PRS,BP polygenic risk score (z),,-0.46,
+HT-0279,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0279,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0279,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0279,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0279,PRS,BP polygenic risk score (z),,0.68,
+HT-0280,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0280,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0280,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0280,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0280,PRS,BP polygenic risk score (z),,1.18,
+HT-0281,AGT,M235T,rs699,2.0,risk/risk
+HT-0281,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0281,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0281,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0281,PRS,BP polygenic risk score (z),,1.24,
+HT-0282,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0282,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0282,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0282,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0282,PRS,BP polygenic risk score (z),,0.22,
+HT-0283,AGT,M235T,rs699,2.0,risk/risk
+HT-0283,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0283,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0283,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0283,PRS,BP polygenic risk score (z),,-0.51,
+HT-0284,AGT,M235T,rs699,2.0,risk/risk
+HT-0284,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0284,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0284,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0284,PRS,BP polygenic risk score (z),,2.2,
+HT-0285,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0285,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0285,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0285,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0285,PRS,BP polygenic risk score (z),,-1.47,
+HT-0286,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0286,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0286,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0286,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0286,PRS,BP polygenic risk score (z),,-1.47,
+HT-0287,AGT,M235T,rs699,2.0,risk/risk
+HT-0287,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0287,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0287,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0287,PRS,BP polygenic risk score (z),,-0.75,
+HT-0288,AGT,M235T,rs699,2.0,risk/risk
+HT-0288,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0288,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0288,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0288,PRS,BP polygenic risk score (z),,0.78,
+HT-0289,AGT,M235T,rs699,2.0,risk/risk
+HT-0289,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0289,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0289,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0289,PRS,BP polygenic risk score (z),,-1.88,
+HT-0290,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0290,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0290,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0290,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0290,PRS,BP polygenic risk score (z),,1.02,
+HT-0291,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0291,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0291,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0291,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0291,PRS,BP polygenic risk score (z),,-0.34,
+HT-0292,AGT,M235T,rs699,2.0,risk/risk
+HT-0292,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0292,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0292,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0292,PRS,BP polygenic risk score (z),,0.21,
+HT-0293,AGT,M235T,rs699,2.0,risk/risk
+HT-0293,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0293,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0293,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0293,PRS,BP polygenic risk score (z),,-0.66,
+HT-0294,AGT,M235T,rs699,2.0,risk/risk
+HT-0294,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0294,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0294,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0294,PRS,BP polygenic risk score (z),,-1.08,
+HT-0295,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0295,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0295,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0295,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0295,PRS,BP polygenic risk score (z),,-0.69,
+HT-0296,AGT,M235T,rs699,2.0,risk/risk
+HT-0296,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0296,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0296,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0296,PRS,BP polygenic risk score (z),,0.24,
+HT-0297,AGT,M235T,rs699,2.0,risk/risk
+HT-0297,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0297,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0297,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0297,PRS,BP polygenic risk score (z),,-0.1,
+HT-0298,AGT,M235T,rs699,2.0,risk/risk
+HT-0298,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0298,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0298,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0298,PRS,BP polygenic risk score (z),,-1.34,
+HT-0299,AGT,M235T,rs699,2.0,risk/risk
+HT-0299,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0299,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0299,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0299,PRS,BP polygenic risk score (z),,-0.25,
+HT-0300,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0300,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0300,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0300,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0300,PRS,BP polygenic risk score (z),,-0.04,
+HT-0301,AGT,M235T,rs699,2.0,risk/risk
+HT-0301,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0301,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0301,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0301,PRS,BP polygenic risk score (z),,-1.76,
+HT-0302,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0302,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0302,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0302,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0302,PRS,BP polygenic risk score (z),,-1.82,
+HT-0303,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0303,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0303,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0303,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0303,PRS,BP polygenic risk score (z),,-1.86,
+HT-0304,AGT,M235T,rs699,2.0,risk/risk
+HT-0304,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0304,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0304,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0304,PRS,BP polygenic risk score (z),,-1.35,
+HT-0305,AGT,M235T,rs699,2.0,risk/risk
+HT-0305,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0305,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0305,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0305,PRS,BP polygenic risk score (z),,-0.64,
+HT-0306,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0306,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0306,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0306,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0306,PRS,BP polygenic risk score (z),,0.55,
+HT-0307,AGT,M235T,rs699,2.0,risk/risk
+HT-0307,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0307,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0307,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0307,PRS,BP polygenic risk score (z),,-0.26,
+HT-0308,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0308,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0308,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0308,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0308,PRS,BP polygenic risk score (z),,0.6,
+HT-0309,AGT,M235T,rs699,2.0,risk/risk
+HT-0309,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0309,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0309,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0309,PRS,BP polygenic risk score (z),,-0.91,
+HT-0310,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0310,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0310,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0310,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0310,PRS,BP polygenic risk score (z),,-1.2,
+HT-0311,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0311,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0311,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0311,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0311,PRS,BP polygenic risk score (z),,0.81,
+HT-0312,AGT,M235T,rs699,2.0,risk/risk
+HT-0312,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0312,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0312,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0312,PRS,BP polygenic risk score (z),,-0.03,
+HT-0313,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0313,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0313,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0313,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0313,PRS,BP polygenic risk score (z),,-1.19,
+HT-0314,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0314,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0314,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0314,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0314,PRS,BP polygenic risk score (z),,-0.62,
+HT-0315,AGT,M235T,rs699,2.0,risk/risk
+HT-0315,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0315,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0315,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0315,PRS,BP polygenic risk score (z),,-0.08,
+HT-0316,AGT,M235T,rs699,2.0,risk/risk
+HT-0316,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0316,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0316,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0316,PRS,BP polygenic risk score (z),,1.14,
+HT-0317,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0317,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0317,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0317,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0317,PRS,BP polygenic risk score (z),,0.99,
+HT-0318,AGT,M235T,rs699,2.0,risk/risk
+HT-0318,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0318,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0318,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0318,PRS,BP polygenic risk score (z),,0.16,
+HT-0319,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0319,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0319,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0319,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0319,PRS,BP polygenic risk score (z),,-0.52,
+HT-0320,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0320,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0320,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0320,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0320,PRS,BP polygenic risk score (z),,0.93,
+HT-0321,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0321,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0321,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0321,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0321,PRS,BP polygenic risk score (z),,0.92,
+HT-0322,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0322,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0322,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0322,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0322,PRS,BP polygenic risk score (z),,-1.28,
+HT-0323,AGT,M235T,rs699,2.0,risk/risk
+HT-0323,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0323,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0323,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0323,PRS,BP polygenic risk score (z),,0.8,
+HT-0324,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0324,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0324,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0324,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0324,PRS,BP polygenic risk score (z),,0.38,
+HT-0325,AGT,M235T,rs699,2.0,risk/risk
+HT-0325,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0325,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0325,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0325,PRS,BP polygenic risk score (z),,-2.53,
+HT-0326,AGT,M235T,rs699,2.0,risk/risk
+HT-0326,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0326,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0326,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0326,PRS,BP polygenic risk score (z),,0.48,
+HT-0327,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0327,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0327,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0327,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0327,PRS,BP polygenic risk score (z),,-1.87,
+HT-0328,AGT,M235T,rs699,2.0,risk/risk
+HT-0328,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0328,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0328,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0328,PRS,BP polygenic risk score (z),,0.59,
+HT-0329,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0329,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0329,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0329,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0329,PRS,BP polygenic risk score (z),,-0.67,
+HT-0330,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0330,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0330,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0330,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0330,PRS,BP polygenic risk score (z),,-0.62,
+HT-0331,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0331,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0331,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0331,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0331,PRS,BP polygenic risk score (z),,0.52,
+HT-0332,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0332,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0332,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0332,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0332,PRS,BP polygenic risk score (z),,-0.04,
+HT-0333,AGT,M235T,rs699,2.0,risk/risk
+HT-0333,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0333,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0333,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0333,PRS,BP polygenic risk score (z),,0.32,
+HT-0334,AGT,M235T,rs699,2.0,risk/risk
+HT-0334,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0334,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0334,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0334,PRS,BP polygenic risk score (z),,0.1,
+HT-0335,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0335,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0335,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0335,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0335,PRS,BP polygenic risk score (z),,1.57,
+HT-0336,AGT,M235T,rs699,2.0,risk/risk
+HT-0336,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0336,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0336,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0336,PRS,BP polygenic risk score (z),,0.96,
+HT-0337,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0337,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0337,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0337,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0337,PRS,BP polygenic risk score (z),,0.35,
+HT-0338,AGT,M235T,rs699,2.0,risk/risk
+HT-0338,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0338,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0338,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0338,PRS,BP polygenic risk score (z),,0.56,
+HT-0339,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0339,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0339,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0339,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0339,PRS,BP polygenic risk score (z),,1.68,
+HT-0340,AGT,M235T,rs699,2.0,risk/risk
+HT-0340,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0340,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0340,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0340,PRS,BP polygenic risk score (z),,-0.33,
+HT-0341,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0341,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0341,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0341,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0341,PRS,BP polygenic risk score (z),,-0.5,
+HT-0342,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0342,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0342,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0342,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0342,PRS,BP polygenic risk score (z),,-0.59,
+HT-0343,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0343,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0343,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0343,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0343,PRS,BP polygenic risk score (z),,-0.45,
+HT-0344,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0344,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0344,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0344,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0344,PRS,BP polygenic risk score (z),,0.1,
+HT-0345,AGT,M235T,rs699,2.0,risk/risk
+HT-0345,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0345,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0345,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0345,PRS,BP polygenic risk score (z),,-1.8,
+HT-0346,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0346,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0346,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0346,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0346,PRS,BP polygenic risk score (z),,-1.07,
+HT-0347,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0347,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0347,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0347,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0347,PRS,BP polygenic risk score (z),,-0.44,
+HT-0348,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0348,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0348,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0348,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0348,PRS,BP polygenic risk score (z),,-0.93,
+HT-0349,AGT,M235T,rs699,2.0,risk/risk
+HT-0349,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0349,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0349,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0349,PRS,BP polygenic risk score (z),,-1.7,
+HT-0350,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0350,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0350,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0350,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0350,PRS,BP polygenic risk score (z),,0.23,
+HT-0351,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0351,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0351,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0351,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0351,PRS,BP polygenic risk score (z),,-0.64,
+HT-0352,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0352,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0352,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0352,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0352,PRS,BP polygenic risk score (z),,1.05,
+HT-0353,AGT,M235T,rs699,2.0,risk/risk
+HT-0353,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0353,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0353,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0353,PRS,BP polygenic risk score (z),,0.34,
+HT-0354,AGT,M235T,rs699,2.0,risk/risk
+HT-0354,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0354,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0354,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0354,PRS,BP polygenic risk score (z),,0.29,
+HT-0355,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0355,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0355,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0355,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0355,PRS,BP polygenic risk score (z),,0.8,
+HT-0356,AGT,M235T,rs699,2.0,risk/risk
+HT-0356,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0356,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0356,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0356,PRS,BP polygenic risk score (z),,0.83,
+HT-0357,AGT,M235T,rs699,2.0,risk/risk
+HT-0357,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0357,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0357,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0357,PRS,BP polygenic risk score (z),,-0.57,
+HT-0358,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0358,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0358,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0358,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0358,PRS,BP polygenic risk score (z),,-0.33,
+HT-0359,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0359,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0359,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0359,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0359,PRS,BP polygenic risk score (z),,0.85,
+HT-0360,AGT,M235T,rs699,2.0,risk/risk
+HT-0360,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0360,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0360,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0360,PRS,BP polygenic risk score (z),,-0.5,
+HT-0361,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0361,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0361,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0361,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0361,PRS,BP polygenic risk score (z),,-0.04,
+HT-0362,AGT,M235T,rs699,2.0,risk/risk
+HT-0362,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0362,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0362,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0362,PRS,BP polygenic risk score (z),,-1.8,
+HT-0363,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0363,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0363,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0363,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0363,PRS,BP polygenic risk score (z),,-0.33,
+HT-0364,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0364,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0364,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0364,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0364,PRS,BP polygenic risk score (z),,0.1,
+HT-0365,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0365,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0365,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0365,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0365,PRS,BP polygenic risk score (z),,0.41,
+HT-0366,AGT,M235T,rs699,2.0,risk/risk
+HT-0366,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0366,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0366,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0366,PRS,BP polygenic risk score (z),,-0.03,
+HT-0367,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0367,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0367,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0367,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0367,PRS,BP polygenic risk score (z),,-0.31,
+HT-0368,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0368,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0368,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0368,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0368,PRS,BP polygenic risk score (z),,-1.04,
+HT-0369,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0369,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0369,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0369,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0369,PRS,BP polygenic risk score (z),,0.19,
+HT-0370,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0370,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0370,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0370,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0370,PRS,BP polygenic risk score (z),,-0.07,
+HT-0371,AGT,M235T,rs699,2.0,risk/risk
+HT-0371,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0371,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0371,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0371,PRS,BP polygenic risk score (z),,-0.3,
+HT-0372,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0372,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0372,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0372,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0372,PRS,BP polygenic risk score (z),,1.11,
+HT-0373,AGT,M235T,rs699,2.0,risk/risk
+HT-0373,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0373,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0373,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0373,PRS,BP polygenic risk score (z),,0.45,
+HT-0374,AGT,M235T,rs699,2.0,risk/risk
+HT-0374,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0374,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0374,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0374,PRS,BP polygenic risk score (z),,-0.95,
+HT-0375,AGT,M235T,rs699,2.0,risk/risk
+HT-0375,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0375,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0375,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0375,PRS,BP polygenic risk score (z),,-0.14,
+HT-0376,AGT,M235T,rs699,2.0,risk/risk
+HT-0376,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0376,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0376,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0376,PRS,BP polygenic risk score (z),,0.09,
+HT-0377,AGT,M235T,rs699,2.0,risk/risk
+HT-0377,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0377,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0377,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0377,PRS,BP polygenic risk score (z),,-0.63,
+HT-0378,AGT,M235T,rs699,2.0,risk/risk
+HT-0378,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0378,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0378,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0378,PRS,BP polygenic risk score (z),,-2.53,
+HT-0379,AGT,M235T,rs699,2.0,risk/risk
+HT-0379,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0379,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0379,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0379,PRS,BP polygenic risk score (z),,1.08,
+HT-0380,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0380,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0380,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0380,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0380,PRS,BP polygenic risk score (z),,-0.97,
+HT-0381,AGT,M235T,rs699,2.0,risk/risk
+HT-0381,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0381,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0381,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0381,PRS,BP polygenic risk score (z),,0.39,
+HT-0382,AGT,M235T,rs699,2.0,risk/risk
+HT-0382,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0382,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0382,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0382,PRS,BP polygenic risk score (z),,-0.26,
+HT-0383,AGT,M235T,rs699,2.0,risk/risk
+HT-0383,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0383,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0383,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0383,PRS,BP polygenic risk score (z),,0.67,
+HT-0384,AGT,M235T,rs699,2.0,risk/risk
+HT-0384,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0384,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0384,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0384,PRS,BP polygenic risk score (z),,-0.02,
+HT-0385,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0385,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0385,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0385,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0385,PRS,BP polygenic risk score (z),,0.22,
+HT-0386,AGT,M235T,rs699,2.0,risk/risk
+HT-0386,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0386,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0386,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0386,PRS,BP polygenic risk score (z),,0.3,
+HT-0387,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0387,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0387,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0387,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0387,PRS,BP polygenic risk score (z),,-0.99,
+HT-0388,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0388,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0388,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0388,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0388,PRS,BP polygenic risk score (z),,-1.49,
+HT-0389,AGT,M235T,rs699,2.0,risk/risk
+HT-0389,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0389,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0389,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0389,PRS,BP polygenic risk score (z),,1.65,
+HT-0390,AGT,M235T,rs699,2.0,risk/risk
+HT-0390,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0390,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0390,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0390,PRS,BP polygenic risk score (z),,-1.25,
+HT-0391,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0391,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0391,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0391,GNB3,C825T,rs5443,2.0,risk/risk
+HT-0391,PRS,BP polygenic risk score (z),,-0.29,
+HT-0392,AGT,M235T,rs699,2.0,risk/risk
+HT-0392,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0392,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0392,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0392,PRS,BP polygenic risk score (z),,0.24,
+HT-0393,AGT,M235T,rs699,2.0,risk/risk
+HT-0393,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0393,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0393,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0393,PRS,BP polygenic risk score (z),,0.91,
+HT-0394,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0394,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0394,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0394,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0394,PRS,BP polygenic risk score (z),,-0.87,
+HT-0395,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0395,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0395,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0395,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0395,PRS,BP polygenic risk score (z),,-0.09,
+HT-0396,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0396,ACE,I/D,rs1799752,0.0,non-risk/non-risk
+HT-0396,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0396,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0396,PRS,BP polygenic risk score (z),,-0.62,
+HT-0397,AGT,M235T,rs699,0.0,non-risk/non-risk
+HT-0397,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0397,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0397,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0397,PRS,BP polygenic risk score (z),,0.06,
+HT-0398,AGT,M235T,rs699,2.0,risk/risk
+HT-0398,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0398,CYP11B2,-344C/T,rs1799998,2.0,risk/risk
+HT-0398,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0398,PRS,BP polygenic risk score (z),,-0.66,
+HT-0399,AGT,M235T,rs699,2.0,risk/risk
+HT-0399,ACE,I/D,rs1799752,2.0,risk/risk
+HT-0399,CYP11B2,-344C/T,rs1799998,0.0,non-risk/non-risk
+HT-0399,GNB3,C825T,rs5443,1.0,risk/non-risk
+HT-0399,PRS,BP polygenic risk score (z),,1.0,
+HT-0400,AGT,M235T,rs699,1.0,risk/non-risk
+HT-0400,ACE,I/D,rs1799752,1.0,risk/non-risk
+HT-0400,CYP11B2,-344C/T,rs1799998,1.0,risk/non-risk
+HT-0400,GNB3,C825T,rs5443,0.0,non-risk/non-risk
+HT-0400,PRS,BP polygenic risk score (z),,-0.72,

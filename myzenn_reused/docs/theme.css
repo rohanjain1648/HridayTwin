@@ -1,0 +1,406 @@
+/* =====================================================
+   MYZENN - Premium Theme System
+   Inspired by: VS Code, Linear, Notion, Headspace
+   
+   6 Themes: Light (default), Dark, Mint, Sunset, Ocean, Cosmic
+   ===================================================== */
+
+@layer base {
+
+    /* =====================================================
+       LIGHT THEME (Default - on :root)
+       Clean, minimal, Apple-inspired
+       ===================================================== */
+    :root {
+        /* Primary Brand - MyZen Teal */
+        --myzen-teal-50: 180 100% 98%;
+        --myzen-teal-100: 180 100% 94%;
+        --myzen-teal-200: 180 95% 85%;
+        --myzen-teal-300: 180 90% 70%;
+        --myzen-teal-400: 180 85% 55%;
+        --myzen-teal-500: 180 100% 35%;
+        --myzen-teal-600: 180 100% 25%;
+        --myzen-teal-700: 180 100% 20%;
+
+        --background: 0 0% 100%;
+        --foreground: 220 20% 10%;
+
+        --card: 0 0% 100%;
+        --card-foreground: 220 20% 10%;
+
+        --popover: 0 0% 100%;
+        --popover-foreground: 220 20% 10%;
+
+        --primary: 180 100% 35%;
+        --primary-foreground: 0 0% 100%;
+        --primary-glow: 180 85% 55%;
+
+        --secondary: 220 15% 96%;
+        --secondary-foreground: 220 20% 10%;
+
+        --muted: 220 15% 96%;
+        --muted-foreground: 220 10% 45%;
+
+        --accent: 180 30% 96%;
+        --accent-foreground: 180 100% 25%;
+
+        --destructive: 0 85% 60%;
+        --destructive-foreground: 0 0% 100%;
+
+        --warm: 30 80% 55%;
+        --warm-foreground: 0 0% 100%;
+
+        --border: 220 15% 90%;
+        --input: 220 15% 90%;
+        --ring: 180 100% 35%;
+
+        --radius: 0.75rem;
+
+        --radius: 0.75rem;
+
+        /* Glass adaptive - Light theme uses subtle tint for visibility */
+        --glass-bg: rgba(240, 245, 250, 0.85);
+        --glass-border: rgba(0, 0, 0, 0.08);
+
+        /* Gradients */
+        --gradient-hero: linear-gradient(135deg, hsl(180 100% 35%), hsl(200 80% 50%));
+        --gradient-calm: linear-gradient(180deg, #F8FAFC, #EFF6FF);
+        --gradient-warm: linear-gradient(135deg, hsl(30 80% 55%), hsl(40 90% 60%));
+        --gradient-glass: linear-gradient(180deg, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.3));
+
+        /* Shadows - more visible for light mode */
+        --shadow-soft: 0 4px 20px -2px rgba(0, 0, 0, 0.08);
+        --shadow-glow: 0 0 20px rgba(0, 200, 200, 0.3);
+        --shadow-card: 0 8px 32px -4px rgba(0, 0, 0, 0.1);
+        --shadow-float: 0 20px 40px -5px rgba(0, 0, 0, 0.12);
+    }
+}
+
+/* =====================================================
+   DARK THEME
+   Sophisticated deep dark, VS Code inspired
+   ===================================================== */
+html.dark,
+.dark {
+    --background: 220 40% 4%;
+    --foreground: 220 20% 98%;
+
+    --card: 220 35% 6%;
+    --card-foreground: 220 20% 98%;
+
+    --popover: 220 35% 6%;
+    --popover-foreground: 220 20% 98%;
+
+    --primary: 180 80% 50%;
+    --primary-foreground: 220 40% 4%;
+    --primary-glow: 180 80% 60%;
+
+    --secondary: 220 30% 10%;
+    --secondary-foreground: 220 20% 98%;
+
+    --muted: 220 30% 10%;
+    --muted-foreground: 220 20% 60%;
+
+    --accent: 180 50% 10%;
+    --accent-foreground: 180 80% 60%;
+
+    --destructive: 0 70% 50%;
+    --destructive-foreground: 220 20% 98%;
+
+    --warm: 30 70% 50%;
+    --warm-foreground: 220 20% 98%;
+
+    --border: 220 30% 12%;
+    --input: 220 30% 12%;
+    --ring: 180 80% 50%;
+
+    --ring: 180 80% 50%;
+
+    /* Glass adaptive - Dark themes use white/transparent glass */
+    --glass-bg: rgba(255, 255, 255, 0.05);
+    --glass-border: rgba(255, 255, 255, 0.1);
+
+    --gradient-hero: linear-gradient(135deg, hsl(180 80% 50%), hsl(200 70% 40%));
+    --gradient-calm: linear-gradient(180deg, hsl(220 40% 4%), hsl(220 35% 6%));
+    --gradient-warm: linear-gradient(135deg, hsl(30 70% 50%), hsl(40 80% 55%));
+    --gradient-glass: linear-gradient(180deg, rgba(20, 25, 35, 0.7), rgba(20, 25, 35, 0.3));
+
+    --shadow-soft: 0 4px 20px -2px rgba(0, 0, 0, 0.5);
+    --shadow-glow: 0 0 30px rgba(0, 255, 255, 0.15);
+    --shadow-card: 0 10px 40px -10px rgba(0, 0, 0, 0.5);
+    --shadow-float: 0 20px 50px -10px rgba(0, 0, 0, 0.5);
+}
+
+/* =====================================================
+   MINT THEME
+   Fresh, calming green - Calm app inspired
+   ===================================================== */
+html.mint,
+.mint {
+    --background: 140 40% 98%;
+    --foreground: 140 30% 10%;
+
+    --card: 140 35% 97%;
+    --card-foreground: 140 30% 10%;
+
+    --popover: 140 35% 97%;
+    --popover-foreground: 140 30% 10%;
+
+    --primary: 160 70% 35%;
+    --primary-foreground: 0 0% 100%;
+    --primary-glow: 160 70% 45%;
+
+    --secondary: 140 25% 92%;
+    --secondary-foreground: 140 30% 10%;
+
+    --muted: 140 25% 92%;
+    --muted-foreground: 140 15% 40%;
+
+    --accent: 160 40% 92%;
+    --accent-foreground: 160 70% 25%;
+
+    --destructive: 0 75% 55%;
+    --destructive-foreground: 0 0% 100%;
+
+    --warm: 35 75% 50%;
+    --warm-foreground: 0 0% 100%;
+
+    --border: 140 20% 88%;
+    --input: 140 20% 88%;
+    --ring: 160 70% 35%;
+
+    --ring: 160 70% 35%;
+
+    /* Mint Theme Glass - subtle green tint */
+    --glass-bg: rgba(235, 250, 245, 0.9);
+    --glass-border: rgba(0, 100, 80, 0.12);
+
+    --gradient-hero: linear-gradient(135deg, hsl(160 70% 35%), hsl(140 60% 45%));
+    --gradient-calm: linear-gradient(180deg, hsl(140 40% 98%), hsl(140 35% 95%));
+    --gradient-warm: linear-gradient(135deg, hsl(35 75% 50%), hsl(45 80% 55%));
+    --gradient-glass: linear-gradient(180deg, rgba(230, 250, 240, 0.8), rgba(230, 250, 240, 0.4));
+
+    --shadow-soft: 0 4px 20px -2px rgba(0, 80, 60, 0.1);
+    --shadow-glow: 0 0 25px rgba(40, 180, 140, 0.25);
+    --shadow-card: 0 8px 32px -4px rgba(0, 80, 60, 0.12);
+    --shadow-float: 0 20px 40px -5px rgba(0, 80, 60, 0.15);
+}
+
+/* =====================================================
+   SUNSET THEME
+   Warm amber/coral - Headspace inspired
+   ===================================================== */
+html.sunset,
+.sunset {
+    --background: 30 50% 98%;
+    --foreground: 25 35% 15%;
+
+    --card: 30 45% 97%;
+    --card-foreground: 25 35% 15%;
+
+    --popover: 30 45% 97%;
+    --popover-foreground: 25 35% 15%;
+
+    --primary: 25 90% 50%;
+    --primary-foreground: 0 0% 100%;
+    --primary-glow: 30 95% 55%;
+
+    --secondary: 30 30% 92%;
+    --secondary-foreground: 25 35% 15%;
+
+    --muted: 30 30% 92%;
+    --muted-foreground: 25 20% 45%;
+
+    --accent: 35 50% 92%;
+    --accent-foreground: 25 90% 40%;
+
+    --destructive: 0 80% 55%;
+    --destructive-foreground: 0 0% 100%;
+
+    --warm: 15 85% 50%;
+    --warm-foreground: 0 0% 100%;
+
+    --border: 30 25% 88%;
+    --input: 30 25% 88%;
+    --ring: 25 90% 50%;
+
+    --ring: 25 90% 50%;
+
+    /* Sunset Theme Glass - warm tint */
+    --glass-bg: rgba(255, 250, 245, 0.9);
+    --glass-border: rgba(150, 80, 30, 0.12);
+
+    --gradient-hero: linear-gradient(135deg, hsl(25 90% 50%), hsl(40 85% 55%));
+    --gradient-calm: linear-gradient(180deg, hsl(30 50% 98%), hsl(35 45% 95%));
+    --gradient-warm: linear-gradient(135deg, hsl(15 85% 50%), hsl(25 90% 55%));
+    --gradient-glass: linear-gradient(180deg, rgba(255, 245, 235, 0.8), rgba(255, 245, 235, 0.4));
+
+    --shadow-soft: 0 4px 20px -2px rgba(120, 60, 20, 0.1);
+    --shadow-glow: 0 0 25px rgba(255, 140, 60, 0.25);
+    --shadow-card: 0 8px 32px -4px rgba(120, 60, 20, 0.12);
+    --shadow-float: 0 20px 40px -5px rgba(120, 60, 20, 0.15);
+}
+
+/* =====================================================
+   OCEAN THEME
+   Deep blue, relaxing - Slack/Figma inspired
+   ===================================================== */
+html.ocean,
+.ocean {
+    --background: 215 60% 6%;
+    --foreground: 210 30% 95%;
+
+    --card: 215 55% 8%;
+    --card-foreground: 210 30% 95%;
+
+    --popover: 215 55% 8%;
+    --popover-foreground: 210 30% 95%;
+
+    --primary: 200 85% 55%;
+    --primary-foreground: 215 60% 6%;
+    --primary-glow: 200 90% 60%;
+
+    --secondary: 215 40% 12%;
+    --secondary-foreground: 210 30% 95%;
+
+    --muted: 215 40% 12%;
+    --muted-foreground: 210 25% 55%;
+
+    --accent: 200 50% 15%;
+    --accent-foreground: 200 85% 65%;
+
+    --destructive: 0 70% 55%;
+    --destructive-foreground: 210 30% 95%;
+
+    --warm: 35 70% 55%;
+    --warm-foreground: 215 60% 6%;
+
+    --border: 215 35% 15%;
+    --input: 215 35% 15%;
+    --ring: 200 85% 55%;
+
+    --ring: 200 85% 55%;
+
+    /* Dark Theme Glass */
+    --glass-bg: rgba(255, 255, 255, 0.05);
+    --glass-border: rgba(255, 255, 255, 0.1);
+
+    --gradient-hero: linear-gradient(135deg, hsl(200 85% 55%), hsl(220 75% 50%));
+    --gradient-calm: linear-gradient(180deg, hsl(215 60% 6%), hsl(215 55% 10%));
+    --gradient-warm: linear-gradient(135deg, hsl(35 70% 55%), hsl(45 75% 60%));
+    --gradient-glass: linear-gradient(180deg, rgba(15, 35, 60, 0.8), rgba(15, 35, 60, 0.4));
+
+    --shadow-soft: 0 4px 20px -2px rgba(0, 20, 60, 0.4);
+    --shadow-glow: 0 0 30px rgba(60, 170, 255, 0.2);
+    --shadow-card: 0 10px 40px -10px rgba(0, 20, 60, 0.5);
+    --shadow-float: 0 20px 50px -10px rgba(0, 20, 60, 0.5);
+}
+
+/* =====================================================
+   COSMIC THEME
+   Purple/violet galaxy - VS Code Dracula inspired
+   ===================================================== */
+html.cosmic,
+.cosmic {
+    --background: 265 50% 5%;
+    --foreground: 270 30% 95%;
+
+    --card: 265 45% 8%;
+    --card-foreground: 270 30% 95%;
+
+    --popover: 265 45% 8%;
+    --popover-foreground: 270 30% 95%;
+
+    --primary: 280 80% 60%;
+    --primary-foreground: 265 50% 5%;
+    --primary-glow: 280 85% 70%;
+
+    --secondary: 265 35% 12%;
+    --secondary-foreground: 270 30% 95%;
+
+    --muted: 265 35% 12%;
+    --muted-foreground: 270 25% 55%;
+
+    --accent: 280 45% 15%;
+    --accent-foreground: 280 80% 70%;
+
+    --destructive: 350 75% 55%;
+    --destructive-foreground: 270 30% 95%;
+
+    --warm: 40 70% 55%;
+    --warm-foreground: 265 50% 5%;
+
+    --border: 265 30% 15%;
+    --input: 265 30% 15%;
+    --ring: 280 80% 60%;
+
+    --ring: 280 80% 60%;
+
+    /* Dark Theme Glass */
+    --glass-bg: rgba(255, 255, 255, 0.05);
+    --glass-border: rgba(255, 255, 255, 0.1);
+
+    --gradient-hero: linear-gradient(135deg, hsl(280 80% 60%), hsl(300 70% 50%));
+    --gradient-calm: linear-gradient(180deg, hsl(265 50% 5%), hsl(265 45% 10%));
+    --gradient-warm: linear-gradient(135deg, hsl(40 70% 55%), hsl(50 75% 60%));
+    --gradient-glass: linear-gradient(180deg, rgba(40, 20, 60, 0.8), rgba(40, 20, 60, 0.4));
+
+    --shadow-soft: 0 4px 20px -2px rgba(40, 0, 80, 0.4);
+    --shadow-glow: 0 0 30px rgba(180, 100, 255, 0.2);
+    --shadow-card: 0 10px 40px -10px rgba(40, 0, 80, 0.5);
+    --shadow-float: 0 20px 50px -10px rgba(40, 0, 80, 0.5);
+}
+
+/* =====================================================
+   Ensure light theme can override dark themes
+   ===================================================== */
+html.light,
+.light {
+    --background: 0 0% 100%;
+    --foreground: 220 20% 10%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 220 20% 10%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 220 20% 10%;
+
+    --primary: 180 100% 35%;
+    --primary-foreground: 0 0% 100%;
+    --primary-glow: 180 85% 55%;
+
+    --secondary: 220 15% 96%;
+    --secondary-foreground: 220 20% 10%;
+
+    --muted: 220 15% 96%;
+    --muted-foreground: 220 10% 45%;
+
+    --accent: 180 30% 96%;
+    --accent-foreground: 180 100% 25%;
+
+    --destructive: 0 85% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --warm: 30 80% 55%;
+    --warm-foreground: 0 0% 100%;
+
+    --border: 220 15% 90%;
+    --input: 220 15% 90%;
+    --ring: 180 100% 35%;
+
+    --ring: 180 100% 35%;
+
+    /* Light Theme Glass */
+    --glass-bg: rgba(255, 255, 255, 0.75);
+    --glass-border: rgba(0, 0, 0, 0.12);
+
+    --gradient-hero: linear-gradient(135deg, hsl(180 100% 35%), hsl(200 80% 50%));
+    --gradient-calm: linear-gradient(180deg, #F8FAFC, #EFF6FF);
+    --gradient-warm: linear-gradient(135deg, hsl(30 80% 55%), hsl(40 90% 60%));
+    --gradient-glass: linear-gradient(180deg, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.3));
+
+    --shadow-soft: 0 4px 20px -2px rgba(0, 0, 0, 0.05);
+    --shadow-glow: 0 0 20px rgba(0, 200, 200, 0.3);
+    --shadow-card: 0 10px 30px -5px rgba(0, 0, 0, 0.05);
+    --shadow-float: 0 20px 40px -5px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,401 @@
+Id,BIRTHDATE,FIRST,LAST,GENDER,AGE,CITY,STATE,REGION,OCCUPATION,HEIGHT_CM,WEIGHT_KG,BMI,TOBACCO,ALCOHOL,DIET,SALT_G_DAY,OFFICE_SBP,OFFICE_DBP,MYZENN_USER,SYNTHETIC
+HT-0001,1986-02-23,Imran,Ahmed,M,40,Jaipur,Rajasthan,North,Government officer,172.5,90.6,30.5,1,0,Non-vegetarian,8.8,145,89,1,1
+HT-0002,1976-10-21,Sanjay,Singh,M,49,Hyderabad,Telangana,South,IT professional,180.1,106.0,32.7,0,0,Vegetarian,9.5,129,77,0,1
+HT-0003,1977-12-05,Pranav,Iyer,M,48,Kolkata,West Bengal,East,Driver,171.5,72.0,24.5,0,0,Non-vegetarian,11.5,132,85,1,1
+HT-0004,1987-03-20,Karthik,Ahmed,M,39,Kochi,Kerala,South,Government officer,170.4,81.2,28.0,0,1,Non-vegetarian,11.6,121,80,1,1
+HT-0005,1988-03-15,Aarav,Banerjee,M,38,Kolkata,West Bengal,East,IT professional,171.3,82.9,28.2,0,0,Vegetarian,8.9,140,92,1,1
+HT-0006,1993-12-05,Vihaan,Ahmed,M,32,Delhi,Delhi,North,Factory supervisor,163.2,67.8,25.5,1,1,Vegetarian,7.6,133,84,0,1
+HT-0007,1984-04-18,Aarav,Chauhan,M,42,Jaipur,Rajasthan,North,Farmer,165.1,73.1,26.8,0,0,Non-vegetarian,10.3,141,86,1,1
+HT-0008,1976-01-12,Neha,Reddy,F,50,Delhi,Delhi,North,Government officer,146.1,61.2,28.7,0,0,Vegetarian,8.0,126,84,1,1
+HT-0009,1987-09-20,Sunita,Menon,F,38,Jaipur,Rajasthan,North,Factory supervisor,153.9,61.0,25.8,0,1,Non-vegetarian,10.1,128,74,1,1
+HT-0010,1963-06-05,Harpreet,Iyer,M,63,Pune,Maharashtra,West,Homemaker,167.6,70.8,25.2,0,0,Non-vegetarian,13.2,151,100,0,1
+HT-0011,1979-11-06,Sanjay,Iyer,M,46,Pune,Maharashtra,West,Teacher,172.3,83.4,28.1,0,0,Non-vegetarian,8.0,143,93,0,1
+HT-0012,1968-11-13,Meera,Sharma,F,57,Chennai,Tamil Nadu,South,Factory supervisor,155.2,69.9,29.0,0,0,Non-vegetarian,8.0,128,77,1,1
+HT-0013,1978-03-14,Nikhil,Gupta,M,48,Lucknow,Uttar Pradesh,North,Sales executive,161.8,72.6,27.8,0,0,Vegetarian,8.8,122,81,0,1
+HT-0014,1971-05-28,Abdul,Banerjee,M,55,Kolkata,West Bengal,East,Shop owner,163.4,67.4,25.2,0,1,Vegetarian,10.0,153,86,1,1
+HT-0015,1989-03-25,Asha,Khan,F,37,Kochi,Kerala,South,Bank employee,156.0,62.4,25.7,0,0,Non-vegetarian,4.5,131,83,1,1
+HT-0016,1986-12-10,Anil,Menon,M,39,Lucknow,Uttar Pradesh,North,Shop owner,180.3,72.7,22.4,1,0,Non-vegetarian,10.5,121,75,0,1
+HT-0017,1958-02-09,Rohan,Khan,M,68,Delhi,Delhi,North,Driver,168.4,70.6,24.9,0,0,Non-vegetarian,8.5,125,80,0,1
+HT-0018,1990-07-18,Shalini,Mukherjee,F,35,Kochi,Kerala,South,Nurse,167.9,75.0,26.6,0,0,Vegetarian,10.8,125,82,0,1
+HT-0019,1987-05-31,Anil,Das,M,39,Delhi,Delhi,North,Government officer,168.2,71.8,25.4,0,0,Vegetarian,10.5,142,88,1,1
+HT-0020,1998-01-17,Suresh,Patel,M,28,Chennai,Tamil Nadu,South,Driver,172.6,82.1,27.6,0,0,Vegetarian,7.8,133,83,1,1
+HT-0021,1974-07-31,Fatima,Sharma,F,51,Chennai,Tamil Nadu,South,Shop owner,160.7,66.2,25.6,0,0,Eggetarian,9.9,121,73,1,1
+HT-0022,1980-05-08,Arjun,Nair,M,46,Bhubaneswar,Odisha,East,Retired,163.6,73.4,27.4,0,1,Non-vegetarian,7.8,129,76,1,1
+HT-0023,1971-04-24,Abdul,Kulkarni,M,55,Hyderabad,Telangana,South,IT professional,159.1,62.8,24.8,0,0,Vegetarian,12.3,130,84,1,1
+HT-0024,1988-11-26,Gurpreet,Iyer,F,37,Bengaluru,Karnataka,South,Bank employee,151.2,50.6,22.2,0,0,Vegetarian,10.1,129,87,1,1
+HT-0025,1976-07-25,Aarav,Pillai,M,49,Kochi,Kerala,South,Bank employee,166.8,77.9,28.0,1,0,Non-vegetarian,9.0,139,84,0,1
+HT-0026,1974-02-16,Ravi,Das,M,52,Hyderabad,Telangana,South,Driver,168.4,85.2,30.1,1,0,Vegetarian,8.5,136,86,1,1
+HT-0027,1982-01-26,Pooja,Nair,F,44,Mumbai,Maharashtra,West,Homemaker,169.5,93.7,32.6,0,1,Non-vegetarian,9.5,142,91,0,1
+HT-0028,1968-06-01,Gurpreet,Kulkarni,F,58,Lucknow,Uttar Pradesh,North,Retired,156.1,65.6,26.9,0,0,Vegetarian,9.6,133,78,1,1
+HT-0029,1985-09-05,Suresh,Kulkarni,M,40,Bhubaneswar,Odisha,East,Factory supervisor,166.5,86.6,31.2,0,0,Vegetarian,10.1,132,79,1,1
+HT-0030,1983-12-31,Ravi,Das,M,42,Hyderabad,Telangana,South,Factory supervisor,167.6,70.0,24.9,0,0,Vegetarian,5.4,125,72,1,1
+HT-0031,1995-03-12,Kavya,Menon,F,31,Delhi,Delhi,North,Driver,160.4,73.2,28.5,0,0,Non-vegetarian,13.7,142,85,1,1
+HT-0032,1988-09-18,Sneha,Nair,F,37,Kolkata,West Bengal,East,Factory supervisor,161.8,81.1,31.0,0,0,Eggetarian,11.8,145,96,1,1
+HT-0033,1983-05-21,Mary,Pillai,F,43,Hyderabad,Telangana,South,Nurse,149.8,42.5,19.0,0,0,Non-vegetarian,7.5,127,83,1,1
+HT-0034,1970-05-23,Harpreet,Ahmed,M,56,Kolkata,West Bengal,East,Bank employee,173.1,87.3,29.2,1,0,Non-vegetarian,8.6,125,74,1,1
+HT-0035,1964-09-24,Gurpreet,Reddy,F,61,Delhi,Delhi,North,Homemaker,157.6,48.1,19.4,0,0,Vegetarian,5.2,134,84,0,1
+HT-0036,1975-09-28,Divya,Menon,F,50,Kochi,Kerala,South,Sales executive,160.6,67.4,26.1,0,0,Vegetarian,10.6,147,85,1,1
+HT-0037,1975-09-29,Kavya,Mukherjee,F,50,Bengaluru,Karnataka,South,Retired,161.8,101.8,38.9,0,0,Vegetarian,13.3,144,92,0,1
+HT-0038,1970-09-23,Sneha,Reddy,F,55,Delhi,Delhi,North,Shop owner,151.7,60.5,26.3,1,0,Non-vegetarian,7.5,134,80,1,1
+HT-0039,1997-08-29,Nikhil,Reddy,M,28,Jaipur,Rajasthan,North,Nurse,165.5,78.6,28.7,1,0,Eggetarian,13.0,129,85,0,1
+HT-0040,1972-09-24,Kavya,Verma,F,53,Bengaluru,Karnataka,South,Teacher,150.4,58.5,25.8,0,0,Vegetarian,10.5,139,87,0,1
+HT-0041,1961-05-03,Abdul,Das,M,65,Bengaluru,Karnataka,South,Teacher,172.2,86.0,29.0,0,1,Vegetarian,11.0,136,80,1,1
+HT-0042,1968-02-10,Nikhil,Fernandes,M,58,Kolkata,West Bengal,East,Teacher,184.6,88.3,25.9,0,0,Non-vegetarian,11.9,134,77,1,1
+HT-0043,1973-10-01,Lakshmi,Gupta,F,52,Bengaluru,Karnataka,South,Retired,152.9,63.4,27.1,0,0,Vegetarian,9.4,116,68,0,1
+HT-0044,1974-01-07,Sneha,Gupta,F,52,Jaipur,Rajasthan,North,Sales executive,151.0,69.2,30.3,0,0,Eggetarian,9.3,134,79,0,1
+HT-0045,1979-04-25,Priya,Nair,F,47,Lucknow,Uttar Pradesh,North,Bank employee,147.4,67.6,31.1,0,0,Vegetarian,8.0,141,86,0,1
+HT-0046,1976-11-22,Deepak,Menon,M,49,Bhubaneswar,Odisha,East,Farmer,172.4,94.7,31.9,1,0,Non-vegetarian,10.1,133,80,0,1
+HT-0047,1956-02-09,Sneha,Reddy,F,70,Ahmedabad,Gujarat,West,Sales executive,156.1,57.7,23.7,0,0,Non-vegetarian,10.2,151,93,1,1
+HT-0048,1977-11-15,Rekha,Sharma,F,48,Bengaluru,Karnataka,South,Farmer,158.5,60.5,24.1,0,0,Non-vegetarian,11.7,160,94,0,1
+HT-0049,1962-11-26,Kavya,Khan,F,63,Chennai,Tamil Nadu,South,Shop owner,157.4,70.9,28.6,0,0,Non-vegetarian,8.0,149,99,0,1
+HT-0050,1985-07-31,Lakshmi,Banerjee,F,40,Bhubaneswar,Odisha,East,Bank employee,150.1,46.1,20.5,0,0,Non-vegetarian,5.8,134,81,1,1
+HT-0051,1960-08-16,Nandini,Singh,F,65,Hyderabad,Telangana,South,Homemaker,151.7,70.6,30.7,0,0,Non-vegetarian,9.1,126,77,0,1
+HT-0052,1965-02-15,Vikram,Singh,M,61,Kochi,Kerala,South,Retired,167.1,72.7,26.0,1,1,Non-vegetarian,9.1,148,85,1,1
+HT-0053,1979-02-26,Pranav,Khan,M,47,Kolkata,West Bengal,East,IT professional,165.8,112.2,40.8,0,1,Non-vegetarian,9.1,138,81,0,1
+HT-0054,1965-08-26,Mary,Chauhan,F,60,Kochi,Kerala,South,Nurse,143.8,59.2,28.6,0,0,Vegetarian,8.6,128,74,0,1
+HT-0055,1973-07-20,Priya,Iyer,F,52,Mumbai,Maharashtra,West,Bank employee,157.4,72.7,29.4,0,0,Non-vegetarian,10.6,134,79,1,1
+HT-0056,1962-11-20,Manoj,Banerjee,M,63,Lucknow,Uttar Pradesh,North,Nurse,171.4,91.6,31.2,0,0,Non-vegetarian,9.5,144,85,1,1
+HT-0057,1975-08-28,Aarav,Verma,M,50,Kochi,Kerala,South,Homemaker,174.2,85.3,28.1,1,0,Non-vegetarian,11.5,145,90,1,1
+HT-0058,1982-08-26,Gaurav,Banerjee,M,43,Delhi,Delhi,North,IT professional,155.9,67.1,27.6,0,1,Non-vegetarian,10.5,145,91,0,1
+HT-0059,1977-10-01,Meera,Reddy,F,48,Ahmedabad,Gujarat,West,Bank employee,155.8,58.1,24.0,0,0,Vegetarian,9.6,144,90,0,1
+HT-0060,1987-06-27,Kavya,Gupta,F,39,Lucknow,Uttar Pradesh,North,Retired,160.8,71.1,27.5,0,0,Non-vegetarian,9.0,118,77,0,1
+HT-0061,1977-04-29,Vikram,Pillai,M,49,Bhubaneswar,Odisha,East,Farmer,158.4,45.2,18.0,1,0,Vegetarian,12.4,138,83,1,1
+HT-0062,1968-04-10,Sunita,Sharma,F,58,Ahmedabad,Gujarat,West,Homemaker,143.9,71.0,34.3,0,0,Vegetarian,8.4,144,85,1,1
+HT-0063,1990-08-27,Kavya,Patel,F,35,Kolkata,West Bengal,East,Factory supervisor,160.6,73.3,28.4,0,0,Non-vegetarian,9.6,142,83,1,1
+HT-0064,1961-02-12,Kavya,Das,F,65,Bhubaneswar,Odisha,East,Factory supervisor,137.3,43.5,23.1,0,1,Non-vegetarian,5.8,145,96,1,1
+HT-0065,1975-02-19,Aarav,Khan,M,51,Chennai,Tamil Nadu,South,Bank employee,172.2,90.4,30.5,0,1,Non-vegetarian,8.2,137,81,0,1
+HT-0066,1959-01-01,Fatima,Nair,F,67,Lucknow,Uttar Pradesh,North,Teacher,159.9,58.4,22.8,0,0,Vegetarian,12.7,130,87,1,1
+HT-0067,1988-04-22,Harpreet,Banerjee,M,38,Jaipur,Rajasthan,North,Nurse,166.6,91.0,32.8,0,1,Non-vegetarian,7.6,139,79,0,1
+HT-0068,1964-11-18,Meera,Reddy,F,61,Lucknow,Uttar Pradesh,North,Retired,153.5,67.2,28.5,0,0,Eggetarian,11.4,129,71,0,1
+HT-0069,1992-05-27,Meera,Singh,F,34,Bhubaneswar,Odisha,East,Government officer,161.0,67.2,25.9,0,0,Non-vegetarian,11.1,140,91,0,1
+HT-0070,1971-05-31,Rahul,Fernandes,M,55,Mumbai,Maharashtra,West,IT professional,153.2,42.3,18.0,0,0,Eggetarian,9.6,123,73,0,1
+HT-0071,1983-12-12,Harpreet,Fernandes,M,42,Kolkata,West Bengal,East,IT professional,167.7,68.8,24.4,0,1,Non-vegetarian,9.5,112,63,1,1
+HT-0072,1983-02-26,Ravi,Verma,M,43,Delhi,Delhi,North,Sales executive,171.4,76.7,26.1,0,0,Vegetarian,11.5,155,90,1,1
+HT-0073,1976-01-04,Aarav,Das,M,50,Lucknow,Uttar Pradesh,North,Driver,163.3,71.1,26.7,1,1,Non-vegetarian,7.3,135,85,0,1
+HT-0074,1965-09-26,Rohan,Joshi,M,60,Kochi,Kerala,South,Teacher,159.9,65.3,25.5,1,0,Vegetarian,8.6,148,94,0,1
+HT-0075,1994-08-29,Radha,Reddy,F,31,Kochi,Kerala,South,Government officer,156.9,62.2,25.3,0,0,Non-vegetarian,6.4,119,70,0,1
+HT-0076,1981-03-07,Ananya,Das,F,45,Jaipur,Rajasthan,North,Nurse,158.2,73.2,29.2,0,0,Non-vegetarian,6.7,164,88,0,1
+HT-0077,1969-04-04,Neha,Singh,F,57,Kochi,Kerala,South,Government officer,152.1,63.4,27.4,0,0,Non-vegetarian,8.7,129,71,1,1
+HT-0078,1982-12-20,Pooja,Banerjee,F,43,Chennai,Tamil Nadu,South,Homemaker,154.6,69.2,29.0,0,0,Non-vegetarian,4.9,133,80,0,1
+HT-0079,1959-05-29,Karthik,Das,M,67,Mumbai,Maharashtra,West,Teacher,177.5,70.0,22.2,0,0,Non-vegetarian,11.4,152,91,1,1
+HT-0080,1970-05-11,Gaurav,Rao,M,56,Bengaluru,Karnataka,South,Shop owner,172.8,89.7,30.0,0,0,Non-vegetarian,8.5,129,84,1,1
+HT-0081,1967-03-08,Kavya,Kulkarni,F,59,Chennai,Tamil Nadu,South,Factory supervisor,156.3,52.9,21.6,1,0,Non-vegetarian,13.1,145,88,1,1
+HT-0082,1977-12-24,Isha,Joshi,F,48,Bengaluru,Karnataka,South,Government officer,161.2,67.2,25.9,0,0,Non-vegetarian,8.0,125,80,1,1
+HT-0083,1961-02-24,Priya,Reddy,F,65,Lucknow,Uttar Pradesh,North,Driver,158.6,69.8,27.7,0,0,Non-vegetarian,7.5,128,76,0,1
+HT-0084,1984-06-13,Ravi,Gupta,M,42,Chennai,Tamil Nadu,South,Teacher,177.6,111.3,35.3,0,1,Non-vegetarian,11.9,148,89,1,1
+HT-0085,1980-10-22,Arjun,Gupta,M,45,Hyderabad,Telangana,South,Teacher,178.9,96.6,30.2,0,0,Vegetarian,13.4,146,89,1,1
+HT-0086,1982-11-18,Anil,Pillai,M,43,Ahmedabad,Gujarat,West,Homemaker,158.6,71.7,28.5,1,0,Vegetarian,11.5,149,90,0,1
+HT-0087,1970-04-20,Asha,Reddy,F,56,Bengaluru,Karnataka,South,Driver,155.8,56.4,23.2,0,0,Vegetarian,4.5,118,78,1,1
+HT-0088,1986-07-27,Suresh,Iyer,M,39,Kolkata,West Bengal,East,Sales executive,176.0,101.5,32.8,0,0,Non-vegetarian,9.4,132,81,0,1
+HT-0089,1969-03-07,Suresh,Khan,M,57,Mumbai,Maharashtra,West,Homemaker,165.2,69.0,25.3,0,1,Vegetarian,6.8,157,93,1,1
+HT-0090,1992-06-22,Sneha,Patel,F,34,Kolkata,West Bengal,East,Farmer,151.5,54.1,23.6,0,0,Eggetarian,11.8,133,85,1,1
+HT-0091,1965-12-21,Pranav,Khan,M,60,Hyderabad,Telangana,South,Government officer,165.7,71.6,26.1,0,0,Non-vegetarian,8.5,141,86,0,1
+HT-0092,1998-05-11,Suresh,Patel,M,28,Bengaluru,Karnataka,South,Bank employee,163.6,54.3,20.3,0,0,Vegetarian,5.9,129,83,0,1
+HT-0093,1987-03-08,Sunita,Nair,F,39,Pune,Maharashtra,West,Shop owner,152.6,51.2,22.0,0,0,Non-vegetarian,7.5,132,79,0,1
+HT-0094,1980-09-26,Vikram,Banerjee,M,45,Bengaluru,Karnataka,South,Farmer,163.3,72.2,27.1,1,1,Non-vegetarian,10.8,123,76,1,1
+HT-0095,1981-12-29,Radha,Singh,F,44,Mumbai,Maharashtra,West,Driver,152.5,64.2,27.6,0,0,Non-vegetarian,5.6,142,88,1,1
+HT-0096,1970-05-03,Anil,Singh,M,56,Lucknow,Uttar Pradesh,North,Homemaker,170.1,84.5,29.2,0,0,Non-vegetarian,10.0,130,82,1,1
+HT-0097,1963-08-19,Rohan,Iyer,M,62,Jaipur,Rajasthan,North,IT professional,153.4,67.8,28.8,1,1,Vegetarian,9.5,136,85,0,1
+HT-0098,1954-04-28,Sneha,Fernandes,F,72,Bhubaneswar,Odisha,East,Factory supervisor,140.6,43.9,22.2,0,0,Non-vegetarian,13.0,145,87,1,1
+HT-0099,1972-11-20,Meera,Banerjee,F,53,Mumbai,Maharashtra,West,Bank employee,150.6,62.0,27.4,0,0,Non-vegetarian,9.7,129,76,0,1
+HT-0100,1979-02-20,Joseph,Banerjee,M,47,Delhi,Delhi,North,Nurse,170.4,95.4,32.8,0,0,Eggetarian,11.6,122,78,1,1
+HT-0101,1978-04-15,Meera,Nair,F,48,Delhi,Delhi,North,Retired,158.3,55.5,22.1,0,0,Non-vegetarian,8.3,124,77,1,1
+HT-0102,1966-03-06,Pranav,Rao,M,60,Bengaluru,Karnataka,South,Teacher,174.7,82.5,27.0,0,0,Vegetarian,9.5,133,83,1,1
+HT-0103,1980-05-16,Arjun,Singh,M,46,Kolkata,West Bengal,East,Nurse,161.7,73.9,28.3,0,0,Non-vegetarian,8.6,139,85,1,1
+HT-0104,1965-02-06,Farah,Mukherjee,F,61,Hyderabad,Telangana,South,Government officer,158.6,69.3,27.5,0,0,Non-vegetarian,8.1,147,93,1,1
+HT-0105,1950-06-23,Rekha,Khan,F,76,Kolkata,West Bengal,East,Government officer,153.5,47.6,20.2,0,0,Vegetarian,9.5,152,94,1,1
+HT-0106,1980-07-07,Sanjay,Khan,M,45,Ahmedabad,Gujarat,West,Farmer,161.4,64.6,24.8,1,1,Vegetarian,9.2,143,88,1,1
+HT-0107,1983-02-15,Nandini,Reddy,F,43,Kolkata,West Bengal,East,Teacher,163.2,61.3,23.0,0,0,Non-vegetarian,10.1,117,73,1,1
+HT-0108,1992-11-27,Sanjay,Singh,M,33,Mumbai,Maharashtra,West,Government officer,167.7,91.5,32.5,0,0,Non-vegetarian,6.6,134,80,0,1
+HT-0109,1961-03-24,Rohan,Reddy,M,65,Kolkata,West Bengal,East,Factory supervisor,170.5,78.3,26.9,0,0,Vegetarian,5.2,136,86,1,1
+HT-0110,1974-02-08,Ananya,Iyer,F,52,Jaipur,Rajasthan,North,Government officer,160.7,70.6,27.3,0,0,Vegetarian,9.0,149,88,1,1
+HT-0111,1992-03-08,Priya,Reddy,F,34,Jaipur,Rajasthan,North,IT professional,150.7,74.2,32.6,0,0,Non-vegetarian,10.6,128,83,0,1
+HT-0112,1982-05-14,Lakshmi,Chauhan,F,44,Lucknow,Uttar Pradesh,North,Teacher,160.1,76.6,29.9,0,0,Vegetarian,8.7,137,86,1,1
+HT-0113,1968-05-30,Meera,Sharma,F,58,Bengaluru,Karnataka,South,Teacher,152.0,42.9,18.6,0,0,Vegetarian,9.4,143,91,1,1
+HT-0114,1964-12-14,Divya,Nair,F,61,Hyderabad,Telangana,South,Retired,144.0,48.8,23.5,0,0,Vegetarian,11.4,132,74,0,1
+HT-0115,1989-10-22,Rahul,Rao,M,36,Ahmedabad,Gujarat,West,Government officer,162.7,70.6,26.7,0,1,Non-vegetarian,9.0,133,81,1,1
+HT-0116,1970-03-03,Kavya,Patel,F,56,Kolkata,West Bengal,East,Retired,150.8,67.6,29.7,0,0,Non-vegetarian,10.1,137,77,1,1
+HT-0117,1976-08-16,Suresh,Patel,M,49,Pune,Maharashtra,West,Teacher,172.9,85.3,28.5,0,1,Non-vegetarian,7.8,123,78,0,1
+HT-0118,1963-01-07,Vihaan,Khan,M,63,Chennai,Tamil Nadu,South,Sales executive,158.5,63.8,25.4,0,1,Non-vegetarian,10.4,130,76,0,1
+HT-0119,1952-08-26,Ananya,Fernandes,F,73,Kolkata,West Bengal,East,Bank employee,157.1,61.0,24.7,0,0,Vegetarian,9.4,128,79,0,1
+HT-0120,1993-01-29,Asha,Gupta,F,33,Pune,Maharashtra,West,Teacher,158.1,69.3,27.7,0,0,Non-vegetarian,6.9,129,78,1,1
+HT-0121,1975-11-11,Ravi,Iyer,M,50,Jaipur,Rajasthan,North,IT professional,169.2,84.9,29.7,0,0,Non-vegetarian,15.1,139,85,0,1
+HT-0122,1975-02-13,Farah,Reddy,F,51,Kolkata,West Bengal,East,Government officer,152.5,63.0,27.1,1,0,Vegetarian,7.3,137,83,1,1
+HT-0123,1986-03-12,Manoj,Pillai,M,40,Kochi,Kerala,South,Retired,158.4,48.9,19.5,0,1,Non-vegetarian,10.1,136,80,1,1
+HT-0124,1957-01-17,Anil,Banerjee,M,69,Bhubaneswar,Odisha,East,Farmer,168.8,86.9,30.5,0,0,Non-vegetarian,8.2,149,88,1,1
+HT-0125,1966-12-20,Deepak,Sharma,M,59,Jaipur,Rajasthan,North,Homemaker,174.2,84.2,27.7,0,1,Vegetarian,10.0,142,89,1,1
+HT-0126,1982-09-03,Asha,Patel,F,43,Bhubaneswar,Odisha,East,Shop owner,163.4,65.6,24.6,1,0,Vegetarian,8.8,132,84,1,1
+HT-0127,1984-10-29,Rekha,Sharma,F,41,Kolkata,West Bengal,East,Nurse,161.9,67.9,25.9,0,0,Non-vegetarian,10.1,123,79,1,1
+HT-0128,1972-01-26,Rohan,Gupta,M,54,Hyderabad,Telangana,South,Sales executive,170.6,78.0,26.8,0,0,Vegetarian,10.0,137,81,1,1
+HT-0129,1955-08-05,Anil,Gupta,M,70,Bengaluru,Karnataka,South,Factory supervisor,160.9,64.8,25.0,1,1,Eggetarian,9.7,131,78,0,1
+HT-0130,1982-08-06,Karthik,Sharma,M,43,Delhi,Delhi,North,Sales executive,172.6,67.4,22.6,0,1,Non-vegetarian,12.5,133,85,1,1
+HT-0131,1974-12-15,Sunita,Iyer,F,51,Chennai,Tamil Nadu,South,Teacher,161.2,79.0,30.4,0,0,Non-vegetarian,7.4,142,83,1,1
+HT-0132,1973-12-19,Suresh,Verma,M,52,Kolkata,West Bengal,East,Government officer,174.0,94.7,31.3,0,0,Non-vegetarian,8.5,146,90,0,1
+HT-0133,1988-08-12,Deepak,Chauhan,M,37,Chennai,Tamil Nadu,South,Retired,151.3,51.3,22.4,0,1,Vegetarian,10.1,131,75,0,1
+HT-0134,1969-02-04,Abdul,Ahmed,M,57,Kolkata,West Bengal,East,Bank employee,167.2,76.8,27.5,0,0,Non-vegetarian,11.7,139,79,0,1
+HT-0135,1970-12-29,Ravi,Gupta,M,55,Bhubaneswar,Odisha,East,Farmer,172.1,86.4,29.2,0,0,Vegetarian,9.8,135,80,0,1
+HT-0136,1967-10-06,Abdul,Banerjee,M,58,Chennai,Tamil Nadu,South,Farmer,178.7,59.9,18.8,0,0,Non-vegetarian,9.9,142,83,0,1
+HT-0137,1988-12-15,Rohan,Nair,M,37,Kolkata,West Bengal,East,Farmer,164.2,79.4,29.5,0,1,Non-vegetarian,9.5,129,72,1,1
+HT-0138,1977-06-25,Priya,Reddy,F,49,Bhubaneswar,Odisha,East,Factory supervisor,158.3,49.5,19.8,0,0,Non-vegetarian,6.4,128,80,1,1
+HT-0139,1961-12-27,Mary,Pillai,F,64,Delhi,Delhi,North,Factory supervisor,162.6,69.8,26.4,0,0,Non-vegetarian,7.3,151,89,0,1
+HT-0140,1961-02-10,Anil,Nair,M,65,Bengaluru,Karnataka,South,Factory supervisor,177.5,80.4,25.5,1,0,Non-vegetarian,12.6,126,80,1,1
+HT-0141,1987-04-27,Kavya,Khan,F,39,Lucknow,Uttar Pradesh,North,Bank employee,164.3,70.3,26.0,0,0,Non-vegetarian,9.8,132,79,1,1
+HT-0142,1969-08-19,Shalini,Gupta,F,56,Bhubaneswar,Odisha,East,Driver,157.1,74.5,30.2,0,0,Non-vegetarian,8.1,144,84,1,1
+HT-0143,1965-05-27,Abdul,Singh,M,61,Pune,Maharashtra,West,Nurse,169.2,77.9,27.2,0,1,Eggetarian,11.3,140,85,0,1
+HT-0144,1975-02-03,Nandini,Banerjee,F,51,Chennai,Tamil Nadu,South,Shop owner,169.3,61.5,21.5,1,0,Non-vegetarian,7.2,117,75,0,1
+HT-0145,1968-06-14,Shalini,Chauhan,F,58,Chennai,Tamil Nadu,South,Driver,149.8,59.3,26.4,0,0,Vegetarian,5.4,128,75,1,1
+HT-0146,1965-11-08,Vihaan,Khan,M,60,Kochi,Kerala,South,Sales executive,169.7,97.6,33.9,0,0,Non-vegetarian,10.9,143,88,1,1
+HT-0147,1973-10-01,Rahul,Pillai,M,52,Kochi,Kerala,South,Government officer,167.1,59.3,21.2,0,0,Non-vegetarian,8.3,141,80,1,1
+HT-0148,1972-10-03,Anil,Joshi,M,53,Lucknow,Uttar Pradesh,North,Teacher,170.0,65.3,22.6,0,0,Non-vegetarian,12.5,138,84,1,1
+HT-0149,1977-10-06,Neha,Iyer,F,48,Chennai,Tamil Nadu,South,Bank employee,148.1,56.9,25.9,0,0,Non-vegetarian,11.9,138,85,0,1
+HT-0150,1956-05-21,Rahul,Patel,M,70,Kochi,Kerala,South,Nurse,166.7,69.8,25.1,1,1,Vegetarian,8.8,147,89,0,1
+HT-0151,1954-08-05,Neha,Mukherjee,F,71,Mumbai,Maharashtra,West,Factory supervisor,159.2,98.1,38.7,0,0,Non-vegetarian,8.3,139,90,0,1
+HT-0152,1957-03-22,Sanjay,Chauhan,M,69,Lucknow,Uttar Pradesh,North,Nurse,162.2,62.4,23.7,0,0,Vegetarian,9.1,140,89,1,1
+HT-0153,1979-08-21,Aarav,Rao,M,46,Lucknow,Uttar Pradesh,North,Shop owner,162.3,64.4,24.5,0,0,Eggetarian,7.2,129,85,0,1
+HT-0154,1990-11-19,Rekha,Ahmed,F,35,Kolkata,West Bengal,East,Bank employee,159.8,64.4,25.2,0,0,Non-vegetarian,4.5,125,75,1,1
+HT-0155,1968-04-04,Sneha,Reddy,F,58,Delhi,Delhi,North,Farmer,167.4,68.5,24.5,0,0,Non-vegetarian,10.1,118,66,0,1
+HT-0156,1985-11-12,Mary,Nair,F,40,Hyderabad,Telangana,South,Factory supervisor,163.3,56.7,21.3,0,0,Vegetarian,10.1,137,81,1,1
+HT-0157,1974-08-28,Nikhil,Banerjee,M,51,Ahmedabad,Gujarat,West,Farmer,162.4,56.4,21.4,0,0,Non-vegetarian,8.3,130,77,1,1
+HT-0158,1971-08-05,Pooja,Chauhan,F,54,Mumbai,Maharashtra,West,Sales executive,148.6,62.8,28.4,0,0,Non-vegetarian,10.6,150,93,1,1
+HT-0159,1972-02-27,Gaurav,Rao,M,54,Mumbai,Maharashtra,West,Factory supervisor,166.7,86.2,31.0,0,0,Non-vegetarian,12.1,133,80,1,1
+HT-0160,1989-12-18,Manoj,Rao,M,36,Bengaluru,Karnataka,South,IT professional,165.9,75.4,27.4,0,0,Vegetarian,12.2,134,71,1,1
+HT-0161,1982-11-26,Kavya,Menon,F,43,Jaipur,Rajasthan,North,Sales executive,141.2,38.7,19.4,0,0,Vegetarian,9.0,138,80,0,1
+HT-0162,1982-10-31,Rekha,Nair,F,43,Delhi,Delhi,North,Government officer,156.7,71.9,29.3,0,0,Non-vegetarian,11.7,143,84,0,1
+HT-0163,1974-11-07,Radha,Joshi,F,51,Lucknow,Uttar Pradesh,North,Homemaker,154.7,48.3,20.2,0,0,Non-vegetarian,8.3,102,69,0,1
+HT-0164,1987-06-17,Abdul,Fernandes,M,39,Mumbai,Maharashtra,West,Nurse,163.0,82.2,30.9,0,0,Vegetarian,11.3,130,74,1,1
+HT-0165,1978-05-21,Anil,Nair,M,48,Bhubaneswar,Odisha,East,Teacher,169.3,71.5,25.0,1,0,Non-vegetarian,12.4,149,90,0,1
+HT-0166,1964-11-17,Vihaan,Singh,M,61,Ahmedabad,Gujarat,West,Sales executive,174.6,93.8,30.8,0,0,Vegetarian,9.2,149,86,0,1
+HT-0167,1959-04-14,Meera,Verma,F,67,Ahmedabad,Gujarat,West,Factory supervisor,162.4,73.3,27.8,0,0,Vegetarian,8.9,145,84,1,1
+HT-0168,1975-05-15,Rahul,Sharma,M,51,Bhubaneswar,Odisha,East,Sales executive,168.0,71.2,25.2,0,0,Vegetarian,9.1,132,76,1,1
+HT-0169,1981-09-04,Kavya,Gupta,F,44,Mumbai,Maharashtra,West,Factory supervisor,146.0,54.7,25.6,0,0,Vegetarian,7.6,134,81,1,1
+HT-0170,1981-01-09,Divya,Patel,F,45,Kochi,Kerala,South,Factory supervisor,164.3,77.0,28.5,0,1,Non-vegetarian,12.1,136,84,1,1
+HT-0171,1966-02-01,Arjun,Fernandes,M,60,Bengaluru,Karnataka,South,Homemaker,161.4,73.5,28.2,0,0,Eggetarian,11.8,135,83,1,1
+HT-0172,1989-04-27,Karthik,Das,M,37,Chennai,Tamil Nadu,South,Bank employee,172.8,78.4,26.3,0,1,Vegetarian,7.3,117,65,0,1
+HT-0173,1965-07-02,Rohan,Rao,M,60,Kochi,Kerala,South,Bank employee,163.1,59.8,22.5,0,0,Non-vegetarian,9.2,137,88,0,1
+HT-0174,1974-09-20,Gaurav,Verma,M,51,Jaipur,Rajasthan,North,Farmer,159.5,65.2,25.6,0,0,Vegetarian,7.7,137,80,1,1
+HT-0175,1984-01-13,Gurpreet,Nair,F,42,Delhi,Delhi,North,Teacher,153.2,53.2,22.7,0,0,Vegetarian,14.3,132,79,0,1
+HT-0176,1992-09-06,Shalini,Rao,F,33,Kolkata,West Bengal,East,Sales executive,151.2,55.7,24.4,0,0,Non-vegetarian,9.1,139,86,1,1
+HT-0177,1964-09-16,Sunita,Chauhan,F,61,Jaipur,Rajasthan,North,Retired,156.9,72.3,29.3,0,0,Vegetarian,5.5,119,75,1,1
+HT-0178,1969-12-24,Ananya,Pillai,F,56,Delhi,Delhi,North,Shop owner,150.8,76.3,33.5,0,0,Vegetarian,12.3,146,85,0,1
+HT-0179,1955-12-30,Isha,Kulkarni,F,70,Lucknow,Uttar Pradesh,North,Driver,145.5,46.0,21.7,0,0,Vegetarian,9.9,156,92,1,1
+HT-0180,1997-07-16,Manoj,Das,M,28,Hyderabad,Telangana,South,Factory supervisor,168.9,92.4,32.4,0,0,Vegetarian,14.5,144,88,0,1
+HT-0181,1965-11-13,Arjun,Mukherjee,M,60,Ahmedabad,Gujarat,West,Sales executive,175.4,106.8,34.7,0,1,Vegetarian,9.8,127,75,0,1
+HT-0182,1976-07-31,Nikhil,Joshi,M,49,Lucknow,Uttar Pradesh,North,Shop owner,175.0,68.4,22.4,0,1,Non-vegetarian,11.7,132,74,0,1
+HT-0183,1964-01-01,Anil,Ahmed,M,62,Bhubaneswar,Odisha,East,Driver,163.9,70.2,26.1,0,0,Non-vegetarian,11.1,136,83,1,1
+HT-0184,1985-07-01,Meera,Kulkarni,F,41,Mumbai,Maharashtra,West,Shop owner,153.3,68.7,29.2,0,1,Eggetarian,6.9,136,89,0,1
+HT-0185,1988-08-04,Joseph,Sharma,M,37,Lucknow,Uttar Pradesh,North,IT professional,154.0,70.2,29.6,0,0,Vegetarian,12.0,141,89,0,1
+HT-0186,1997-07-21,Mary,Verma,F,28,Pune,Maharashtra,West,Homemaker,158.9,77.4,30.6,0,0,Non-vegetarian,5.7,127,79,0,1
+HT-0187,1962-09-30,Nikhil,Verma,M,63,Pune,Maharashtra,West,Retired,169.1,81.8,28.6,0,0,Vegetarian,7.8,153,90,1,1
+HT-0188,1950-07-07,Gurpreet,Khan,F,75,Bengaluru,Karnataka,South,Sales executive,163.1,79.1,29.8,0,0,Vegetarian,8.7,155,85,1,1
+HT-0189,1984-10-11,Aarav,Singh,M,41,Ahmedabad,Gujarat,West,Homemaker,159.6,73.5,28.8,0,1,Vegetarian,8.0,146,88,1,1
+HT-0190,1967-06-01,Rekha,Menon,F,59,Lucknow,Uttar Pradesh,North,Driver,155.4,61.2,25.3,0,0,Non-vegetarian,8.7,134,82,1,1
+HT-0191,1964-11-19,Meera,Fernandes,F,61,Mumbai,Maharashtra,West,IT professional,158.9,84.9,33.6,0,0,Non-vegetarian,8.4,141,91,0,1
+HT-0192,1975-04-08,Aarav,Ahmed,M,51,Bhubaneswar,Odisha,East,Factory supervisor,161.7,87.2,33.3,0,0,Vegetarian,10.0,147,90,1,1
+HT-0193,1972-12-11,Harpreet,Iyer,M,53,Delhi,Delhi,North,Shop owner,174.6,69.5,22.8,0,0,Non-vegetarian,7.7,126,82,1,1
+HT-0194,1976-10-27,Joseph,Verma,M,49,Kochi,Kerala,South,Shop owner,176.8,66.8,21.4,0,0,Non-vegetarian,13.1,152,88,0,1
+HT-0195,1968-04-25,Rekha,Menon,F,58,Ahmedabad,Gujarat,West,Factory supervisor,163.9,93.5,34.8,1,0,Eggetarian,11.0,142,82,1,1
+HT-0196,1980-02-13,Rahul,Reddy,M,46,Delhi,Delhi,North,Teacher,174.0,90.1,29.8,0,0,Vegetarian,6.8,126,73,0,1
+HT-0197,1975-02-04,Divya,Pillai,F,51,Chennai,Tamil Nadu,South,Farmer,152.4,64.0,27.6,0,0,Non-vegetarian,7.7,140,86,0,1
+HT-0198,1954-09-11,Nandini,Mukherjee,F,71,Jaipur,Rajasthan,North,Homemaker,156.9,76.1,30.9,0,0,Non-vegetarian,9.9,130,78,1,1
+HT-0199,1991-05-20,Nikhil,Menon,M,35,Bengaluru,Karnataka,South,Homemaker,177.9,88.0,27.8,0,0,Vegetarian,8.5,125,80,0,1
+HT-0200,1977-12-07,Priya,Fernandes,F,48,Bengaluru,Karnataka,South,Nurse,161.6,59.6,22.8,0,0,Vegetarian,11.2,142,88,0,1
+HT-0201,1973-04-30,Suresh,Menon,M,53,Bhubaneswar,Odisha,East,Shop owner,174.4,77.9,25.6,0,0,Non-vegetarian,12.2,143,83,1,1
+HT-0202,1976-07-10,Manoj,Sharma,M,49,Kolkata,West Bengal,East,Homemaker,164.9,89.7,33.0,0,0,Vegetarian,8.1,159,88,1,1
+HT-0203,1988-09-19,Vihaan,Joshi,M,37,Lucknow,Uttar Pradesh,North,Teacher,169.9,69.2,24.0,1,0,Non-vegetarian,8.5,129,75,0,1
+HT-0204,1979-09-09,Ravi,Ahmed,M,46,Lucknow,Uttar Pradesh,North,Homemaker,170.6,66.8,23.0,0,0,Non-vegetarian,8.2,140,84,1,1
+HT-0205,1967-09-25,Ravi,Kulkarni,M,58,Bengaluru,Karnataka,South,Teacher,162.9,72.0,27.1,0,0,Non-vegetarian,10.8,135,90,0,1
+HT-0206,1964-04-07,Priya,Singh,F,62,Pune,Maharashtra,West,Homemaker,148.1,52.8,24.1,0,0,Non-vegetarian,8.5,142,91,1,1
+HT-0207,1983-05-03,Neha,Singh,F,43,Hyderabad,Telangana,South,Retired,155.0,63.5,26.5,0,0,Vegetarian,12.0,122,72,1,1
+HT-0208,1982-11-21,Fatima,Reddy,F,43,Lucknow,Uttar Pradesh,North,Factory supervisor,160.5,62.3,24.2,0,0,Non-vegetarian,8.6,137,89,1,1
+HT-0209,1976-10-03,Rohan,Nair,M,49,Mumbai,Maharashtra,West,Factory supervisor,165.4,88.1,32.2,0,0,Non-vegetarian,10.1,160,95,1,1
+HT-0210,1967-02-09,Gurpreet,Sharma,F,59,Chennai,Tamil Nadu,South,Driver,149.6,58.5,26.1,0,1,Vegetarian,8.0,134,85,1,1
+HT-0211,1973-02-27,Abdul,Iyer,M,53,Lucknow,Uttar Pradesh,North,Factory supervisor,180.9,90.1,27.6,0,1,Non-vegetarian,8.6,154,91,1,1
+HT-0212,1974-09-18,Radha,Joshi,F,51,Jaipur,Rajasthan,North,Retired,154.1,53.1,22.4,0,0,Non-vegetarian,12.3,133,85,1,1
+HT-0213,1982-08-21,Joseph,Banerjee,M,43,Bhubaneswar,Odisha,East,Government officer,162.5,67.2,25.4,0,0,Non-vegetarian,8.2,141,89,1,1
+HT-0214,1956-11-16,Sanjay,Das,M,69,Jaipur,Rajasthan,North,Factory supervisor,162.9,56.2,21.2,0,1,Vegetarian,10.3,139,88,1,1
+HT-0215,1995-05-06,Radha,Pillai,F,31,Pune,Maharashtra,West,Government officer,155.3,62.4,25.9,0,0,Eggetarian,10.2,126,77,0,1
+HT-0216,1967-06-11,Shalini,Kulkarni,F,59,Delhi,Delhi,North,Nurse,160.6,72.4,28.1,0,1,Vegetarian,8.5,158,100,0,1
+HT-0217,1968-09-03,Nikhil,Banerjee,M,57,Kolkata,West Bengal,East,Driver,166.8,86.6,31.1,0,0,Non-vegetarian,6.9,126,80,0,1
+HT-0218,1971-02-15,Gaurav,Pillai,M,55,Hyderabad,Telangana,South,Sales executive,179.0,87.0,27.2,0,0,Vegetarian,5.1,116,73,1,1
+HT-0219,1988-10-22,Isha,Menon,F,37,Jaipur,Rajasthan,North,Driver,156.3,61.9,25.3,0,0,Non-vegetarian,9.6,130,89,0,1
+HT-0220,1977-01-25,Arjun,Gupta,M,49,Jaipur,Rajasthan,North,Factory supervisor,156.2,52.0,21.3,0,0,Vegetarian,13.9,132,87,1,1
+HT-0221,1969-08-15,Shalini,Banerjee,F,56,Delhi,Delhi,North,Nurse,166.2,92.4,33.4,0,0,Vegetarian,5.6,141,86,1,1
+HT-0222,1988-08-27,Sneha,Kulkarni,F,37,Pune,Maharashtra,West,Sales executive,152.0,63.4,27.4,0,0,Non-vegetarian,6.9,126,75,0,1
+HT-0223,1987-01-06,Karthik,Iyer,M,39,Kolkata,West Bengal,East,Shop owner,170.9,89.3,30.6,0,1,Vegetarian,6.9,144,92,1,1
+HT-0224,1983-10-21,Sneha,Fernandes,F,42,Kochi,Kerala,South,Bank employee,163.5,89.8,33.6,0,0,Vegetarian,9.5,145,83,0,1
+HT-0225,1968-09-16,Manoj,Patel,M,57,Mumbai,Maharashtra,West,Bank employee,170.3,68.7,23.7,1,0,Non-vegetarian,8.3,142,87,0,1
+HT-0226,1974-04-17,Priya,Mukherjee,F,52,Delhi,Delhi,North,Factory supervisor,159.0,77.6,30.7,0,0,Non-vegetarian,9.1,154,98,1,1
+HT-0227,1982-01-24,Nikhil,Banerjee,M,44,Lucknow,Uttar Pradesh,North,Government officer,169.7,64.6,22.4,0,0,Non-vegetarian,9.7,111,61,0,1
+HT-0228,1977-05-17,Rohan,Iyer,M,49,Jaipur,Rajasthan,North,Sales executive,168.6,73.7,25.9,0,0,Non-vegetarian,11.8,144,85,1,1
+HT-0229,1978-09-22,Kavya,Das,F,47,Lucknow,Uttar Pradesh,North,Farmer,143.6,63.1,30.6,0,0,Non-vegetarian,5.5,141,86,1,1
+HT-0230,1980-04-02,Kavya,Ahmed,F,46,Bhubaneswar,Odisha,East,Bank employee,158.1,72.5,29.0,0,0,Vegetarian,9.7,120,81,1,1
+HT-0231,1963-05-18,Ravi,Ahmed,M,63,Hyderabad,Telangana,South,IT professional,170.1,74.2,25.7,0,0,Vegetarian,8.8,136,75,0,1
+HT-0232,1974-03-02,Nikhil,Kulkarni,M,52,Chennai,Tamil Nadu,South,Retired,172.3,77.7,26.2,1,0,Non-vegetarian,8.6,137,79,1,1
+HT-0233,1976-07-11,Imran,Ahmed,M,49,Bengaluru,Karnataka,South,Teacher,170.2,69.8,24.1,0,0,Non-vegetarian,9.2,135,84,0,1
+HT-0234,1979-08-11,Divya,Sharma,F,46,Kolkata,West Bengal,East,Farmer,162.3,75.5,28.7,0,0,Vegetarian,10.9,130,78,1,1
+HT-0235,1979-04-25,Shalini,Fernandes,F,47,Chennai,Tamil Nadu,South,Bank employee,157.1,50.8,20.6,0,0,Vegetarian,6.5,117,73,1,1
+HT-0236,1966-07-09,Neha,Verma,F,59,Chennai,Tamil Nadu,South,Retired,158.4,67.3,26.8,0,0,Vegetarian,13.7,144,85,1,1
+HT-0237,1970-01-19,Ananya,Rao,F,56,Ahmedabad,Gujarat,West,Government officer,159.9,73.6,28.8,0,0,Non-vegetarian,8.7,139,86,1,1
+HT-0238,1973-12-15,Rekha,Verma,F,52,Jaipur,Rajasthan,North,Driver,159.2,61.2,24.1,0,0,Vegetarian,14.7,148,89,1,1
+HT-0239,1982-08-21,Isha,Banerjee,F,43,Ahmedabad,Gujarat,West,Bank employee,151.3,69.0,30.1,0,0,Vegetarian,12.5,152,90,1,1
+HT-0240,1975-08-17,Abdul,Khan,M,50,Kolkata,West Bengal,East,Retired,169.1,59.7,20.9,1,1,Non-vegetarian,12.4,128,72,1,1
+HT-0241,1996-12-23,Isha,Reddy,F,29,Bengaluru,Karnataka,South,Sales executive,148.8,57.6,26.0,0,0,Eggetarian,8.8,126,78,0,1
+HT-0242,1978-05-03,Rahul,Mukherjee,M,48,Bhubaneswar,Odisha,East,Driver,160.4,67.4,26.2,0,0,Non-vegetarian,9.8,120,80,1,1
+HT-0243,1985-06-17,Nandini,Nair,F,41,Kolkata,West Bengal,East,Shop owner,149.0,54.2,24.4,0,0,Non-vegetarian,9.8,139,88,1,1
+HT-0244,1988-02-07,Pranav,Rao,M,38,Bhubaneswar,Odisha,East,Factory supervisor,169.3,75.4,26.3,0,0,Vegetarian,11.6,126,74,1,1
+HT-0245,1968-06-30,Ananya,Pillai,F,58,Ahmedabad,Gujarat,West,Government officer,148.6,54.2,24.6,0,0,Vegetarian,12.4,149,90,0,1
+HT-0246,1948-08-08,Farah,Rao,F,77,Delhi,Delhi,North,Nurse,143.0,36.8,18.0,0,0,Vegetarian,7.0,139,90,0,1
+HT-0247,1979-07-04,Anil,Das,M,46,Mumbai,Maharashtra,West,Government officer,176.1,97.3,31.4,0,1,Non-vegetarian,6.5,151,94,0,1
+HT-0248,1981-08-15,Isha,Kulkarni,F,44,Jaipur,Rajasthan,North,Driver,158.4,75.3,30.0,0,0,Non-vegetarian,8.0,123,76,1,1
+HT-0249,1985-07-28,Pranav,Fernandes,M,40,Lucknow,Uttar Pradesh,North,IT professional,156.6,66.6,27.2,0,0,Vegetarian,8.9,124,79,0,1
+HT-0250,1996-11-14,Harpreet,Ahmed,M,29,Kochi,Kerala,South,Homemaker,160.8,72.6,28.1,0,0,Non-vegetarian,11.7,161,89,1,1
+HT-0251,1988-11-03,Divya,Singh,F,37,Kolkata,West Bengal,East,Homemaker,157.9,78.9,31.7,0,0,Non-vegetarian,4.8,137,88,0,1
+HT-0252,1979-11-12,Priya,Gupta,F,46,Mumbai,Maharashtra,West,Teacher,154.6,90.0,37.7,0,0,Non-vegetarian,12.3,140,91,0,1
+HT-0253,1981-08-01,Ananya,Joshi,F,44,Pune,Maharashtra,West,Government officer,147.5,41.2,19.0,0,0,Non-vegetarian,7.9,121,75,1,1
+HT-0254,1966-06-02,Priya,Menon,F,60,Bengaluru,Karnataka,South,Bank employee,163.4,71.0,26.6,0,0,Vegetarian,9.5,143,89,1,1
+HT-0255,1991-03-03,Asha,Gupta,F,35,Bengaluru,Karnataka,South,Retired,164.7,60.6,22.3,0,0,Vegetarian,10.8,137,76,0,1
+HT-0256,1977-06-03,Sneha,Chauhan,F,49,Delhi,Delhi,North,Teacher,166.9,72.1,25.9,0,0,Non-vegetarian,9.4,132,83,1,1
+HT-0257,1991-06-05,Harpreet,Reddy,M,35,Bhubaneswar,Odisha,East,Homemaker,171.8,53.3,18.1,0,1,Non-vegetarian,9.3,128,80,1,1
+HT-0258,1979-03-27,Abdul,Pillai,M,47,Mumbai,Maharashtra,West,IT professional,165.6,80.3,29.3,0,0,Non-vegetarian,11.1,147,87,0,1
+HT-0259,1982-06-16,Abdul,Khan,M,44,Chennai,Tamil Nadu,South,Government officer,162.6,54.1,20.5,0,1,Non-vegetarian,8.8,114,79,1,1
+HT-0260,1986-02-02,Radha,Patel,F,40,Lucknow,Uttar Pradesh,North,Nurse,153.9,58.9,24.9,0,0,Non-vegetarian,11.0,153,86,1,1
+HT-0261,1994-03-31,Gaurav,Reddy,M,32,Jaipur,Rajasthan,North,Factory supervisor,164.8,85.2,31.4,0,0,Vegetarian,12.2,135,86,0,1
+HT-0262,1990-02-13,Priya,Rao,F,36,Chennai,Tamil Nadu,South,Factory supervisor,154.3,48.4,20.4,0,0,Non-vegetarian,6.9,123,71,1,1
+HT-0263,1988-10-12,Anil,Rao,M,37,Lucknow,Uttar Pradesh,North,Sales executive,169.9,99.6,34.5,0,0,Non-vegetarian,10.0,146,95,0,1
+HT-0264,1985-02-06,Radha,Mukherjee,F,41,Chennai,Tamil Nadu,South,Homemaker,162.3,47.4,18.0,0,0,Non-vegetarian,4.5,127,82,0,1
+HT-0265,1969-11-07,Imran,Das,M,56,Bhubaneswar,Odisha,East,Bank employee,169.5,73.5,25.6,0,0,Eggetarian,9.8,137,82,0,1
+HT-0266,1973-04-15,Karthik,Pillai,M,53,Ahmedabad,Gujarat,West,Bank employee,165.4,70.2,25.6,0,0,Eggetarian,11.4,137,86,0,1
+HT-0267,1947-03-06,Suresh,Das,M,79,Kolkata,West Bengal,East,Shop owner,167.8,65.8,23.4,1,0,Non-vegetarian,11.2,137,77,0,1
+HT-0268,1985-06-29,Nandini,Nair,F,41,Bhubaneswar,Odisha,East,Driver,156.4,60.9,24.9,1,0,Non-vegetarian,13.5,144,84,0,1
+HT-0269,1959-08-06,Rohan,Kulkarni,M,66,Bengaluru,Karnataka,South,IT professional,169.1,51.5,18.0,0,0,Non-vegetarian,8.3,130,85,0,1
+HT-0270,1977-10-02,Fatima,Khan,F,48,Ahmedabad,Gujarat,West,Driver,155.2,47.6,19.7,0,0,Non-vegetarian,12.5,126,76,0,1
+HT-0271,1995-08-14,Priya,Verma,F,30,Lucknow,Uttar Pradesh,North,IT professional,156.8,53.6,21.8,0,0,Non-vegetarian,9.7,135,89,1,1
+HT-0272,1964-10-06,Gurpreet,Pillai,F,61,Jaipur,Rajasthan,North,Teacher,156.1,77.9,32.0,0,0,Non-vegetarian,14.5,148,89,0,1
+HT-0273,1980-05-04,Gaurav,Sharma,M,46,Jaipur,Rajasthan,North,Sales executive,175.7,66.8,21.7,0,0,Non-vegetarian,8.2,114,72,1,1
+HT-0274,1962-09-09,Karthik,Joshi,M,63,Ahmedabad,Gujarat,West,Shop owner,172.2,71.6,24.2,0,0,Eggetarian,9.1,138,87,0,1
+HT-0275,1987-07-18,Arjun,Ahmed,M,38,Mumbai,Maharashtra,West,Teacher,167.1,70.6,25.3,1,1,Non-vegetarian,11.3,123,74,0,1
+HT-0276,1971-04-10,Sneha,Kulkarni,F,55,Lucknow,Uttar Pradesh,North,Nurse,160.6,80.9,31.4,0,0,Vegetarian,8.5,125,80,0,1
+HT-0277,1974-06-11,Ravi,Das,M,52,Bengaluru,Karnataka,South,IT professional,163.1,61.9,23.2,0,0,Non-vegetarian,8.4,143,83,1,1
+HT-0278,1977-06-08,Sunita,Patel,F,49,Mumbai,Maharashtra,West,Farmer,148.2,57.0,26.0,0,0,Vegetarian,10.4,142,90,1,1
+HT-0279,1958-11-19,Manoj,Fernandes,M,67,Kolkata,West Bengal,East,Shop owner,160.2,62.3,24.3,0,0,Non-vegetarian,10.9,134,79,1,1
+HT-0280,1972-07-11,Meera,Kulkarni,F,53,Ahmedabad,Gujarat,West,Government officer,147.1,55.3,25.5,0,0,Vegetarian,8.5,139,83,0,1
+HT-0281,1963-07-04,Harpreet,Mukherjee,M,62,Lucknow,Uttar Pradesh,North,Shop owner,169.4,88.7,30.9,0,0,Non-vegetarian,10.1,148,94,1,1
+HT-0282,1973-03-08,Radha,Fernandes,F,53,Kochi,Kerala,South,IT professional,159.9,69.5,27.2,0,0,Non-vegetarian,7.9,134,81,1,1
+HT-0283,1983-08-29,Karthik,Joshi,M,42,Lucknow,Uttar Pradesh,North,Driver,158.4,64.2,25.6,0,0,Vegetarian,8.5,141,86,1,1
+HT-0284,1980-09-23,Farah,Ahmed,F,45,Chennai,Tamil Nadu,South,Retired,165.6,49.4,18.0,0,0,Non-vegetarian,8.5,123,77,0,1
+HT-0285,1981-01-15,Aarav,Pillai,M,45,Ahmedabad,Gujarat,West,Farmer,176.0,74.8,24.1,0,1,Non-vegetarian,8.2,119,71,0,1
+HT-0286,1975-08-05,Kavya,Iyer,F,50,Bengaluru,Karnataka,South,Government officer,153.3,65.3,27.8,0,0,Non-vegetarian,7.5,137,78,0,1
+HT-0287,1986-07-31,Sunita,Nair,F,39,Bengaluru,Karnataka,South,Factory supervisor,149.6,52.8,23.6,0,0,Vegetarian,12.1,146,95,1,1
+HT-0288,1991-05-06,Pranav,Sharma,M,35,Delhi,Delhi,North,Government officer,171.5,83.1,28.3,0,0,Vegetarian,9.6,147,89,1,1
+HT-0289,1993-12-22,Divya,Rao,F,32,Chennai,Tamil Nadu,South,Driver,162.4,56.1,21.3,0,0,Non-vegetarian,7.1,129,82,1,1
+HT-0290,1992-02-26,Lakshmi,Khan,F,34,Hyderabad,Telangana,South,Farmer,139.3,58.2,30.0,0,1,Vegetarian,10.0,124,71,0,1
+HT-0291,1980-11-24,Karthik,Chauhan,M,45,Bengaluru,Karnataka,South,Bank employee,165.2,74.4,27.3,0,0,Non-vegetarian,9.6,135,83,0,1
+HT-0292,1969-06-13,Suresh,Menon,M,57,Kolkata,West Bengal,East,Homemaker,169.0,85.8,30.0,0,0,Non-vegetarian,11.6,138,89,1,1
+HT-0293,1978-08-29,Pooja,Nair,F,47,Bhubaneswar,Odisha,East,Sales executive,156.0,60.5,24.9,0,0,Non-vegetarian,6.5,130,79,0,1
+HT-0294,1985-05-05,Rekha,Menon,F,41,Hyderabad,Telangana,South,Factory supervisor,151.8,69.7,30.2,0,0,Non-vegetarian,9.6,125,77,0,1
+HT-0295,1967-05-01,Rohan,Das,M,59,Chennai,Tamil Nadu,South,Driver,164.9,57.7,21.2,0,0,Non-vegetarian,11.8,107,68,1,1
+HT-0296,1973-12-05,Nandini,Pillai,F,52,Pune,Maharashtra,West,IT professional,161.4,72.7,27.9,0,0,Vegetarian,10.0,133,76,0,1
+HT-0297,1968-03-25,Divya,Mukherjee,F,58,Kochi,Kerala,South,Nurse,155.6,66.2,27.4,0,0,Eggetarian,13.9,133,82,0,1
+HT-0298,1968-07-18,Arjun,Sharma,M,57,Kochi,Kerala,South,Government officer,175.9,77.1,24.9,0,0,Non-vegetarian,12.0,133,84,0,1
+HT-0299,1962-11-18,Rohan,Khan,M,63,Pune,Maharashtra,West,Homemaker,161.9,76.3,29.1,1,0,Non-vegetarian,8.2,128,78,0,1
+HT-0300,1970-05-06,Rohan,Mukherjee,M,56,Delhi,Delhi,North,Sales executive,176.3,75.2,24.2,0,1,Vegetarian,9.8,129,82,0,1
+HT-0301,1991-06-17,Asha,Rao,F,35,Bhubaneswar,Odisha,East,Retired,157.6,64.9,26.1,0,0,Vegetarian,8.9,126,72,1,1
+HT-0302,1984-03-16,Mary,Ahmed,F,42,Lucknow,Uttar Pradesh,North,Teacher,149.1,48.7,21.9,0,0,Non-vegetarian,5.9,127,82,0,1
+HT-0303,1964-07-25,Nikhil,Patel,M,61,Hyderabad,Telangana,South,Teacher,162.8,71.1,26.8,0,0,Non-vegetarian,9.0,139,81,0,1
+HT-0304,1968-10-11,Shalini,Banerjee,F,57,Hyderabad,Telangana,South,IT professional,147.6,45.8,21.0,0,0,Non-vegetarian,9.4,122,81,0,1
+HT-0305,1993-08-25,Sanjay,Kulkarni,M,32,Chennai,Tamil Nadu,South,Shop owner,179.6,66.2,20.5,0,0,Eggetarian,8.3,127,78,1,1
+HT-0306,1977-01-08,Pooja,Das,F,49,Ahmedabad,Gujarat,West,Retired,165.0,61.7,22.7,0,0,Non-vegetarian,10.0,131,83,0,1
+HT-0307,1966-09-13,Ravi,Nair,M,59,Bhubaneswar,Odisha,East,Retired,174.6,82.0,26.9,0,1,Non-vegetarian,10.0,138,79,0,1
+HT-0308,1976-07-22,Priya,Khan,F,49,Chennai,Tamil Nadu,South,Farmer,155.0,71.0,29.5,0,0,Non-vegetarian,6.7,123,77,0,1
+HT-0309,1967-01-05,Meera,Gupta,F,59,Jaipur,Rajasthan,North,Bank employee,140.4,46.7,23.7,0,0,Vegetarian,9.5,136,79,1,1
+HT-0310,1987-06-25,Priya,Ahmed,F,39,Hyderabad,Telangana,South,Bank employee,155.2,65.5,27.2,0,0,Vegetarian,12.0,122,71,1,1
+HT-0311,1980-08-07,Sanjay,Nair,M,45,Mumbai,Maharashtra,West,Retired,163.4,67.0,25.1,0,1,Vegetarian,8.5,139,79,1,1
+HT-0312,1963-10-15,Priya,Kulkarni,F,62,Mumbai,Maharashtra,West,Bank employee,153.5,52.2,22.1,0,0,Non-vegetarian,12.3,143,82,0,1
+HT-0313,1985-08-18,Vikram,Patel,M,40,Ahmedabad,Gujarat,West,Homemaker,171.8,90.2,30.6,0,0,Non-vegetarian,9.8,136,86,0,1
+HT-0314,1998-01-12,Farah,Sharma,F,28,Ahmedabad,Gujarat,West,Bank employee,148.0,53.3,24.3,0,0,Vegetarian,6.2,126,75,0,1
+HT-0315,1967-12-06,Vihaan,Nair,M,58,Bhubaneswar,Odisha,East,Sales executive,166.9,75.1,27.0,1,0,Non-vegetarian,7.8,144,83,0,1
+HT-0316,1978-02-10,Pranav,Chauhan,M,48,Mumbai,Maharashtra,West,Nurse,170.9,76.9,26.3,0,0,Vegetarian,11.1,132,87,1,1
+HT-0317,1982-12-01,Manoj,Sharma,M,43,Hyderabad,Telangana,South,Nurse,166.0,78.9,28.6,0,0,Non-vegetarian,13.2,131,83,1,1
+HT-0318,1969-08-30,Lakshmi,Mukherjee,F,56,Bhubaneswar,Odisha,East,Bank employee,152.5,76.7,33.0,0,0,Non-vegetarian,8.6,146,91,0,1
+HT-0319,1996-09-09,Rahul,Gupta,M,29,Mumbai,Maharashtra,West,Sales executive,172.5,93.2,31.3,0,1,Non-vegetarian,11.6,139,87,0,1
+HT-0320,1990-08-24,Fatima,Das,F,35,Jaipur,Rajasthan,North,Factory supervisor,161.1,67.8,26.2,0,0,Non-vegetarian,9.5,135,78,0,1
+HT-0321,1981-08-30,Nikhil,Verma,M,44,Kolkata,West Bengal,East,Teacher,166.6,50.0,18.0,0,1,Eggetarian,11.7,126,87,0,1
+HT-0322,1963-07-08,Sunita,Gupta,F,62,Ahmedabad,Gujarat,West,Farmer,154.9,63.8,26.6,0,0,Non-vegetarian,10.1,139,81,1,1
+HT-0323,1953-11-09,Vihaan,Rao,M,72,Chennai,Tamil Nadu,South,Farmer,161.3,67.7,26.0,1,0,Eggetarian,9.1,143,80,0,1
+HT-0324,1956-05-24,Farah,Nair,F,70,Mumbai,Maharashtra,West,Teacher,153.7,47.4,20.1,0,0,Vegetarian,5.4,122,75,0,1
+HT-0325,1966-09-01,Pranav,Patel,M,59,Bengaluru,Karnataka,South,Bank employee,161.3,85.3,32.8,0,0,Vegetarian,11.4,142,86,1,1
+HT-0326,1965-06-05,Ravi,Pillai,M,61,Kochi,Kerala,South,Factory supervisor,169.4,74.6,26.0,0,0,Vegetarian,12.2,145,89,1,1
+HT-0327,1985-07-24,Radha,Singh,F,40,Mumbai,Maharashtra,West,Bank employee,157.7,81.9,33.0,0,1,Vegetarian,10.6,136,81,1,1
+HT-0328,1983-02-02,Ravi,Ahmed,M,43,Jaipur,Rajasthan,North,Homemaker,166.6,67.6,24.4,1,1,Non-vegetarian,7.1,137,82,1,1
+HT-0329,1969-04-13,Sneha,Reddy,F,57,Chennai,Tamil Nadu,South,Sales executive,156.7,52.6,21.4,0,0,Vegetarian,13.4,136,79,0,1
+HT-0330,1977-12-31,Pooja,Das,F,48,Kolkata,West Bengal,East,Bank employee,153.3,67.3,28.6,0,0,Non-vegetarian,9.8,122,84,1,1
+HT-0331,1983-01-15,Sunita,Fernandes,F,43,Mumbai,Maharashtra,West,Driver,157.2,61.5,24.9,0,0,Vegetarian,8.0,137,82,0,1
+HT-0332,1963-10-12,Mary,Ahmed,F,62,Kolkata,West Bengal,East,Nurse,166.3,73.9,26.7,0,0,Non-vegetarian,9.7,133,84,0,1
+HT-0333,1979-12-05,Vihaan,Fernandes,M,46,Kochi,Kerala,South,Nurse,171.7,67.0,22.7,0,0,Non-vegetarian,6.0,139,81,0,1
+HT-0334,1997-07-21,Manoj,Rao,M,28,Jaipur,Rajasthan,North,Homemaker,163.0,51.0,19.2,0,0,Vegetarian,12.8,133,81,0,1
+HT-0335,1957-09-08,Rahul,Rao,M,68,Lucknow,Uttar Pradesh,North,Retired,176.9,73.7,23.5,0,0,Eggetarian,12.1,151,91,0,1
+HT-0336,1966-04-18,Deepak,Iyer,M,60,Kochi,Kerala,South,Government officer,169.3,78.0,27.2,0,1,Vegetarian,7.5,150,90,0,1
+HT-0337,1963-06-30,Asha,Rao,F,63,Kolkata,West Bengal,East,Homemaker,161.8,54.1,20.6,0,0,Vegetarian,11.3,140,85,0,1
+HT-0338,1989-04-03,Ananya,Rao,F,37,Kolkata,West Bengal,East,Bank employee,154.5,65.2,27.3,0,0,Non-vegetarian,6.5,131,86,1,1
+HT-0339,1975-03-05,Pooja,Das,F,51,Hyderabad,Telangana,South,Government officer,153.1,82.5,35.2,0,0,Non-vegetarian,10.1,150,87,0,1
+HT-0340,1969-03-29,Sunita,Reddy,F,57,Mumbai,Maharashtra,West,Bank employee,171.2,74.9,25.5,0,0,Vegetarian,11.4,154,94,0,1
+HT-0341,1966-08-24,Radha,Gupta,F,59,Ahmedabad,Gujarat,West,Retired,154.8,48.6,20.3,0,0,Non-vegetarian,10.2,127,78,0,1
+HT-0342,1973-11-09,Farah,Kulkarni,F,52,Jaipur,Rajasthan,North,Homemaker,148.4,63.2,28.7,0,0,Vegetarian,9.5,138,85,1,1
+HT-0343,1972-12-18,Gaurav,Ahmed,M,53,Jaipur,Rajasthan,North,Farmer,163.6,62.5,23.4,0,1,Non-vegetarian,7.9,130,81,0,1
+HT-0344,1989-08-29,Fatima,Verma,F,36,Kochi,Kerala,South,Factory supervisor,155.4,70.2,29.1,0,0,Eggetarian,9.5,146,87,0,1
+HT-0345,1986-03-13,Nandini,Ahmed,F,40,Chennai,Tamil Nadu,South,Teacher,162.8,55.6,21.0,0,0,Eggetarian,6.5,117,74,0,1
+HT-0346,1966-04-17,Nandini,Joshi,F,60,Ahmedabad,Gujarat,West,Teacher,159.0,58.3,23.1,0,0,Non-vegetarian,7.1,117,80,1,1
+HT-0347,1979-08-14,Nandini,Verma,F,46,Chennai,Tamil Nadu,South,Retired,143.8,53.6,25.9,0,1,Non-vegetarian,9.9,135,89,1,1
+HT-0348,1945-12-13,Gaurav,Pillai,M,80,Delhi,Delhi,North,Bank employee,170.4,78.8,27.1,0,0,Vegetarian,7.6,139,81,1,1
+HT-0349,1958-07-25,Radha,Reddy,F,67,Kochi,Kerala,South,Homemaker,147.8,53.1,24.3,0,0,Eggetarian,12.1,134,80,0,1
+HT-0350,1983-11-29,Mary,Patel,F,42,Ahmedabad,Gujarat,West,Driver,155.0,67.0,27.9,0,0,Vegetarian,9.7,138,84,0,1
+HT-0351,1990-06-19,Gurpreet,Joshi,F,36,Kolkata,West Bengal,East,Driver,149.6,60.4,27.0,0,0,Non-vegetarian,9.7,131,70,0,1
+HT-0352,1961-09-03,Vikram,Pillai,M,64,Chennai,Tamil Nadu,South,Retired,166.7,79.8,28.7,0,1,Vegetarian,12.1,143,89,1,1
+HT-0353,1985-06-24,Manoj,Kulkarni,M,41,Kochi,Kerala,South,Teacher,176.0,83.8,27.1,0,1,Eggetarian,7.6,135,80,1,1
+HT-0354,1965-01-31,Anil,Patel,M,61,Bhubaneswar,Odisha,East,Shop owner,164.3,65.4,24.2,0,1,Non-vegetarian,10.4,153,90,1,1
+HT-0355,1976-03-12,Sanjay,Pillai,M,50,Mumbai,Maharashtra,West,Retired,170.4,80.7,27.8,0,0,Vegetarian,8.2,131,78,0,1
+HT-0356,1992-02-03,Sneha,Singh,F,34,Jaipur,Rajasthan,North,Sales executive,164.6,70.8,26.1,0,0,Non-vegetarian,10.6,123,79,1,1
+HT-0357,1960-12-20,Fatima,Singh,F,65,Kochi,Kerala,South,Teacher,148.2,59.1,26.9,1,0,Non-vegetarian,11.7,148,87,0,1
+HT-0358,1984-04-11,Lakshmi,Menon,F,42,Lucknow,Uttar Pradesh,North,Teacher,159.5,50.0,19.7,0,0,Non-vegetarian,8.2,131,78,0,1
+HT-0359,1985-02-27,Neha,Mukherjee,F,41,Bhubaneswar,Odisha,East,Bank employee,143.8,74.8,36.2,0,0,Eggetarian,11.8,130,77,0,1
+HT-0360,1968-09-05,Priya,Kulkarni,F,57,Hyderabad,Telangana,South,Teacher,155.0,68.0,28.3,0,0,Non-vegetarian,10.9,124,73,1,1
+HT-0361,1970-03-19,Rekha,Joshi,F,56,Lucknow,Uttar Pradesh,North,Government officer,160.4,75.6,29.4,0,0,Non-vegetarian,10.7,135,78,1,1
+HT-0362,1958-11-06,Rohan,Verma,M,67,Kolkata,West Bengal,East,Government officer,173.9,103.9,34.4,1,0,Eggetarian,11.4,150,97,1,1
+HT-0363,1968-10-20,Imran,Menon,M,57,Pune,Maharashtra,West,Bank employee,170.6,96.9,33.3,0,0,Non-vegetarian,8.7,144,83,1,1
+HT-0364,1980-07-04,Divya,Ahmed,F,45,Jaipur,Rajasthan,North,Bank employee,155.0,77.1,32.1,0,0,Non-vegetarian,5.0,138,84,0,1
+HT-0365,1964-11-28,Aarav,Patel,M,61,Lucknow,Uttar Pradesh,North,IT professional,170.2,71.5,24.7,1,1,Non-vegetarian,10.6,120,78,0,1
+HT-0366,1998-01-07,Ananya,Khan,F,28,Bhubaneswar,Odisha,East,IT professional,161.4,92.9,35.7,1,0,Eggetarian,9.4,131,81,1,1
+HT-0367,1979-10-18,Ananya,Verma,F,46,Kochi,Kerala,South,Driver,162.6,71.1,26.9,0,0,Non-vegetarian,11.2,129,78,0,1
+HT-0368,1978-09-13,Neha,Fernandes,F,47,Bhubaneswar,Odisha,East,Nurse,153.1,57.7,24.6,0,0,Vegetarian,5.0,131,82,1,1
+HT-0369,1998-01-10,Meera,Banerjee,F,28,Ahmedabad,Gujarat,West,IT professional,155.2,50.9,21.2,0,0,Non-vegetarian,6.9,122,79,0,1
+HT-0370,1995-05-17,Deepak,Banerjee,M,31,Kochi,Kerala,South,Teacher,161.7,47.9,18.3,0,0,Non-vegetarian,12.4,123,66,0,1
+HT-0371,1978-03-26,Deepak,Khan,M,48,Kolkata,West Bengal,East,Homemaker,161.3,71.9,27.6,0,0,Vegetarian,8.0,153,95,1,1
+HT-0372,1962-06-19,Vikram,Mukherjee,M,64,Ahmedabad,Gujarat,West,IT professional,165.4,75.8,27.7,0,0,Vegetarian,8.1,156,97,1,1
+HT-0373,1985-08-23,Imran,Rao,M,40,Pune,Maharashtra,West,Nurse,170.0,76.2,26.4,0,0,Non-vegetarian,9.7,138,88,1,1
+HT-0374,1994-12-13,Asha,Ahmed,F,31,Pune,Maharashtra,West,Homemaker,164.7,91.2,33.6,0,0,Eggetarian,8.0,142,86,1,1
+HT-0375,1971-07-26,Imran,Joshi,M,54,Pune,Maharashtra,West,Retired,173.8,97.0,32.1,0,1,Non-vegetarian,8.4,138,81,0,1
+HT-0376,1964-01-12,Divya,Mukherjee,F,62,Lucknow,Uttar Pradesh,North,Teacher,151.7,48.6,21.1,0,0,Non-vegetarian,7.9,129,74,0,1
+HT-0377,1962-01-26,Ravi,Khan,M,64,Ahmedabad,Gujarat,West,Teacher,165.9,87.5,31.8,1,0,Non-vegetarian,6.2,147,93,1,1
+HT-0378,1980-09-19,Rahul,Iyer,M,45,Lucknow,Uttar Pradesh,North,Government officer,167.4,83.5,29.8,0,0,Non-vegetarian,6.2,135,81,0,1
+HT-0379,1945-12-13,Gurpreet,Menon,F,80,Hyderabad,Telangana,South,Bank employee,158.5,75.9,30.2,0,0,Non-vegetarian,8.5,153,89,0,1
+HT-0380,1955-12-13,Ananya,Joshi,F,70,Ahmedabad,Gujarat,West,Driver,155.7,58.3,24.0,0,0,Non-vegetarian,13.4,145,89,1,1
+HT-0381,1973-08-28,Vikram,Khan,M,52,Lucknow,Uttar Pradesh,North,Shop owner,180.0,79.1,24.4,0,0,Vegetarian,13.2,142,78,0,1
+HT-0382,1981-06-17,Lakshmi,Banerjee,F,45,Ahmedabad,Gujarat,West,Bank employee,145.5,50.5,23.8,0,0,Non-vegetarian,14.0,148,83,1,1
+HT-0383,1977-11-26,Ananya,Joshi,F,48,Jaipur,Rajasthan,North,Driver,167.2,75.1,26.8,0,0,Non-vegetarian,9.6,139,90,0,1
+HT-0384,1989-07-28,Rohan,Singh,M,36,Delhi,Delhi,North,Nurse,174.1,76.9,25.4,0,0,Non-vegetarian,10.5,138,77,0,1
+HT-0385,1970-03-27,Pranav,Verma,M,56,Chennai,Tamil Nadu,South,Nurse,165.8,103.4,37.6,1,1,Non-vegetarian,9.1,149,89,0,1
+HT-0386,1962-03-26,Rohan,Fernandes,M,64,Ahmedabad,Gujarat,West,Sales executive,162.2,84.3,32.0,0,0,Non-vegetarian,8.8,137,90,0,1
+HT-0387,1967-08-04,Isha,Menon,F,58,Bhubaneswar,Odisha,East,Bank employee,153.6,61.0,25.9,0,0,Non-vegetarian,10.8,125,78,1,1
+HT-0388,1969-01-09,Lakshmi,Banerjee,F,57,Kochi,Kerala,South,Retired,152.7,56.9,24.4,0,0,Eggetarian,8.2,145,89,1,1
+HT-0389,1971-01-09,Divya,Banerjee,F,55,Bengaluru,Karnataka,South,Bank employee,158.2,61.7,24.7,0,0,Non-vegetarian,11.6,136,76,1,1
+HT-0390,1966-12-24,Shalini,Chauhan,F,59,Kochi,Kerala,South,Driver,157.2,78.0,31.6,0,0,Vegetarian,10.1,136,86,0,1
+HT-0391,1990-12-06,Rahul,Joshi,M,35,Kochi,Kerala,South,Government officer,168.9,60.9,21.3,0,0,Non-vegetarian,11.8,143,85,0,1
+HT-0392,1987-12-29,Nikhil,Pillai,M,38,Lucknow,Uttar Pradesh,North,Bank employee,166.0,60.0,21.8,0,0,Vegetarian,10.8,138,81,1,1
+HT-0393,1963-04-10,Joseph,Mukherjee,M,63,Pune,Maharashtra,West,Teacher,167.6,65.3,23.3,0,0,Non-vegetarian,7.4,125,81,0,1
+HT-0394,1969-05-07,Nandini,Chauhan,F,57,Hyderabad,Telangana,South,Teacher,148.6,51.6,23.3,0,0,Non-vegetarian,11.4,138,90,1,1
+HT-0395,1990-03-10,Manoj,Patel,M,36,Pune,Maharashtra,West,Factory supervisor,164.5,69.0,25.5,0,0,Non-vegetarian,12.5,143,81,1,1
+HT-0396,1953-10-07,Fatima,Nair,F,72,Mumbai,Maharashtra,West,Bank employee,151.5,41.3,18.0,0,0,Non-vegetarian,5.6,134,83,0,1
+HT-0397,1979-10-12,Priya,Das,F,46,Pune,Maharashtra,West,Retired,151.7,54.1,23.5,0,0,Vegetarian,8.9,123,76,0,1
+HT-0398,1988-08-26,Radha,Banerjee,F,37,Kochi,Kerala,South,Homemaker,152.8,56.1,24.0,0,0,Non-vegetarian,10.5,134,80,1,1
+HT-0399,1985-03-11,Gaurav,Khan,M,41,Hyderabad,Telangana,South,Government officer,162.0,56.0,21.3,1,0,Non-vegetarian,11.4,136,90,0,1
+HT-0400,1988-04-25,Divya,Sharma,F,38,Kolkata,West Bengal,East,Retired,146.5,58.2,27.2,0,1,Vegetarian,12.3,147,89,0,1
