@@ -50,13 +50,13 @@ export default function App() {
     <div className="shell">
       <aside className="rail" aria-label="Patient panel">
         <div className="brand">
-          <div className="brand-row">
+          <a className="brand-row" href="/" title="Back to the HridayTwin home page" style={{ color: "inherit", textDecoration: "none" }}>
             <div className="mark"><HeartPulse size={20} aria-hidden /></div>
             <div>
               <h1>HridayTwin</h1>
               <p>Hypertension digital twin, by MyZenn</p>
             </div>
-          </div>
+          </a>
         </div>
         <Roster rows={roster} counts={counts} filter={filter} onFilter={setFilter}
                 selected={selected} onSelect={id => { setSelected(id); setView(v => (v === "live" ? "live" : "twin")); }} />

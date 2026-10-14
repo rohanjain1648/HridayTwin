@@ -5,6 +5,10 @@
 >
 > Happiest Health **Digital Twin Challenge 2026**, hypertension track. Built on [MyZenn](https://myzenn.com).
 
+![HridayTwin landing page](docs/screenshots/landing.png)
+
+![The twin's 9-step journey](docs/screenshots/landing_journey.png)
+
 ![HridayTwin clinician console](docs/screenshots/console.png)
 
 ---
@@ -185,8 +189,11 @@ cd dashboard && npm run test:rppg                          # camera heart-rate a
 ```
 
 For UI development, run `npm run dev` in `dashboard/` (port 5173, proxies `/api` to 8000).
-Deep links: `/?patient=HT-0278`, `/?view=evidence`, `/?patient=HT-0036&view=records`,
-`/?view=live&autoplay=1` (starts the first suggested replay).
+Routes: `/` is the landing page (the 9-step journey, a live what-if on a real patient, evidence, the MyZenn toolkit);
+`/console` is the clinician console. Console deep links: `/console?patient=HT-0278`, `/console?view=evidence`,
+`/console?patient=HT-0036&view=records`, `/console?view=live&autoplay=1` (starts the first suggested replay).
+The older `/?patient=…` and `/?view=…` forms still open the console. The landing page's numbers come from the trained
+model via `python docs/make_landing_data.py`; re-run it after retraining.
 
 ### Demo walkthrough (5 minutes)
 

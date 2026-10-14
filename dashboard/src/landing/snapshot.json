@@ -1,0 +1,1017 @@
+{
+ "patient": {
+  "id": "HT-0278",
+  "name": "Sunita Patel",
+  "age": 49,
+  "sex": "F",
+  "city": "Mumbai",
+  "phenotype": "Adherence-dependent",
+  "tier": "high",
+  "conditions": [
+   "Essential hypertension",
+   "Hyperlipidemia",
+   "Anxiety disorder"
+  ]
+ },
+ "records": [
+  [
+   "Essential hypertension",
+   "SNOMED 59621000"
+  ],
+  [
+   "Hyperlipidemia",
+   "SNOMED 55822004"
+  ],
+  [
+   "eGFR 95 mL/min",
+   "LOINC 33914-3"
+  ],
+  [
+   "Hydrochlorothiazide 12.5 mg tablet",
+   "Thiazide diuretic"
+  ],
+  [
+   "AGT M235T",
+   "risk / non-risk"
+  ]
+ ],
+ "series": {
+  "hr": [
+   77.0,
+   72.2,
+   82.0,
+   80.4,
+   76.5,
+   74.6,
+   83.3,
+   84.7,
+   79.7,
+   66.8,
+   76.6,
+   80.0
+  ],
+  "hrv": [
+   48.0,
+   48.4,
+   40.4,
+   42.4,
+   44.1,
+   46.1,
+   38.7,
+   39.5,
+   38.0,
+   52.3,
+   43.0,
+   39.0
+  ],
+  "stress": [
+   22.8,
+   19.9,
+   36.8,
+   31.8,
+   29.9,
+   26.4,
+   41.1,
+   35.7,
+   39.4,
+   11.8,
+   33.5,
+   37.9
+  ],
+  "mood": [
+   8.0,
+   6.0,
+   6.0,
+   5.0,
+   6.0,
+   5.0
+  ],
+  "salt_days": 1,
+  "session_min": 15.0
+ },
+ "now_hour": 1434,
+ "risk": 0.638,
+ "cuff": [
+  {
+   "hour": 1268.4166666666667,
+   "sbp": 165
+  },
+  {
+   "hour": 1279.7,
+   "sbp": 188
+  },
+  {
+   "hour": 1292.4333333333334,
+   "sbp": 157
+  },
+  {
+   "hour": 1303.6,
+   "sbp": 146
+  },
+  {
+   "hour": 1316.2833333333333,
+   "sbp": 154
+  },
+  {
+   "hour": 1327.7333333333333,
+   "sbp": 155
+  },
+  {
+   "hour": 1351.75,
+   "sbp": 159
+  },
+  {
+   "hour": 1375.15,
+   "sbp": 159
+  },
+  {
+   "hour": 1388.1,
+   "sbp": 157
+  },
+  {
+   "hour": 1399.1,
+   "sbp": 161
+  },
+  {
+   "hour": 1412.0833333333333,
+   "sbp": 169
+  },
+  {
+   "hour": 1423.1833333333334,
+   "sbp": 159
+  }
+ ],
+ "projection": [
+  {
+   "hour": 1434,
+   "sbp": 159.9,
+   "lo": 147.8,
+   "hi": 171.9
+  },
+  {
+   "hour": 1435,
+   "sbp": 160.1,
+   "lo": 148.1,
+   "hi": 172.1
+  },
+  {
+   "hour": 1436,
+   "sbp": 160.0,
+   "lo": 148.0,
+   "hi": 172.0
+  },
+  {
+   "hour": 1437,
+   "sbp": 159.8,
+   "lo": 147.9,
+   "hi": 171.7
+  },
+  {
+   "hour": 1438,
+   "sbp": 147.4,
+   "lo": 135.5,
+   "hi": 159.3
+  },
+  {
+   "hour": 1439,
+   "sbp": 146.6,
+   "lo": 134.7,
+   "hi": 158.4
+  },
+  {
+   "hour": 1440,
+   "sbp": 153.2,
+   "lo": 141.5,
+   "hi": 164.9
+  },
+  {
+   "hour": 1441,
+   "sbp": 152.5,
+   "lo": 140.8,
+   "hi": 164.3
+  },
+  {
+   "hour": 1442,
+   "sbp": 151.7,
+   "lo": 140.0,
+   "hi": 163.5
+  },
+  {
+   "hour": 1443,
+   "sbp": 151.2,
+   "lo": 139.5,
+   "hi": 162.9
+  },
+  {
+   "hour": 1444,
+   "sbp": 151.1,
+   "lo": 139.4,
+   "hi": 162.8
+  },
+  {
+   "hour": 1445,
+   "sbp": 151.8,
+   "lo": 140.1,
+   "hi": 163.6
+  },
+  {
+   "hour": 1446,
+   "sbp": 164.0,
+   "lo": 152.3,
+   "hi": 175.7
+  },
+  {
+   "hour": 1447,
+   "sbp": 164.5,
+   "lo": 152.8,
+   "hi": 176.2
+  },
+  {
+   "hour": 1448,
+   "sbp": 165.2,
+   "lo": 153.4,
+   "hi": 176.9
+  },
+  {
+   "hour": 1449,
+   "sbp": 165.9,
+   "lo": 154.1,
+   "hi": 177.7
+  },
+  {
+   "hour": 1450,
+   "sbp": 166.6,
+   "lo": 154.8,
+   "hi": 178.4
+  },
+  {
+   "hour": 1451,
+   "sbp": 167.2,
+   "lo": 155.4,
+   "hi": 179.0
+  },
+  {
+   "hour": 1452,
+   "sbp": 157.1,
+   "lo": 145.4,
+   "hi": 168.9
+  },
+  {
+   "hour": 1453,
+   "sbp": 157.2,
+   "lo": 145.5,
+   "hi": 168.9
+  },
+  {
+   "hour": 1454,
+   "sbp": 157.0,
+   "lo": 145.3,
+   "hi": 168.7
+  },
+  {
+   "hour": 1455,
+   "sbp": 156.9,
+   "lo": 145.2,
+   "hi": 168.6
+  },
+  {
+   "hour": 1456,
+   "sbp": 156.9,
+   "lo": 145.2,
+   "hi": 168.7
+  },
+  {
+   "hour": 1457,
+   "sbp": 156.3,
+   "lo": 144.6,
+   "hi": 168.0
+  }
+ ],
+ "scenarios": {
+  "000": {
+   "risk": 0.638,
+   "peak": 167.2,
+   "curve": [
+    159.9,
+    160.1,
+    160.0,
+    159.8,
+    147.4,
+    146.6,
+    153.2,
+    152.5,
+    151.7,
+    151.2,
+    151.1,
+    151.8,
+    164.0,
+    164.5,
+    165.2,
+    165.9,
+    166.6,
+    167.2,
+    157.1,
+    157.2,
+    157.0,
+    156.9,
+    156.9,
+    156.3
+   ]
+  },
+  "001": {
+   "risk": 0.172,
+   "peak": 153.6,
+   "curve": [
+    146.1,
+    146.4,
+    146.2,
+    146.0,
+    134.6,
+    133.8,
+    140.7,
+    140.1,
+    139.3,
+    138.8,
+    138.7,
+    139.4,
+    150.6,
+    151.1,
+    151.7,
+    152.3,
+    153.1,
+    153.6,
+    143.3,
+    143.4,
+    143.2,
+    143.1,
+    143.1,
+    142.5
+   ]
+  },
+  "010": {
+   "risk": 0.552,
+   "peak": 163.1,
+   "curve": [
+    156.0,
+    156.2,
+    156.0,
+    144.9,
+    143.7,
+    142.9,
+    149.6,
+    149.0,
+    148.3,
+    147.8,
+    147.7,
+    148.4,
+    160.2,
+    160.7,
+    161.3,
+    161.9,
+    162.6,
+    163.1,
+    153.1,
+    153.2,
+    153.0,
+    152.9,
+    152.9,
+    152.3
+   ]
+  },
+  "011": {
+   "risk": 0.089,
+   "peak": 149.6,
+   "curve": [
+    142.3,
+    142.5,
+    142.3,
+    132.1,
+    131.0,
+    130.2,
+    137.1,
+    136.6,
+    135.8,
+    135.4,
+    135.3,
+    135.9,
+    146.8,
+    147.3,
+    147.8,
+    148.4,
+    149.1,
+    149.6,
+    139.3,
+    139.4,
+    139.2,
+    139.1,
+    139.1,
+    138.6
+   ]
+  },
+  "100": {
+   "risk": 0.523,
+   "peak": 164.6,
+   "curve": [
+    158.2,
+    158.2,
+    157.8,
+    157.5,
+    145.3,
+    144.5,
+    151.5,
+    151.0,
+    150.5,
+    150.1,
+    150.1,
+    150.6,
+    162.4,
+    162.8,
+    163.2,
+    163.7,
+    164.2,
+    164.6,
+    154.4,
+    154.4,
+    154.3,
+    154.2,
+    154.2,
+    153.8
+   ]
+  },
+  "101": {
+   "risk": 0.093,
+   "peak": 151.1,
+   "curve": [
+    144.5,
+    144.5,
+    144.1,
+    143.8,
+    132.6,
+    131.8,
+    139.0,
+    138.6,
+    138.0,
+    137.7,
+    137.6,
+    138.1,
+    149.0,
+    149.3,
+    149.8,
+    150.2,
+    150.7,
+    151.1,
+    140.6,
+    140.6,
+    140.5,
+    140.5,
+    140.5,
+    140.1
+   ]
+  },
+  "110": {
+   "risk": 0.401,
+   "peak": 160.8,
+   "curve": [
+    154.4,
+    154.4,
+    154.0,
+    142.9,
+    141.8,
+    141.0,
+    148.0,
+    147.6,
+    147.1,
+    146.8,
+    146.7,
+    147.2,
+    158.7,
+    159.1,
+    159.5,
+    159.9,
+    160.4,
+    160.8,
+    150.6,
+    150.6,
+    150.5,
+    150.4,
+    150.4,
+    150.0
+   ]
+  },
+  "111": {
+   "risk": 0.059,
+   "peak": 147.3,
+   "curve": [
+    140.8,
+    140.7,
+    140.3,
+    130.2,
+    129.1,
+    128.4,
+    135.6,
+    135.2,
+    134.7,
+    134.4,
+    134.3,
+    134.8,
+    145.4,
+    145.7,
+    146.1,
+    146.5,
+    146.9,
+    147.3,
+    136.8,
+    136.9,
+    136.8,
+    136.7,
+    136.7,
+    136.3
+   ]
+  }
+ },
+ "groups": [
+  {
+   "group": "BP history",
+   "impact": 3.011
+  },
+  {
+   "group": "Medication adherence",
+   "impact": 0.549
+  },
+  {
+   "group": "EHR & genetics",
+   "impact": 0.463
+  },
+  {
+   "group": "Salt intake",
+   "impact": 0.435
+  },
+  {
+   "group": "Mood (MyZenn)",
+   "impact": 0.018
+  },
+  {
+   "group": "Activity",
+   "impact": -0.031
+  },
+  {
+   "group": "Sleep",
+   "impact": -0.049
+  },
+  {
+   "group": "Stress & HRV",
+   "impact": -0.172
+  },
+  {
+   "group": "Time of day",
+   "impact": -0.237
+  }
+ ],
+ "sensitivities": {
+  "intercept": 143.29,
+  "stress": 22.02,
+  "sleep_debt": 3.37,
+  "drug_level": -13.16,
+  "salt_load": 0.97,
+  "morning": 10.44
+ },
+ "recommendations": [
+  {
+   "id": "adherence",
+   "name": "Adherence rescue",
+   "myzenn_tool": "Smart pillbox + reminders",
+   "risk_after": 0.172,
+   "risk_reduction": 0.466
+  },
+  {
+   "id": "sleep",
+   "name": "Sleep wind-down",
+   "myzenn_tool": "MyBody + MyPeace",
+   "risk_after": 0.51,
+   "risk_reduction": 0.128
+  },
+  {
+   "id": "breath",
+   "name": "Slow-breathing protocol",
+   "myzenn_tool": "MyBreath",
+   "risk_after": 0.523,
+   "risk_reduction": 0.115
+  },
+  {
+   "id": "salt",
+   "name": "Low-salt coaching",
+   "myzenn_tool": "MyZenn diet coach",
+   "risk_after": 0.579,
+   "risk_reduction": 0.059
+  },
+  {
+   "id": "move",
+   "name": "Active recovery",
+   "myzenn_tool": "MyYoga",
+   "risk_after": 0.669,
+   "risk_reduction": -0.031
+  }
+ ],
+ "snapshot": {
+  "cuff_sbp_last": 159.0,
+  "cuff_dbp_last": 101.0,
+  "hr_rest_night": 68.76,
+  "hrv_mean_24h": 43.32,
+  "hrv_24h_vs_7d_pct": -2.69,
+  "stress_mean_24h": 30.17,
+  "sleep_last_h": 8.36,
+  "sleep_debt": 1.57,
+  "doses_last_7d": 0.0,
+  "consecutive_missed": 10.0,
+  "salt_logged_48h_g": 7.4,
+  "mood_last": 5.0,
+  "steps_24h": 3391.0,
+  "myzenn_min_72h": 0.0
+ },
+ "replay": {
+  "name": "Sanjay Iyer",
+  "driver": "stress",
+  "lead_h": 21,
+  "story": {
+   "hrv_before": 17.5,
+   "hrv_after": 11.1,
+   "stress_before": 46,
+   "stress_after": 69,
+   "last_sleep_h": 4.2,
+   "doses_taken": 5,
+   "doses_days": 5,
+   "max_cuff": 158
+  },
+  "onset_hour": 765,
+  "points": [
+   {
+    "hour": 717,
+    "risk": 0.081,
+    "sbp": 144.6,
+    "alert": false
+   },
+   {
+    "hour": 718,
+    "risk": 0.087,
+    "sbp": 140.1,
+    "alert": false
+   },
+   {
+    "hour": 719,
+    "risk": 0.086,
+    "sbp": 137.9,
+    "alert": false
+   },
+   {
+    "hour": 720,
+    "risk": 0.095,
+    "sbp": 136.1,
+    "alert": false
+   },
+   {
+    "hour": 721,
+    "risk": 0.09,
+    "sbp": 136.6,
+    "alert": false
+   },
+   {
+    "hour": 722,
+    "risk": 0.092,
+    "sbp": 137.8,
+    "alert": false
+   },
+   {
+    "hour": 723,
+    "risk": 0.09,
+    "sbp": 131.8,
+    "alert": false
+   },
+   {
+    "hour": 724,
+    "risk": 0.101,
+    "sbp": 134.2,
+    "alert": false
+   },
+   {
+    "hour": 725,
+    "risk": 0.101,
+    "sbp": 130.2,
+    "alert": false
+   },
+   {
+    "hour": 726,
+    "risk": 0.107,
+    "sbp": 140.8,
+    "alert": false
+   },
+   {
+    "hour": 727,
+    "risk": 0.102,
+    "sbp": 137.4,
+    "alert": false
+   },
+   {
+    "hour": 728,
+    "risk": 0.081,
+    "sbp": 144.3,
+    "alert": false
+   },
+   {
+    "hour": 729,
+    "risk": 0.084,
+    "sbp": 144.5,
+    "alert": false
+   },
+   {
+    "hour": 730,
+    "risk": 0.087,
+    "sbp": 145.1,
+    "alert": false
+   },
+   {
+    "hour": 731,
+    "risk": 0.087,
+    "sbp": 154.2,
+    "alert": false
+   },
+   {
+    "hour": 732,
+    "risk": 0.103,
+    "sbp": 153.3,
+    "alert": false
+   },
+   {
+    "hour": 733,
+    "risk": 0.104,
+    "sbp": 156.6,
+    "alert": false
+   },
+   {
+    "hour": 734,
+    "risk": 0.111,
+    "sbp": 151.8,
+    "alert": false
+   },
+   {
+    "hour": 735,
+    "risk": 0.12,
+    "sbp": 150.2,
+    "alert": false
+   },
+   {
+    "hour": 736,
+    "risk": 0.143,
+    "sbp": 152.5,
+    "alert": false
+   },
+   {
+    "hour": 737,
+    "risk": 0.16,
+    "sbp": 152.5,
+    "alert": false
+   },
+   {
+    "hour": 738,
+    "risk": 0.18,
+    "sbp": 152.1,
+    "alert": false
+   },
+   {
+    "hour": 739,
+    "risk": 0.22,
+    "sbp": 151.2,
+    "alert": false
+   },
+   {
+    "hour": 740,
+    "risk": 0.241,
+    "sbp": 150.6,
+    "alert": false
+   },
+   {
+    "hour": 741,
+    "risk": 0.495,
+    "sbp": 147.4,
+    "alert": true
+   },
+   {
+    "hour": 742,
+    "risk": 0.508,
+    "sbp": 150.2,
+    "alert": false
+   },
+   {
+    "hour": 743,
+    "risk": 0.507,
+    "sbp": 150.4,
+    "alert": false
+   },
+   {
+    "hour": 744,
+    "risk": 0.518,
+    "sbp": 144.8,
+    "alert": false
+   },
+   {
+    "hour": 745,
+    "risk": 0.529,
+    "sbp": 150.2,
+    "alert": false
+   },
+   {
+    "hour": 746,
+    "risk": 0.545,
+    "sbp": 151.4,
+    "alert": false
+   },
+   {
+    "hour": 747,
+    "risk": 0.557,
+    "sbp": 148.6,
+    "alert": true
+   },
+   {
+    "hour": 748,
+    "risk": 0.557,
+    "sbp": 146.9,
+    "alert": false
+   },
+   {
+    "hour": 749,
+    "risk": 0.565,
+    "sbp": 139.8,
+    "alert": false
+   },
+   {
+    "hour": 750,
+    "risk": 0.565,
+    "sbp": 150.1,
+    "alert": false
+   },
+   {
+    "hour": 751,
+    "risk": 0.559,
+    "sbp": 153.0,
+    "alert": false
+   },
+   {
+    "hour": 752,
+    "risk": 0.662,
+    "sbp": 157.6,
+    "alert": false
+   },
+   {
+    "hour": 753,
+    "risk": 0.667,
+    "sbp": 152.8,
+    "alert": false
+   },
+   {
+    "hour": 754,
+    "risk": 0.667,
+    "sbp": 153.2,
+    "alert": false
+   },
+   {
+    "hour": 755,
+    "risk": 0.667,
+    "sbp": 153.7,
+    "alert": false
+   },
+   {
+    "hour": 756,
+    "risk": 0.671,
+    "sbp": 154.8,
+    "alert": false
+   },
+   {
+    "hour": 757,
+    "risk": 0.679,
+    "sbp": 152.1,
+    "alert": false
+   },
+   {
+    "hour": 758,
+    "risk": 0.689,
+    "sbp": 149.9,
+    "alert": false
+   },
+   {
+    "hour": 759,
+    "risk": 0.689,
+    "sbp": 159.5,
+    "alert": false
+   },
+   {
+    "hour": 760,
+    "risk": 0.679,
+    "sbp": 152.9,
+    "alert": false
+   },
+   {
+    "hour": 761,
+    "risk": 0.679,
+    "sbp": 157.0,
+    "alert": false
+   },
+   {
+    "hour": 762,
+    "risk": 0.679,
+    "sbp": 157.3,
+    "alert": false
+   },
+   {
+    "hour": 763,
+    "risk": 0.689,
+    "sbp": 155.1,
+    "alert": false
+   },
+   {
+    "hour": 764,
+    "risk": 0.689,
+    "sbp": 154.2,
+    "alert": false
+   },
+   {
+    "hour": 765,
+    "risk": 0.731,
+    "sbp": 161.3,
+    "alert": false
+   },
+   {
+    "hour": 766,
+    "risk": 0.731,
+    "sbp": 160.9,
+    "alert": false
+   },
+   {
+    "hour": 767,
+    "risk": 0.724,
+    "sbp": 162.2,
+    "alert": false
+   },
+   {
+    "hour": 768,
+    "risk": 0.724,
+    "sbp": 164.2,
+    "alert": false
+   },
+   {
+    "hour": 769,
+    "risk": 0.724,
+    "sbp": 164.8,
+    "alert": false
+   },
+   {
+    "hour": 770,
+    "risk": 0.721,
+    "sbp": 155.9,
+    "alert": false
+   },
+   {
+    "hour": 771,
+    "risk": 0.721,
+    "sbp": 152.2,
+    "alert": false
+   },
+   {
+    "hour": 772,
+    "risk": 0.721,
+    "sbp": 154.7,
+    "alert": false
+   },
+   {
+    "hour": 773,
+    "risk": 0.721,
+    "sbp": 153.9,
+    "alert": false
+   }
+  ]
+ },
+ "metrics": {
+  "auroc": 0.92,
+  "auprc": 0.672,
+  "brier": 0.067,
+  "event_recall": 0.792,
+  "median_lead_h": 19.0,
+  "patients": 400,
+  "test_patients": 100,
+  "days": 60,
+  "features": 71,
+  "samples": 83600,
+  "events_total": 4577,
+  "ablation": {
+   "EHR only (static)": 0.799,
+   "Home cuff only (standard care)": 0.886,
+   "Wearables + MyZenn only": 0.78,
+   "All dynamic streams": 0.918,
+   "HridayTwin fusion (EHR + streams)": 0.92,
+   "Clinical rule (last home SBP)": 0.85
+  },
+  "stress_rho": 0.76,
+  "top2": 0.84,
+  "bandit": 16,
+  "random": 9,
+  "oracle": 18
+ }
+}
