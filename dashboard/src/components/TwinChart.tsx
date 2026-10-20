@@ -26,22 +26,23 @@ export function TwinChart({ twin, streams, whatIf, showOutcomes }: {
         <ComposedChart data={data} margin={{ top: 8, right: 16, bottom: 0, left: -6 }}>
           <CartesianGrid stroke="rgba(0,158,154,0.12)" />
           <XAxis dataKey="hour" type="number" domain={[lo, hi]} ticks={Array.from({ length: 9 }, (_, i) => lo + i * 24)}
-                 tickFormatter={dayTick} tick={{ fontSize: 12, fill: "#6b7c8f" }} />
-          <YAxis domain={[100, 200]} tick={{ fontSize: 12, fill: "#6b7c8f" }} width={48} unit="" />
+                 tickFormatter={dayTick} tick={{ fontSize: 12, fill: "#6b7c8f", fontFamily: "var(--font-sans)" }} />
+          <YAxis domain={[100, 200]} tick={{ fontSize: 12, fill: "#6b7c8f", fontFamily: "var(--font-sans)" }} width={48} unit="" />
           <ReferenceArea x1={now} x2={hi} fill="#009e9a" fillOpacity={0.05} />
           {showOutcomes && streams.ground_truth_events.map(e => (
             <ReferenceArea key={e.hour} x1={e.hour} x2={e.hour + e.duration_h} fill="#c8412f" fillOpacity={e.future ? 0.28 : 0.14}
                            stroke={e.future ? "#c8412f" : undefined} strokeDasharray="3 3" />
           ))}
           <ReferenceLine y={160} stroke="#c8412f" strokeDasharray="5 4"
-                         label={{ value: "Surge threshold 160", position: "insideTopLeft", fontSize: 11, fill: "#c8412f" }} />
-          <ReferenceLine x={now} stroke="#15304b" label={{ value: "Now", position: "insideTopRight", fontSize: 11, fill: "#15304b" }} />
+                         label={{ value: "Surge threshold 160", position: "insideTopLeft", fontSize: 11, fill: "#c8412f", fontFamily: "var(--font-sans)" }} />
+          <ReferenceLine x={now} stroke="#15304b" label={{ value: "Now", position: "insideTopRight", fontSize: 11, fill: "#15304b", fontFamily: "var(--font-sans)" }} />
           <Area dataKey="band" stroke="none" fill="#009e9a" fillOpacity={0.16} isAnimationActive={false} connectNulls />
           <Line dataKey="proj" stroke="#009e9a" strokeWidth={2.5} dot={false} isAnimationActive={false} connectNulls />
           {whatIf && <Line dataKey="whatif" stroke="#007470" strokeWidth={2} strokeDasharray="6 4" dot={false}
                            isAnimationActive={false} connectNulls />}
           <Scatter dataKey="cuff" fill="#15304b" isAnimationActive={false} />
           <Tooltip labelFormatter={h => fmtHour(Number(h))}
+                   wrapperStyle={{ fontFamily: "var(--font-sans)", fontSize: 13 }}
                    formatter={(v: any, n: string) => [Array.isArray(v) ? `${v[0]}–${v[1]}` : v,
                      ({ cuff: "Home cuff SBP", proj: "Twin projection", band: "80% band", whatif: "What-if projection" } as any)[n] ?? n]} />
         </ComposedChart>
@@ -50,7 +51,7 @@ export function TwinChart({ twin, streams, whatIf, showOutcomes }: {
         <ComposedChart data={risk} margin={{ top: 4, right: 16, bottom: 0, left: -6 }}>
           <XAxis dataKey="hour" type="number" domain={[lo, hi]} hide />
           <YAxis domain={[0, 1]} ticks={[0, 0.3, 0.55, 1]} tickFormatter={v => `${Math.round(v * 100)}%`}
-                 tick={{ fontSize: 11, fill: "#6b7c8f" }} width={48} />
+                 tick={{ fontSize: 11, fill: "#6b7c8f", fontFamily: "var(--font-sans)" }} width={48} />
           <ReferenceLine y={0.55} stroke="#c8412f" strokeDasharray="3 3" />
           <ReferenceLine y={0.3} stroke="#d9912b" strokeDasharray="3 3" />
           <ReferenceLine x={now} stroke="#15304b" />

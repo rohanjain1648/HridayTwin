@@ -65,7 +65,7 @@ const PHASES: { id: Phase; label: string; first: number }[] = [
 const ORDER: (number | "d")[] = [0, 1, 2, 3, 4, "d", 5, 6, 7, 8];
 const DPOS = 5;
 const phaseOf = (pos: number): Phase => (pos === DPOS ? "predict" : STEPS[ORDER[pos] as number].phase);
-const PHASE_COLOR: Record<Phase, string> = { sense: "var(--rose)", predict: "var(--teal)", act: "var(--amber)" };
+const PHASE_COLOR: Record<Phase, string> = { sense: "var(--teal)", predict: "var(--lav)", act: "var(--amber)" };
 
 interface Pt { x: number; y: number; rx: number; ry: number }
 

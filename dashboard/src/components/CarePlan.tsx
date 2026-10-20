@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
-import { Send, Stethoscope, Pill } from "lucide-react";
+import { Send, Stethoscope, Pill, ExternalLink } from "lucide-react";
 import { api, pct, Scenario, TwinView } from "../api";
+import { MYZENN, myzennUrl } from "../myzenn";
 
 const SCEN: Record<string, Partial<Scenario>> = {
   breath: { breathing_min: 20 }, sleep: { sleep_extra_h: 1, breathing_min: 5 }, adherence: { adherence: true },
@@ -21,11 +22,19 @@ export function CarePlan({ twin, onPreview }: { twin: TwinView; onPreview: (s: P
         <h2 id="care-h">Care plan</h2>
         <span className="aside">Ranked by simulated risk reduction on this twin</span>
       </div>
-      {twin.recommendations.map(r => (
+      {twin.recommendations.map(r => {
+        const link = myzennUrl(r.myzenn_tool);
+        return (
         <div key={r.id} className={`rec ${r.id === best.id && r.risk_reduction > 0.01 ? "best" : ""}`}>
           <div>
             <div className="rec-name">{r.name}</div>
-            <div className="rec-tool">{r.myzenn_tool}</div>
+            <div className="rec-tool">
+              {link ? (
+                <a href={link} target="_blank" rel="noreferrer" title={`Open ${r.myzenn_tool} in MyZenn`}>
+                  {r.myzenn_tool} <ExternalLink size={11} aria-hidden />
+                </a>
+              ) : r.myzenn_tool}
+            </div>
             <div className="rec-desc">{r.description}</div>
           </div>
           <div className="rec-effect">
@@ -39,10 +48,12 @@ export function CarePlan({ twin, onPreview }: { twin: TwinView; onPreview: (s: P
             </div>
           </div>
         </div>
-      ))}
+        );
+      })}
       <p className="small muted" style={{ marginTop: 10 }}>
         MySentinel's learned policy would choose <b>{learned?.name ?? twin.sentinel_policy.learned_pick}</b> for this context.
-        Prescribing sends the protocol to the patient's MyZenn app with a reminder schedule.
+        Prescribing sends the protocol to the patient's <a className="text-link" href={MYZENN} target="_blank" rel="noreferrer">MyZenn app</a> with
+        a reminder schedule.
       </p>
       <div style={{ display: "flex", gap: 8, marginTop: 12, flexWrap: "wrap" }}>
         <button className="btn ghost" onClick={() => act("teleconsult", "Tele-consult booked within 24 h")}>

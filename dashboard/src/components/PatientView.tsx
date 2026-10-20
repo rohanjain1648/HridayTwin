@@ -6,6 +6,7 @@ import { Drivers } from "./Drivers";
 import { EMPTY, Simulator } from "./Simulator";
 import { CarePlan } from "./CarePlan";
 import { StreamsPanel } from "./StreamsPanel";
+import { myzennUrl } from "../myzenn";
 
 export function PatientView({ row, at, isNow, onChanged, onOpenLive }: {
   row: RosterRow; at: number; isNow: boolean; onChanged: () => void; onOpenLive: () => void;
@@ -39,6 +40,9 @@ export function PatientView({ row, at, isNow, onChanged, onOpenLive }: {
                     onClick={() => api.act(row.id, { type: "mysafe", detail: "MySafe escalation: clinician call initiated" }).then(() => setEscalated(true))}>
               {escalated ? "Escalated to MySafe" : "Escalate via MySafe"}
             </button>
+          )}
+          {t.tier === "crisis" && (
+            <a className="banner-link" href={myzennUrl("MySafe")!} target="_blank" rel="noreferrer">Open MySafe ↗</a>
           )}
         </div>
       )}

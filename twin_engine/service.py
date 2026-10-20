@@ -18,8 +18,19 @@ from .simulator import START
 from .twin import Prior, Scenario, apply_scenario, calibrate, driver_contributions, phenotype, project
 
 
+_SHIFT = pd.Timedelta(0)
+
+
+def _set_display_shift(demo_now_hour: int) -> None:
+    """Show the synthetic timeline ending today, shifted by whole weeks so weekdays stay true."""
+    global _SHIFT
+    demo_now = (START + pd.Timedelta(hours=float(demo_now_hour))).normalize()
+    weeks = max(0, (pd.Timestamp.now().normalize() - demo_now).days // 7)
+    _SHIFT = pd.Timedelta(weeks=weeks)
+
+
 def iso(hour: float) -> str:
-    return (START + pd.Timedelta(hours=float(hour))).isoformat()
+    return (START + _SHIFT + pd.Timedelta(hours=float(hour))).isoformat()
 
 
 def _clean(v):
@@ -42,6 +53,7 @@ class TwinService:
         self.history = pd.read_parquet(ARTIFACT_DIR / "risk_history.parquet")
         self._hist = {k: g for k, g in self.history.groupby("patient_id")}
         self.now = self.cohort.H - 6  # demo clock: last day, 18:00
+        _set_display_shift(self.now)
         self.ehr = {k: pd.read_csv(EHR_DIR / f"{k}.csv") for k in ("patients", "conditions", "observations", "medications", "genomics")}
         self.actions: dict[str, list] = {}
         self.livestore = LiveStore()
@@ -136,13 +148,13 @@ class TwinService:
                    "session": _clean(ps.session[h]), "salt": _clean(ps.salt_g[h]), "mood": _clean(ps.mood[h])}
                   for h in hrs]
         sl = ps.sleep[(ps.sleep.avail_hour >= lo) & (ps.sleep.avail_hour < t)]
-        sleep = [{"date": str(r.date), "total": r.total_sleep_h, "deep": r.deep_pct, "rem": r.rem_pct,
+        sleep = [{"date": str((pd.Timestamp(r.date) + _SHIFT).date()), "total": r.total_sleep_h, "deep": r.deep_pct, "rem": r.rem_pct,
                   "light": r.light_pct, "awake_min": r.awake_min, "efficiency": r.sleep_efficiency}
                  for r in sl.itertuples()]
         cu = ps.cuff[(ps.cuff.hour >= lo) & (ps.cuff.hour < t)]
         cuff = [{"t": iso(r.hour), "hour": float(r.hour), "sbp": int(r.sbp), "dbp": int(r.dbp)} for r in cu.itertuples()]
         d0, d1 = lo // 24, (t - 1) // 24
-        doses = [{"date": (START + pd.Timedelta(days=int(d))).date().isoformat(), "taken": int(ps.dose[d]),
+        doses = [{"date": (START + _SHIFT + pd.Timedelta(days=int(d))).date().isoformat(), "taken": int(ps.dose[d]),
                   "visible": bool(d * 24 + 9 < t)} for d in range(d0, d1 + 1)]
         ev = ps.events
         truth = []

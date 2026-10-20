@@ -19,6 +19,14 @@ export default function App() {
   const [filter, setFilter] = useState<Tier | "all">("all");
   const [error, setError] = useState<string | null>(null);
   const [refresh, setRefresh] = useState(0);
+  const [fontPreset, setFontPreset] = useState<"modern" | "clinical" | "tech">(() => {
+    return (localStorage.getItem("ht_font_preset") as any) || "modern";
+  });
+
+  useEffect(() => {
+    document.documentElement.setAttribute("data-font", fontPreset);
+    localStorage.setItem("ht_font_preset", fontPreset);
+  }, [fontPreset]);
 
   useEffect(() => {
     api.health().then(h => { setNowHour(h.now_hour); setAt(h.now_hour); })
@@ -68,6 +76,11 @@ export default function App() {
             {([["twin", "Virtual patient"], ["live", "Live monitor"], ["records", "Health record"], ["evidence", "Model evidence"]] as const).map(([k, label]) => (
               <button key={k} role="tab" className="tab" aria-selected={view === k} onClick={() => setView(k)}>{label}</button>
             ))}
+          </div>
+          <div className="font-picker" title="Typography styling" role="radiogroup" aria-label="Font styling preset">
+            <button className="font-btn" aria-pressed={fontPreset === "modern"} onClick={() => setFontPreset("modern")} title="Modern Health (Outfit + Plus Jakarta Sans + JetBrains Mono)">Modern</button>
+            <button className="font-btn" aria-pressed={fontPreset === "clinical"} onClick={() => setFontPreset("clinical")} title="Clinical Sans (Plus Jakarta Sans + JetBrains Mono)">Clinical</button>
+            <button className="font-btn" aria-pressed={fontPreset === "tech"} onClick={() => setFontPreset("tech")} title="Neo-Tech (Space Grotesk + Plus Jakarta Sans)">Tech</button>
           </div>
           {nowHour != null && at != null && (
             <div className="clock">

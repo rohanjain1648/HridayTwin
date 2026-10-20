@@ -4,6 +4,7 @@ import {
 } from "lucide-react";
 import { Journey } from "./Journey";
 import { Dial, M, S, TwinCurve, pct, useTween } from "./visuals";
+import { myzennUrl } from "../myzenn";
 import "./landing.css";
 
 const REPO = "https://github.com/rohanjain1648/HridayTwin";
@@ -228,7 +229,12 @@ function Toolkit() {
             <ul>
               {g.items.map(([name, desc, tag]) => (
                 <li key={name}>
-                  <div><b>{name}</b><em>{tag}</em></div>
+                  <div>
+                    {myzennUrl(name)
+                      ? <a className="tk-link" href={myzennUrl(name)!} target="_blank" rel="noreferrer"><b>{name}</b> ↗</a>
+                      : <b>{name}</b>}
+                    <em>{tag}</em>
+                  </div>
                   <span>{desc}</span>
                 </li>
               ))}
@@ -280,7 +286,16 @@ function RealTime() {
 // ── Page ────────────────────────────────────────────────────────────────────
 export default function Landing() {
   const [scrolled, setScrolled] = useState(false);
+  const [fontPreset, setFontPreset] = useState<"modern" | "clinical" | "tech">(() => {
+    return (localStorage.getItem("ht_font_preset") as any) || "modern";
+  });
   const journeyRef = useRef<HTMLElement>(null);
+
+  useEffect(() => {
+    document.documentElement.setAttribute("data-font", fontPreset);
+    localStorage.setItem("ht_font_preset", fontPreset);
+  }, [fontPreset]);
+
   useEffect(() => {
     document.title = "HridayTwin, a hypertension digital twin";
     // The page renders after load, so the browser can't honour #section links on its own
@@ -306,6 +321,11 @@ export default function Landing() {
           <a href="#myzenn">MyZenn</a>
           <a href="#realtime">Real time</a>
         </nav>
+        <div className="lp-font-picker" title="Typography styling" role="radiogroup" aria-label="Font styling preset">
+          <button className="lp-font-btn" aria-pressed={fontPreset === "modern"} onClick={() => setFontPreset("modern")} title="Modern (Inter + Plus Jakarta Sans + JetBrains Mono)">Modern</button>
+          <button className="lp-font-btn" aria-pressed={fontPreset === "clinical"} onClick={() => setFontPreset("clinical")} title="Clinical (Pure Inter + JetBrains Mono)">Clinical</button>
+          <button className="lp-font-btn" aria-pressed={fontPreset === "tech"} onClick={() => setFontPreset("tech")} title="Tech (Outfit + Plus Jakarta Sans + JetBrains Mono)">Tech</button>
+        </div>
         <a className="lp-btn lp-btn-glow" href="/console">Open the console</a>
       </header>
 

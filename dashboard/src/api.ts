@@ -52,7 +52,13 @@ export interface SimResult {
   projection_before: Projection; projection_after: Projection;
 }
 
-export const START = new Date("2026-07-01T00:00:00");
+const SIM_START = new Date("2026-07-01T00:00:00");
+const SIM_END_DAY = new Date("2026-08-29T00:00:00"); // demo clock's day in the synthetic timeline
+// Show the synthetic timeline ending today, shifted by whole weeks so weekdays stay true
+// (mirrors _set_display_shift in twin_engine/service.py).
+const today = new Date(); today.setHours(0, 0, 0, 0);
+const shiftWeeks = Math.max(0, Math.floor(Math.round((today.getTime() - SIM_END_DAY.getTime()) / 86400_000) / 7));
+export const START = new Date(SIM_START.getTime() + shiftWeeks * 7 * 86400_000);
 export const hourToDate = (h: number) => new Date(START.getTime() + h * 3600_000);
 export const fmtHour = (h: number) =>
   hourToDate(h).toLocaleString("en-IN", { weekday: "short", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });

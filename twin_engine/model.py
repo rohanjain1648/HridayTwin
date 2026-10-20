@@ -1,4 +1,4 @@
-"""Risk engine: gradient-boosted trees with clinical monotonicity constraints + isotonic calibration."""
+"""Risk engine: gradient-boosted trees with clinical monotonicity constraints + Platt calibration."""
 
 from __future__ import annotations
 

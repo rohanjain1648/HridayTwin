@@ -13,28 +13,36 @@
 
 ---
 
-## Team
+## Team details
 
-| Role | Name | College / incubator | Email |
+**Team name:** AlphaGo
+**College / incubator:** Jadavpur University, Kolkata
+
+| Role | Name | Programme / department | Email |
 |---|---|---|---|
-| Team leader | [Name] | [College / incubator] | [email] |
-| Member | [Name] | [College / incubator] | [email] |
-| Member | [Name] | [College / incubator] | [email] |
-| Member | [Name] | [College / incubator] | [email] |
+| Team leader | [Name] | [Programme, department] | [email] |
+| Member | [Name] | [Programme, department] | [email] |
+| Member | [Name] | [Programme, department] | [email] |
+| Member | [Name] | [Programme, department] | [email] |
 
-Submission folder name: `[Team Name]_[College Name]`
+Submission folder name: `AlphaGo_Jadavpur University`
 
 ## Submission checklist
 
 | Item | Where |
 |---|---|
-| Project title | HridayTwin: a stress-aware digital twin for hypertension |
-| Problem statement and use case | [below](#problem-statement-and-healthcare-use-case) |
-| Technical stack and AI/ML details | [below](#technical-stack-and-aiml-model) |
-| Demo video (20+ min) | **[YouTube link — unlisted]** · script in [docs/VIDEO_SCRIPT.md](docs/VIDEO_SCRIPT.md) |
+| Team details | [Team details](#team-details): AlphaGo |
+| College / incubator information | Jadavpur University, Kolkata |
+| Project title | **HridayTwin: a stress-aware digital twin for hypertension** |
+| Problem statement | [Problem statement](#problem-statement-and-healthcare-use-case) |
+| Healthcare use case | [Use case](#problem-statement-and-healthcare-use-case): predict a hypertensive surge 24 h ahead |
+| Technical stack | [Technical stack](#technical-stack-and-aiml-model) |
+| AI/ML model or framework details | [AI/ML model](#the-hybrid-twin): LightGBM + Bayesian mechanistic twin + LinUCB bandit |
+| Demo video (20 min, unlisted YouTube) | **[YouTube link: to be added]** · script in [docs/VIDEO_SCRIPT.md](docs/VIDEO_SCRIPT.md) |
 | Open-source license | [MIT](LICENSE) |
-| Architecture diagram (PDF) | [docs/HridayTwin_Architecture.pdf](docs/HridayTwin_Architecture.pdf) |
-| Presentation (PPT) | [docs/HridayTwin_Presentation.pptx](docs/HridayTwin_Presentation.pptx) |
+| Architecture diagram (PDF) | [docs/HridayTwin_Diagrams.pdf](docs/HridayTwin_Diagrams.pdf) (8 diagrams) · one-page poster [docs/HridayTwin_Architecture.pdf](docs/HridayTwin_Architecture.pdf) |
+| Presentation (PPT/PDF) | [docs/HridayTwin_Presentation.pptx](docs/HridayTwin_Presentation.pptx) |
+| Public access | Repository is public; every file and link above opens without sign-in |
 
 ---
 
@@ -163,7 +171,23 @@ what a real clinic would get: sparse cuff readings, wearables, app logs and the 
 - **MySentinel** (`sentinel.py`): policy tiers (crisis → MySafe, high → clinician alert, medium → nudge) and a LinUCB bandit
   pre-trained in silico on 1,500 twin cases.
 
-![Architecture](docs/HridayTwin_Architecture.png)
+![Architecture](docs/diagrams/01_system_architecture.png)
+
+### Diagrams
+
+All eight are in one PDF, [docs/HridayTwin_Diagrams.pdf](docs/HridayTwin_Diagrams.pdf), and as separate PDF/PNG files in
+[docs/diagrams/](docs/diagrams/). They are generated with Graphviz by `python docs/make_diagrams.py`.
+
+| # | Diagram | Shows |
+|---|---|---|
+| 1 | [System architecture](docs/diagrams/01_system_architecture.pdf) | Data streams → hybrid twin engine → API, console and MyZenn |
+| 2 | [ML pipeline](docs/diagrams/02_ml_pipeline.pdf) | Simulator → features and labels → patient split → LightGBM → calibration → evaluation |
+| 3 | [Real-time flow](docs/diagrams/03_realtime_flow.pdf) | WebSocket replay, camera rPPG and Bluetooth into the live twin and MySentinel alerts |
+| 4 | [Hybrid twin and what-if](docs/diagrams/04_hybrid_twin_whatif.pdf) | Bayesian calibration, scenario propagation, ML re-scoring, ranked care plan |
+| 5 | [MySentinel decision flow](docs/diagrams/05_mysentinel_decision.pdf) | Crisis / high / elevated / stable tiers, cooldown, bandit, outcome feedback |
+| 6 | [Causal simulator](docs/diagrams/06_causal_simulator.pdf) | What causes each surge in the synthetic cohort, hidden versus observed |
+| 7 | [Clinician workflow](docs/diagrams/07_clinician_workflow.pdf) | Doctor, twin and patient lanes for one morning |
+| 8 | [Privacy and deployment](docs/diagrams/08_privacy_deployment.pdf) | What stays on the device, the server, the clinic; synthetic-only training |
 
 ---
 
@@ -236,7 +260,7 @@ api/                FastAPI app (serves the built console at /)
 dashboard/          React + TypeScript clinician console
 data/               generated synthetic EHR, streams and hidden ground truth
 artifacts/          trained model, calibrator, twin prior, bandit, metrics.json, plots
-docs/               architecture PDF/PNG, presentation PPTX, video script, ideation, screenshots
+docs/               diagrams (Graphviz PDF/PNG), presentation PPTX, video script, ideation, screenshots
 myzenn_reused/      MyZenn source files reused or ported (BLE hook, LinUCB, MyOracle, MySentinel plan, design system)
 tests/              pytest suite
 ```
@@ -250,8 +274,8 @@ tests/              pytest suite
 | `LinUCB.ts` / `useCompassRL.ts` (MyCompass) | Ported to Python as MySentinel's intervention bandit |
 | MySentinel proactive-intervention plan | Policy tiers, safety guardrails, reward design |
 | `useMoodForecaster.ts` (MyOracle) | Design basis for on-device forecasting and privacy boundary |
-| MySanctuary tools (MyBreath, MyBody, MyPeace, MyYoga) | The interventions the twin prescribes |
-| MySafe | Crisis escalation path |
+| MySanctuary tools (MyBreath, MyBody, MyPeace, MyYoga) | The interventions the twin prescribes; each care-plan item links to the live tool on [myzenn.com](https://www.myzenn.com) (for example [MyBreath](https://www.myzenn.com/mysanctuary/mybreath)) |
+| MySafe | Crisis escalation path; the crisis banner links to [MySafe](https://www.myzenn.com/mysafe) |
 | Design system (`theme.css`, MyZen teal) | Console visual language |
 
 ---
